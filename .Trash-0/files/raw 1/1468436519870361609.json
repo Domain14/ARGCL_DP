@@ -1,0 +1,239 @@
+{
+    "source": {
+        "content": "whenever i was upset about something - my dad used to say : ‘ the sun will still rise in the morning ' and he was right",
+        "time": "21-12-08 04:25",
+        "timestamp": 1638908723,
+        "tweet url": "https://twitter.com/SolBrah/status/1468436519870361609",
+        "user id": "SolBrah",
+        "tweet id": "1468436519870361609",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "justinsliao",
+            "tweet id": "1468436600304508930",
+            "content": "sol brah 's origin story",
+            "time": "21-12-08 04:25",
+            "timestamp": 1638908742
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "LLBCoolJ",
+            "tweet id": "1468557523682615301",
+            "content": "the sol will brah in the morning he would say",
+            "time": "21-12-08 12:26",
+            "timestamp": 1638937572
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "zerosoyman",
+            "tweet id": "1468437303580401669",
+            "content": "bad days just have to be endured",
+            "time": "21-12-08 04:28",
+            "timestamp": 1638908910
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "TayMar22",
+            "tweet id": "1468438155472695298",
+            "content": "\" this too shall pass \" is basically all life advice in one . taking this to the extreme is the idea that in the end , we 're all going to die , and in death , all of our problems will cease to exist . keeping this at the forefront makes it pretty tough to be upset by the trivial",
+            "time": "21-12-08 04:31",
+            "timestamp": 1638909113
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "pasturecraft",
+            "tweet id": "1468439040252735488",
+            "content": "' coffee still tastes good '",
+            "time": "21-12-08 04:35",
+            "timestamp": 1638909324
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "finding_johnny",
+            "tweet id": "1468441056119181313",
+            "content": "this ...",
+            "time": "21-12-08 04:43",
+            "timestamp": 1638909804
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "alvin_yakatori0",
+            "tweet id": "1468452621094506498",
+            "content": "sol pa",
+            "time": "21-12-08 05:29",
+            "timestamp": 1638912562
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "QueenSeraphine",
+            "tweet id": "1468524401238982666",
+            "content": "take that , <@user> !",
+            "time": "21-12-08 10:14",
+            "timestamp": 1638929675
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "btonpxok",
+            "tweet id": "1468538497023627267",
+            "content": "very wise your father",
+            "time": "21-12-08 11:10",
+            "timestamp": 1638933036
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "DreamBuilderAM",
+            "tweet id": "1468562323711348738",
+            "content": "when you 're upset , it means you 're resisting reality . allow yourself the moment and then stand up to find the solutions .",
+            "time": "21-12-08 12:45",
+            "timestamp": 1638938717
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "Sonnyshut",
+            "tweet id": "1468607046480277507",
+            "content": "what an origin story",
+            "time": "21-12-08 15:42",
+            "timestamp": 1638949379
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "DiemOptimus",
+            "tweet id": "1468622261599019012",
+            "content": "and the day it does n't ... it 'll be too late for it to matter . memento mori",
+            "time": "21-12-08 16:43",
+            "timestamp": 1638953007
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "KATATHEGREAT",
+            "tweet id": "1468637224501710851",
+            "content": "do n't let him found out about the uk",
+            "time": "21-12-08 17:42",
+            "timestamp": 1638956574
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "fearfulworld_",
+            "tweet id": "1468445117610610688",
+            "content": "<@user> ! ! !",
+            "time": "21-12-08 04:59",
+            "timestamp": 1638910773
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "Christi94539879",
+            "tweet id": "1468509831678025728",
+            "content": "this too shall pass",
+            "time": "21-12-08 09:16",
+            "timestamp": 1638926202
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905316840857267,
+            0.7071044445037842,
+            0.7071044445037842,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.004761904943734407,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

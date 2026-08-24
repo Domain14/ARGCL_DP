@@ -1,0 +1,237 @@
+{
+    "source": {
+        "content": ". <@user> <@user> <@user> <@user> <@user> <@user>",
+        "time": "22-06-01 09:29",
+        "timestamp": 1654046942,
+        "tweet url": "https://twitter.com/kodiak149/status/1531930814929321985",
+        "user id": "kodiak149",
+        "tweet id": "1531930814929321985",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "sumant_raturi",
+            "tweet id": "1531988746446438408",
+            "content": "so heartbreaking",
+            "time": "22-06-01 13:19",
+            "timestamp": 1654060754
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "libby31391283",
+            "tweet id": "1532038396406816769",
+            "content": "whoa ! ! that speaks volumes .",
+            "time": "22-06-01 16:36",
+            "timestamp": 1654072592
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "Msdesignerlady",
+            "tweet id": "1532063984060596224",
+            "content": "omg !",
+            "time": "22-06-01 18:18",
+            "timestamp": 1654078692
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "vinifra2",
+            "tweet id": "1550883159176228865",
+            "content": "get 2 or more coffins get 50 % off . enter code : vanky",
+            "time": "22-07-23 16:38",
+            "timestamp": 1658565533
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "SWFloridaboater",
+            "tweet id": "1553429996844290050",
+            "content": "gop : tax free holiday .",
+            "time": "22-07-30 17:19",
+            "timestamp": 1659172747
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "OPruntyPoetess",
+            "tweet id": "1553727931314315264",
+            "content": "a horrific truth .",
+            "time": "22-07-31 13:03",
+            "timestamp": 1659243780
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "gibbee1",
+            "tweet id": "1559893074234441730",
+            "content": "do not send your children back into school . its not safe",
+            "time": "22-08-17 13:21",
+            "timestamp": 1660713664
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Mattengel09",
+            "tweet id": "1566806067509661696",
+            "content": "ouch ...",
+            "time": "22-09-05 15:10",
+            "timestamp": 1662361851
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "MrGone66",
+            "tweet id": "1567642897633386497",
+            "content": "sad , not funny",
+            "time": "22-09-07 22:36",
+            "timestamp": 1662561366
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "Amadii",
+            "tweet id": "1532130709451808768",
+            "content": "this country is barbaric ...",
+            "time": "22-06-01 22:43",
+            "timestamp": 1654094601
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "StacyDAlessand3",
+            "tweet id": "1549030724707172352",
+            "content": "this is horrific",
+            "time": "22-07-18 13:57",
+            "timestamp": 1658123879
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "jeannettecutne2",
+            "tweet id": "1561406311501246464",
+            "content": "actually , and i 'm sorry i know this , but children 's coffins are much smaller .",
+            "time": "22-08-21 17:34",
+            "timestamp": 1661074448
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "MNajeddine",
+            "tweet id": "1566429658761011200",
+            "content": "abbott is only one of the slim who do n't want to sensible gun control .",
+            "time": "22-09-04 14:15",
+            "timestamp": 1662272108
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "firefang78",
+            "tweet id": "1561402792924815363",
+            "content": "jeesuz ... hits home .",
+            "time": "22-08-21 17:20",
+            "timestamp": 1661073609
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "LacyLove2020",
+            "tweet id": "1534660553670631426",
+            "content": "wow",
+            "time": "22-06-08 22:16",
+            "timestamp": 1654697763
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

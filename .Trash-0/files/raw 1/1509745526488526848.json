@@ -1,0 +1,1521 @@
+{
+    "source": {
+        "content": "how did i miss this ? !",
+        "time": "22-04-01 04:12",
+        "timestamp": 1648757557,
+        "tweet url": "https://twitter.com/MsArielKnox/status/1509745526488526848",
+        "user id": "MsArielKnox",
+        "tweet id": "1509745526488526848",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1512129780694413312",
+            "content": "credit : <url>",
+            "time": "22-04-07 18:06",
+            "timestamp": 1649326008
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "saurabhnow",
+            "tweet id": "1509806271649783810",
+            "content": "because it 's fake .",
+            "time": "22-04-01 08:14",
+            "timestamp": 1648772040
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1509820487693570048",
+            "content": "aw , man . really ?",
+            "time": "22-04-01 09:10",
+            "timestamp": 1648775430
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "SvenskaFlicka29",
+            "tweet id": "1509873199655407642",
+            "content": "yes . delete it",
+            "time": "22-04-01 12:39",
+            "timestamp": 1648787997
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "ykalon",
+            "tweet id": "1509976674967986183",
+            "content": "check the calendar . this day you should expect to be fooled",
+            "time": "22-04-01 19:31",
+            "timestamp": 1648812667
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6,
+                8
+            ],
+            "user id": "MrsRobPope",
+            "tweet id": "1509849889206902788",
+            "content": "i checked his timeline and this does n't exist .",
+            "time": "22-04-01 11:07",
+            "timestamp": 1648782439
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1509939283037020169",
+            "content": "i should have done that",
+            "time": "22-04-01 17:02",
+            "timestamp": 1648803753
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "dubbow2",
+            "tweet id": "1509992650900148224",
+            "content": "all good , ms ariel . good laugh but wish it was a real tweet .",
+            "time": "22-04-01 20:34",
+            "timestamp": 1648816476
+        },
+        {
+            "comment id": 8,
+            "parent": 5,
+            "children": [],
+            "user id": "LrRoss99",
+            "tweet id": "1509983339960184838",
+            "content": "it 's april fool 's day today . it 's a joke !",
+            "time": "22-04-01 19:57",
+            "timestamp": 1648814257
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10,
+                12,
+                14,
+                18,
+                19,
+                20,
+                21,
+                22,
+                25,
+                26
+            ],
+            "user id": "trueJamesMiller",
+            "tweet id": "1509996072898207744",
+            "content": "if you believe a simple graphic like this , just stay away from the internet for the sake of humanity . always insist on seeing the original source . a cite to a tweet should be hyperlinked to the tweet itself .",
+            "time": "22-04-01 20:48",
+            "timestamp": 1648817292
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510008834428874753",
+            "content": "you 're completely ignoring the date on the calendar and that many screenshots are shared without links when the poster does n't want to give traffic to the op .",
+            "time": "22-04-01 21:38",
+            "timestamp": 1648820335
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "trueJamesMiller",
+            "tweet id": "1510010567540371459",
+            "content": "political trumpist fakes like this appear every day , not just today . so april fool is no excuse . most republicans still believe that trump is still president . so everyday is april fool to them . best not to feed that conspiracy cult , and just stay away from political fakes .",
+            "time": "22-04-01 21:45",
+            "timestamp": 1648820748
+        },
+        {
+            "comment id": 12,
+            "parent": 9,
+            "children": [
+                13
+            ],
+            "user id": "bigsecksa",
+            "tweet id": "1510293784072015874",
+            "content": "you left this up ?",
+            "time": "22-04-02 16:31",
+            "timestamp": 1648888272
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "trueJamesMiller",
+            "tweet id": "1510908817269092352",
+            "content": "everyday is april fool in trump 's land .",
+            "time": "22-04-04 09:15",
+            "timestamp": 1649034908
+        },
+        {
+            "comment id": 14,
+            "parent": 9,
+            "children": [
+                15
+            ],
+            "user id": "cynnycyn",
+            "tweet id": "1510005998395744269",
+            "content": "dude , lol . no one but \" simple \" minds such as yours took this as anything but what it is - an april fool 's joke .",
+            "time": "22-04-01 21:27",
+            "timestamp": 1648819659
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16,
+                17
+            ],
+            "user id": "trueJamesMiller",
+            "tweet id": "1510008370618519554",
+            "content": "the trump era has been a years-long april fool , except it 's not a joke because it kills and destroys our democracy and it 's still on going , evidenced by today 's republican party .",
+            "time": "22-04-01 21:37",
+            "timestamp": 1648820224
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "cynnycyn",
+            "tweet id": "1510041909410074627",
+            "content": "lighten up , captain obvious .",
+            "time": "22-04-01 23:50",
+            "timestamp": 1648828221
+        },
+        {
+            "comment id": 17,
+            "parent": 15,
+            "children": [],
+            "user id": "mzkaye1018",
+            "tweet id": "1510129744406188041",
+            "content": "i hear ya james ... do n't take it personally ... and stick to your convictions ... just becuz it 's was april fools day ... did not make it funny ...",
+            "time": "22-04-02 05:39",
+            "timestamp": 1648849162
+        },
+        {
+            "comment id": 18,
+            "parent": 9,
+            "children": [],
+            "user id": "khaleesi_atreyu",
+            "tweet id": "1510015588613046272",
+            "content": "april 's fools day",
+            "time": "22-04-01 22:05",
+            "timestamp": 1648821945
+        },
+        {
+            "comment id": 19,
+            "parent": 9,
+            "children": [],
+            "user id": "lisekimhorton",
+            "tweet id": "1510042081837912074",
+            "content": "james , it 's april fools .",
+            "time": "22-04-01 23:51",
+            "timestamp": 1648828262
+        },
+        {
+            "comment id": 20,
+            "parent": 9,
+            "children": [],
+            "user id": "itskbw",
+            "tweet id": "1510063816234737666",
+            "content": "calm down james",
+            "time": "22-04-02 01:17",
+            "timestamp": 1648833444
+        },
+        {
+            "comment id": 21,
+            "parent": 9,
+            "children": [],
+            "user id": "adajraven",
+            "tweet id": "1510095010926149635",
+            "content": "i really do n't care if it 's real , it 's brilliant .",
+            "time": "22-04-02 03:21",
+            "timestamp": 1648840881
+        },
+        {
+            "comment id": 22,
+            "parent": 9,
+            "children": [
+                23
+            ],
+            "user id": "GibbleFenwick",
+            "tweet id": "1510109970645549061",
+            "content": "if you get worked up by a funny joke like this , just stay away from the internet , for the sake of your own blood pressure .",
+            "time": "22-04-02 04:20",
+            "timestamp": 1648844448
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [
+                24
+            ],
+            "user id": "trueJamesMiller",
+            "tweet id": "1510263648974823424",
+            "content": "it 's not funny . it 's just fake news .",
+            "time": "22-04-02 14:31",
+            "timestamp": 1648881087
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "FoolzCluez",
+            "tweet id": "1510763377374732302",
+            "content": "it 's only fake news if you 're stupid enough to get your news from twitter and it 's pretty funny .",
+            "time": "22-04-03 23:37",
+            "timestamp": 1649000232
+        },
+        {
+            "comment id": 25,
+            "parent": 9,
+            "children": [],
+            "user id": "TestimoniToni",
+            "tweet id": "1510278183693611008",
+            "content": "it was april fool 's day",
+            "time": "22-04-02 15:29",
+            "timestamp": 1648884553
+        },
+        {
+            "comment id": 26,
+            "parent": 9,
+            "children": [],
+            "user id": "ImYourTrigger",
+            "tweet id": "1510020399156776962",
+            "content": "you must be fun at parties .",
+            "time": "22-04-01 22:24",
+            "timestamp": 1648823092
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                28,
+                31
+            ],
+            "user id": "JennieJareth",
+            "tweet id": "1509998005511852032",
+            "content": "have you seen his episode of between two ferns ?",
+            "time": "22-04-01 20:55",
+            "timestamp": 1648817753
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [
+                29,
+                30
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1509999594842705923",
+            "content": "no , should i ?",
+            "time": "22-04-01 21:02",
+            "timestamp": 1648818132
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "momma182",
+            "tweet id": "1509999709217345538",
+            "content": "definitely . it 's hilarious .",
+            "time": "22-04-01 21:02",
+            "timestamp": 1648818159
+        },
+        {
+            "comment id": 30,
+            "parent": 28,
+            "children": [],
+            "user id": "K_E_Donahue",
+            "tweet id": "1510014035915276291",
+            "content": "yes !",
+            "time": "22-04-01 21:59",
+            "timestamp": 1648821575
+        },
+        {
+            "comment id": 31,
+            "parent": 27,
+            "children": [],
+            "user id": "Devout_Atheist_",
+            "tweet id": "1517050917350424577",
+            "content": "i just watched it . comedy gold",
+            "time": "22-04-21 08:01",
+            "timestamp": 1650499298
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "user id": "c_james_",
+            "tweet id": "1510001040510398468",
+            "content": "it ain't real .",
+            "time": "22-04-01 21:07",
+            "timestamp": 1648818477
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510012270008430594",
+            "content": "it 's april 1st",
+            "time": "22-04-01 21:52",
+            "timestamp": 1648821154
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [
+                35
+            ],
+            "user id": "cindycd2010",
+            "tweet id": "1510001122173505542",
+            "content": "its fake .",
+            "time": "22-04-01 21:08",
+            "timestamp": 1648818496
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510012113464422400",
+            "content": "it 's also april 1st",
+            "time": "22-04-01 21:51",
+            "timestamp": 1648821117
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "ShashaVirginia",
+            "tweet id": "1510003309310095362",
+            "content": "i 'm sure it 's an april fools joke . but it 's good",
+            "time": "22-04-01 21:16",
+            "timestamp": 1648819018
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [
+                38
+            ],
+            "user id": "unklelouie1",
+            "tweet id": "1510004465797152779",
+            "content": "because it 's fake",
+            "time": "22-04-01 21:21",
+            "timestamp": 1648819293
+        },
+        {
+            "comment id": 38,
+            "parent": 37,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510009454019813380",
+            "content": "hi there . today is the first day of april .",
+            "time": "22-04-01 21:41",
+            "timestamp": 1648820483
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [
+                40
+            ],
+            "user id": "louis_amyot",
+            "tweet id": "1510006050770018320",
+            "content": "it 's fake",
+            "time": "22-04-01 21:27",
+            "timestamp": 1648819671
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510008616811606018",
+            "content": "hey , i abided by the april fool 's rules .",
+            "time": "22-04-01 21:38",
+            "timestamp": 1648820283
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "KerriTerry24",
+            "tweet id": "1510006735016239110",
+            "content": "best april fools post i 've seen",
+            "time": "22-04-01 21:30",
+            "timestamp": 1648819834
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                43
+            ],
+            "user id": "DrCNMcKenzie",
+            "tweet id": "1510006751860510737",
+            "content": "is this for real ?",
+            "time": "22-04-01 21:30",
+            "timestamp": 1648819838
+        },
+        {
+            "comment id": 43,
+            "parent": 42,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510007823673233408",
+            "content": "your calendar holds the answer .",
+            "time": "22-04-01 21:34",
+            "timestamp": 1648820094
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [
+                45
+            ],
+            "user id": "KateRothwell",
+            "tweet id": "1510007088130494466",
+            "content": "because it 's not really something he posted . damn .",
+            "time": "22-04-01 21:31",
+            "timestamp": 1648819919
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [
+                46
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510007701664768008",
+            "content": "ahem . check your calendar .",
+            "time": "22-04-01 21:34",
+            "timestamp": 1648820065
+        },
+        {
+            "comment id": 46,
+            "parent": 45,
+            "children": [],
+            "user id": "KateRothwell",
+            "tweet id": "1510011465520099330",
+            "content": "you did that ? ! ? ! ? ! ? i am impressed . you could be a obama translator",
+            "time": "22-04-01 21:49",
+            "timestamp": 1648820962
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [
+                48,
+                50
+            ],
+            "user id": "jd1202nj",
+            "tweet id": "1510011616854777869",
+            "content": "this one made the rounds as well . i would have loved it if he had actually tweeted it !",
+            "time": "22-04-01 21:49",
+            "timestamp": 1648820998
+        },
+        {
+            "comment id": 48,
+            "parent": 47,
+            "children": [
+                49
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510013045291974657",
+            "content": "love it !",
+            "time": "22-04-01 21:55",
+            "timestamp": 1648821339
+        },
+        {
+            "comment id": 49,
+            "parent": 48,
+            "children": [],
+            "user id": "jd1202nj",
+            "tweet id": "1510050306280902662",
+            "content": "anyway , tfg 's birth certificate is straight up 1930 ' s germany .",
+            "time": "22-04-02 00:23",
+            "timestamp": 1648830223
+        },
+        {
+            "comment id": 50,
+            "parent": 47,
+            "children": [],
+            "user id": "DianeTr19867994",
+            "tweet id": "1510017925343854600",
+            "content": "love it ! happy april fools day !",
+            "time": "22-04-01 22:15",
+            "timestamp": 1648822502
+        },
+        {
+            "comment id": 51,
+            "parent": -1,
+            "children": [
+                52
+            ],
+            "user id": "chriswilmoth",
+            "tweet id": "1510011955439882255",
+            "content": "lol i trust nothing and no one today",
+            "time": "22-04-01 21:51",
+            "timestamp": 1648821079
+        },
+        {
+            "comment id": 52,
+            "parent": 51,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510012695143084034",
+            "content": "proper attitude .",
+            "time": "22-04-01 21:54",
+            "timestamp": 1648821255
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [
+                54
+            ],
+            "user id": "MacleanMarvin",
+            "tweet id": "1510012121848827907",
+            "content": "comedy may not be a viable career choice ... the joke is late and lame .",
+            "time": "22-04-01 21:51",
+            "timestamp": 1648821119
+        },
+        {
+            "comment id": 54,
+            "parent": 53,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510012592063848449",
+            "content": "my calendar says it 's still april 1st",
+            "time": "22-04-01 21:53",
+            "timestamp": 1648821231
+        },
+        {
+            "comment id": 55,
+            "parent": -1,
+            "children": [
+                56
+            ],
+            "user id": "shanny2137",
+            "tweet id": "1510014647759474691",
+            "content": "it is fake",
+            "time": "22-04-01 22:02",
+            "timestamp": 1648821721
+        },
+        {
+            "comment id": 56,
+            "parent": 55,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510015210433945601",
+            "content": "it is also april 1st",
+            "time": "22-04-01 22:04",
+            "timestamp": 1648821855
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [],
+            "user id": "dayoopsdabest",
+            "tweet id": "1510017188043837449",
+            "content": "i have something to say - april fools ! ! ! c'mon people-laugh ! ! it 's funny ! ! !",
+            "time": "22-04-01 22:12",
+            "timestamp": 1648822327
+        },
+        {
+            "comment id": 58,
+            "parent": -1,
+            "children": [
+                59
+            ],
+            "user id": "SpunkyButtmunch",
+            "tweet id": "1510026432008925186",
+            "content": "this screenshot is fake . i 'm not the first to point that out ...",
+            "time": "22-04-01 22:48",
+            "timestamp": 1648824530
+        },
+        {
+            "comment id": 59,
+            "parent": 58,
+            "children": [
+                60
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510026864080789504",
+            "content": "did you miss all the \" check your calendar \" responses ?",
+            "time": "22-04-01 22:50",
+            "timestamp": 1648824633
+        },
+        {
+            "comment id": 60,
+            "parent": 59,
+            "children": [],
+            "user id": "SpunkyButtmunch",
+            "tweet id": "1510027472502415365",
+            "content": "i did a few .. but come on ... ya should have said it in the header . more than a few are taking it at face value .. perhaps it 's them you should be scolding ?",
+            "time": "22-04-01 22:52",
+            "timestamp": 1648824779
+        },
+        {
+            "comment id": 61,
+            "parent": -1,
+            "children": [
+                62
+            ],
+            "user id": "ChelaScribe",
+            "tweet id": "1510033449603645440",
+            "content": "this is fake . check his twitter feed ; he made four posts on march 16 , about ncaa basketball , ukraine , a russian newscaster who protested on air and no-fly zones .",
+            "time": "22-04-01 23:16",
+            "timestamp": 1648826204
+        },
+        {
+            "comment id": 62,
+            "parent": 61,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510034096617009157",
+            "content": "psst , check your calendar ;)",
+            "time": "22-04-01 23:19",
+            "timestamp": 1648826358
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [
+                64
+            ],
+            "user id": "2nedbeatty",
+            "tweet id": "1510037446058078211",
+            "content": "april fools ! ( a little early ) you got me !",
+            "time": "22-04-01 23:32",
+            "timestamp": 1648827156
+        },
+        {
+            "comment id": 64,
+            "parent": 63,
+            "children": [
+                65
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510038431178534917",
+            "content": "hey , it was april 1st est when i posted .",
+            "time": "22-04-01 23:36",
+            "timestamp": 1648827391
+        },
+        {
+            "comment id": 65,
+            "parent": 64,
+            "children": [],
+            "user id": "2nedbeatty",
+            "tweet id": "1510055913905786886",
+            "content": "ok you got me again ! lol !",
+            "time": "22-04-02 00:46",
+            "timestamp": 1648831560
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [],
+            "user id": "smilingoutloud2",
+            "tweet id": "1510037448071520261",
+            "content": "is this real ?",
+            "time": "22-04-01 23:32",
+            "timestamp": 1648827157
+        },
+        {
+            "comment id": 67,
+            "parent": -1,
+            "children": [
+                68
+            ],
+            "user id": "tnocrane68",
+            "tweet id": "1510067774403620870",
+            "content": "idk ... does n't sound like president obama . can you prove this was posted by him ?",
+            "time": "22-04-02 01:33",
+            "timestamp": 1648834387
+        },
+        {
+            "comment id": 68,
+            "parent": 67,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510069621252001793",
+            "content": "psst , the answer you seek is on your calendar .",
+            "time": "22-04-02 01:40",
+            "timestamp": 1648834828
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [
+                70
+            ],
+            "user id": "mdtsports",
+            "tweet id": "1510070930084560898",
+            "content": "nice - but you missed it as it 's fake . check his actual feed",
+            "time": "22-04-02 01:45",
+            "timestamp": 1648835140
+        },
+        {
+            "comment id": 70,
+            "parent": 69,
+            "children": [
+                71
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510083255877332997",
+            "content": "i posted it right after midnight est on april 1st , actually .",
+            "time": "22-04-02 02:34",
+            "timestamp": 1648838078
+        },
+        {
+            "comment id": 71,
+            "parent": 70,
+            "children": [],
+            "user id": "mdtsports",
+            "tweet id": "1510088909815832580",
+            "content": "ya got me ! !",
+            "time": "22-04-02 02:57",
+            "timestamp": 1648839426
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [
+                73
+            ],
+            "user id": "PittaMan",
+            "tweet id": "1510071663710269443",
+            "content": "it 's not real . do n't belive screenshots . go find the tweet .",
+            "time": "22-04-02 01:48",
+            "timestamp": 1648835315
+        },
+        {
+            "comment id": 73,
+            "parent": 72,
+            "children": [
+                74
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510083094576971782",
+            "content": "shorter version : it 's april 1st .",
+            "time": "22-04-02 02:34",
+            "timestamp": 1648838040
+        },
+        {
+            "comment id": 74,
+            "parent": 73,
+            "children": [],
+            "user id": "PittaMan",
+            "tweet id": "1510083293164695552",
+            "content": "fuck i hate today . egg on my face .",
+            "time": "22-04-02 02:34",
+            "timestamp": 1648838087
+        },
+        {
+            "comment id": 75,
+            "parent": -1,
+            "children": [
+                76
+            ],
+            "user id": "NJgal4lyfe",
+            "tweet id": "1510073259815059457",
+            "content": "i could n't find this on his timeline ... was really hoping it was real so i could retweet the hell out of it ... lol",
+            "time": "22-04-02 01:54",
+            "timestamp": 1648835695
+        },
+        {
+            "comment id": 76,
+            "parent": 75,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510082154625048589",
+            "content": "today 's the one day of the year when we can post such things . enjoy it !",
+            "time": "22-04-02 02:30",
+            "timestamp": 1648837816
+        },
+        {
+            "comment id": 77,
+            "parent": -1,
+            "children": [
+                78
+            ],
+            "user id": "Paul34853253",
+            "tweet id": "1510079080447848451",
+            "content": "lol that 's not real ... do n't be spreading false information",
+            "time": "22-04-02 02:18",
+            "timestamp": 1648837083
+        },
+        {
+            "comment id": 78,
+            "parent": 77,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510080570100903939",
+            "content": "come on , man , it 's april 1st . the one day of the year it 's allowed .",
+            "time": "22-04-02 02:23",
+            "timestamp": 1648837438
+        },
+        {
+            "comment id": 79,
+            "parent": -1,
+            "children": [],
+            "user id": "laseptiemewilay",
+            "tweet id": "1510080845557776388",
+            "content": "is this a real tweet ?",
+            "time": "22-04-02 02:25",
+            "timestamp": 1648837504
+        },
+        {
+            "comment id": 80,
+            "parent": -1,
+            "children": [],
+            "user id": "marilyncole5",
+            "tweet id": "1510084279434420226",
+            "content": "sounds like a desperate attempt to deflect by whoever writes his tweets .",
+            "time": "22-04-02 02:38",
+            "timestamp": 1648838322
+        },
+        {
+            "comment id": 81,
+            "parent": -1,
+            "children": [
+                82
+            ],
+            "user id": "StephanDuchemin",
+            "tweet id": "1510085021281001472",
+            "content": "me too , when all i have to say is stupid , i always pull a debauchery joke meme , just to make me look cool .",
+            "time": "22-04-02 02:41",
+            "timestamp": 1648838499
+        },
+        {
+            "comment id": 82,
+            "parent": 81,
+            "children": [
+                83
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510085380204220419",
+            "content": "you forgot the meme .",
+            "time": "22-04-02 02:43",
+            "timestamp": 1648838585
+        },
+        {
+            "comment id": 83,
+            "parent": 82,
+            "children": [],
+            "user id": "StephanDuchemin",
+            "tweet id": "1510098778124136450",
+            "content": "exactly",
+            "time": "22-04-02 03:36",
+            "timestamp": 1648841779
+        },
+        {
+            "comment id": 84,
+            "parent": -1,
+            "children": [],
+            "user id": "pogue25",
+            "tweet id": "1510099044709900293",
+            "content": "unfortunately , i was unable to find any evidence <@user> ever said this . during his entire time on twitter , since march 2007 , obama has only mentioned trump once - in 2012 . <url> ...",
+            "time": "22-04-02 03:37",
+            "timestamp": 1648841843
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [
+                86
+            ],
+            "user id": "eVictoryBot",
+            "tweet id": "1510101681651941381",
+            "content": "congratulations <@user> , you 've won the internet today ! you were nominated by <@user> .",
+            "time": "22-04-02 03:47",
+            "timestamp": 1648842471
+        },
+        {
+            "comment id": 86,
+            "parent": 85,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510101955183472646",
+            "content": "well , that gets andrew a follow .",
+            "time": "22-04-02 03:48",
+            "timestamp": 1648842537
+        },
+        {
+            "comment id": 87,
+            "parent": -1,
+            "children": [],
+            "user id": "t_toronto",
+            "tweet id": "1510252529837297669",
+            "content": "as funny and fitting as this may be , it is a fake and i am impressed with how many people actually went through the trouble to investigate it . i wonder how many mega supporters do a fact check on what they read ?",
+            "time": "22-04-02 13:47",
+            "timestamp": 1648878436
+        },
+        {
+            "comment id": 88,
+            "parent": -1,
+            "children": [
+                89
+            ],
+            "user id": "DreamingDrama_",
+            "tweet id": "1510630625078046726",
+            "content": "passing this off as factual quote becomes perpetuated as a fact and irresponsible .",
+            "time": "22-04-03 14:49",
+            "timestamp": 1648968581
+        },
+        {
+            "comment id": 89,
+            "parent": 88,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1510662305071083520",
+            "content": "come on , it was april fool 's !",
+            "time": "22-04-03 16:55",
+            "timestamp": 1648976134
+        },
+        {
+            "comment id": 90,
+            "parent": -1,
+            "children": [
+                91
+            ],
+            "user id": "DavewithTurbos",
+            "tweet id": "1510663488519086084",
+            "content": "you mean this tweet that is faked ?",
+            "time": "22-04-03 17:00",
+            "timestamp": 1648976417
+        },
+        {
+            "comment id": 91,
+            "parent": 90,
+            "children": [
+                92
+            ],
+            "user id": "MsArielKnox",
+            "tweet id": "1510672506343997442",
+            "content": "yes , dave , this april fool 's tweet that was post on april fool 's day .",
+            "time": "22-04-03 17:36",
+            "timestamp": 1648978567
+        },
+        {
+            "comment id": 92,
+            "parent": 91,
+            "children": [],
+            "user id": "DavewithTurbos",
+            "tweet id": "1510674698303987714",
+            "content": "oh duh ! ! ! lol",
+            "time": "22-04-03 17:44",
+            "timestamp": 1648979089
+        },
+        {
+            "comment id": 93,
+            "parent": -1,
+            "children": [
+                94
+            ],
+            "user id": "OfficeSloth1",
+            "tweet id": "1511350151880880136",
+            "content": "that 's funny",
+            "time": "22-04-05 14:28",
+            "timestamp": 1649140130
+        },
+        {
+            "comment id": 94,
+            "parent": 93,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1511572744206311428",
+            "content": "i certainly thought so .",
+            "time": "22-04-06 05:13",
+            "timestamp": 1649193200
+        },
+        {
+            "comment id": 95,
+            "parent": -1,
+            "children": [
+                96
+            ],
+            "user id": "tjlong63",
+            "tweet id": "1512815580948140042",
+            "content": "we missed it because it 's not on obama 's official page . i like the fake tweet anyway .",
+            "time": "22-04-09 15:31",
+            "timestamp": 1649489515
+        },
+        {
+            "comment id": 96,
+            "parent": 95,
+            "children": [],
+            "user id": "MsArielKnox",
+            "tweet id": "1512855866713595905",
+            "content": "yeah , i stumbled across the meme just in time for april fool 's .",
+            "time": "22-04-09 18:12",
+            "timestamp": 1649499120
+        },
+        {
+            "comment id": 97,
+            "parent": -1,
+            "children": [
+                98
+            ],
+            "user id": "pudy221",
+            "tweet id": "1513281281685176321",
+            "content": "i love this . i do n't care if it 's fake .",
+            "time": "22-04-10 22:22",
+            "timestamp": 1649600547
+        },
+        {
+            "comment id": 98,
+            "parent": 97,
+            "children": [],
+            "user id": "VeganKitty2",
+            "tweet id": "1571621020792139777",
+            "content": "me too !",
+            "time": "22-09-18 22:03",
+            "timestamp": 1663509825
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            10.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.00041434841114096344,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            1.6997735656332225e-05,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            1.7324504369753413e-05,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.6249641987542418e-07,
+            1.6249641987542418e-07,
+            0.0017786858370527625,
+            0.00287797418422997,
+            0.00287797418422997,
+            0.0017786858370527625,
+            0.00287797418422997,
+            0.00287797418422997,
+            0.0017786858370527625,
+            0.0017786858370527625,
+            0.6877768635749817,
+            0.23520642518997192,
+            0.07253694534301758,
+            0.23520642518997192,
+            0.07253694534301758,
+            0.24288730323314667,
+            0.09483340382575989,
+            0.03010067529976368,
+            0.03010067529976368,
+            0.21278679370880127,
+            0.21278679370880127,
+            0.21278679370880127,
+            0.21278679370880127,
+            0.23825973272323608,
+            0.08166095614433289,
+            0.025473102927207947,
+            0.21278679370880127,
+            0.21278679370880127,
+            0.006077528931200504,
+            0.007932913489639759,
+            0.0042915306985378265,
+            0.0042915306985378265,
+            0.003292340086773038,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            1.6249641987542418e-07,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            1.6249641987542418e-07,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            0.00287797418422997,
+            0.00287797418422997,
+            0.0017786858370527625,
+            0.0017786858370527625,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            1.6249641987542418e-07,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            1.6249641987542418e-07,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            1.6249641987542418e-07,
+            1.6249641987542418e-07,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            1.6249641987542418e-07,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            1.6249641987542418e-07,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.0009328919695690274,
+            0.0013193085324019194,
+            0.0009328919695690274,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436,
+            0.00016639633395243436
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0003092146071139723,
+            0.0004122861137147993,
+            0.0003092146071139723,
+            1.0000000168623835e-16,
+            0.0003092146071139723,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.001752216019667685,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.0006184292142279446,
+            0.0006184292142279446,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004122861137147993,
+            0.0003092146071139723,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004122861137147993,
+            0.0004122861137147993,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.0003092146071139723,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00020614305685739964,
+            0.00020614305685739964,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16,
+            0.00010307152842869982,
+            1.0000000168623835e-16
+        ]
+    }
+}

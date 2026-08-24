@@ -1,0 +1,221 @@
+{
+    "source": {
+        "content": "i live for the good and kindness in the world . i try to create it wherever i go . i appreciate every positive interaction and person .",
+        "time": "21-10-01 11:30",
+        "timestamp": 1633059038,
+        "tweet url": "https://twitter.com/Mel_Edwards/status/1443901163661840386",
+        "user id": "Mel_Edwards",
+        "tweet id": "1443901163661840386",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "corbitt_randy",
+            "tweet id": "1552092976373010432",
+            "content": "i do my best . sometimes it 's not easy . i take a breathe and keep moving forward . i can't stop the negativity others spread . but i can stop at being a part of it .",
+            "time": "22-07-27 00:46",
+            "timestamp": 1658853976
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "Mel_Edwards",
+            "tweet id": "1552093728357208064",
+            "content": "that 's all we can do , step out of the negativity and keep going .",
+            "time": "22-07-27 00:49",
+            "timestamp": 1658854156
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "Andre1Bernier",
+            "tweet id": "1560974490410139648",
+            "content": "fb please",
+            "time": "22-08-20 12:58",
+            "timestamp": 1660971494
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "Mel_Edwards",
+            "tweet id": "1560974910863859712",
+            "content": "dude , give folks a hot minute with the follow back request , please .",
+            "time": "22-08-20 12:59",
+            "timestamp": 1660971594
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "MichaelLadd314",
+            "tweet id": "1562609091079708673",
+            "content": "thanks for the follow . followed you back !",
+            "time": "22-08-25 01:13",
+            "timestamp": 1661361213
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "Mel_Edwards",
+            "tweet id": "1562609487717945344",
+            "content": "you 're welcome . nice to meet you .",
+            "time": "22-08-25 01:15",
+            "timestamp": 1661361308
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "suzyinthesun_s",
+            "tweet id": "1566454403737042944",
+            "content": "my favorite personal bio quote so far ! followed .",
+            "time": "22-09-04 15:53",
+            "timestamp": 1662278007
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "Mel_Edwards",
+            "tweet id": "1566456152191287296",
+            "content": "thank you for the follow . i appreciate it and look forward to getting to know you better .",
+            "time": "22-09-04 16:00",
+            "timestamp": 1662278424
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "LempaAnne",
+            "tweet id": "1561156331851096065",
+            "content": "",
+            "time": "22-08-21 01:00",
+            "timestamp": 1661014849
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "tek_sidhu",
+            "tweet id": "1515148379877441536",
+            "content": "please follow back .",
+            "time": "22-04-16 02:01",
+            "timestamp": 1650045698
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "Mel_Edwards",
+            "tweet id": "1515327436019355659",
+            "content": "i can not at this time due to twitter policy . i need more followers first .",
+            "time": "22-04-16 13:53",
+            "timestamp": 1650088388
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "tek_sidhu",
+            "tweet id": "1515498297158701058",
+            "content": "please take your time .",
+            "time": "22-04-17 01:12",
+            "timestamp": 1650129125
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "cjoneshead",
+            "tweet id": "1577004780529995776",
+            "content": "8095 ! please follow back !",
+            "time": "22-10-03 18:36",
+            "timestamp": 1664793413
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            9.200152861765787e-10,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            9.200152861765787e-10,
+            0.499880850315094,
+            0.7069382667541504,
+            0.499880850315094,
+            9.200152861765787e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.012820512987673283,
+            0.012820512987673283,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

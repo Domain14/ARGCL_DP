@@ -1,0 +1,327 @@
+{
+    "source": {
+        "content": "",
+        "time": "20-12-22 19:36",
+        "timestamp": 1608636995,
+        "tweet url": "https://twitter.com/uflo5/status/1341467691362693121",
+        "user id": "uflo5",
+        "tweet id": "1341467691362693121",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "AnnieSage",
+            "tweet id": "1436646414524698624",
+            "content": "perfection !",
+            "time": "21-09-11 11:02",
+            "timestamp": 1631329371
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "uflo5",
+            "tweet id": "1436648225692323842",
+            "content": "thank you",
+            "time": "21-09-11 11:10",
+            "timestamp": 1631329803
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "AnnieSage",
+            "tweet id": "1436648788148453382",
+            "content": "you 're welcome ! that pic warmed my cold dead heart .",
+            "time": "21-09-11 11:12",
+            "timestamp": 1631329937
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "uflo5",
+            "tweet id": "1436649774413979652",
+            "content": "tack care and have a great weekend",
+            "time": "21-09-11 11:16",
+            "timestamp": 1631330172
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                6
+            ],
+            "user id": "MisterResiste12",
+            "tweet id": "1341470766982946817",
+            "content": "i 'd do that shit in a second . i love wearing my mask just to see old white people freak out when , and if , they get it .",
+            "time": "20-12-22 19:48",
+            "timestamp": 1608637728
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "uflo5",
+            "tweet id": "1341470959107227648",
+            "content": "",
+            "time": "20-12-22 19:49",
+            "timestamp": 1608637774
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [
+                7,
+                9
+            ],
+            "user id": "Jenasummerlin",
+            "tweet id": "1341472178760425472",
+            "content": "i want that for my car and a mask like yours",
+            "time": "20-12-22 19:54",
+            "timestamp": 1608638065
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "MisterResiste12",
+            "tweet id": "1341490372439134211",
+            "content": "got the mask on amazon . it has a pouch on the inside to put filters .",
+            "time": "20-12-22 21:06",
+            "timestamp": 1608642403
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "Jenasummerlin",
+            "tweet id": "1341506609957150720",
+            "content": "thanks , i 'm ready to buy as gifts for me and the family",
+            "time": "20-12-22 22:11",
+            "timestamp": 1608646274
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "user id": "DrWater16",
+            "tweet id": "1341715841667100673",
+            "content": "fact will still floating up . <url> ... so , you like the communist shithole as in china ? why ? because you grow up without love ? or simply because you 're too stupid ? so , \" fuck your feeling \" as it says",
+            "time": "20-12-23 12:02",
+            "timestamp": 1608696159
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "MisterResiste12",
+            "tweet id": "1357156234571481090",
+            "content": "this tweet aged well .",
+            "time": "21-02-04 02:37",
+            "timestamp": 1612377435
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "pranster",
+            "tweet id": "1341668283859292161",
+            "content": "tom .. good morning",
+            "time": "20-12-23 08:53",
+            "timestamp": 1608684820
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "uflo5",
+            "tweet id": "1341669108258136064",
+            "content": "good morning pran",
+            "time": "20-12-23 08:56",
+            "timestamp": 1608685017
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "GenXAquarius",
+            "tweet id": "1343686377595150337",
+            "content": "lol - this is not far from me in cincinnati",
+            "time": "20-12-28 22:32",
+            "timestamp": 1609165971
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "1TroyOfHelen",
+            "tweet id": "1384212837413756932",
+            "content": "1 did n't seem near enough , so",
+            "time": "21-04-19 18:30",
+            "timestamp": 1618828232
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "uflo5",
+            "tweet id": "1384215630044307462",
+            "content": "thank you so much",
+            "time": "21-04-19 18:41",
+            "timestamp": 1618828898
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "SwannRise",
+            "tweet id": "1484243586371624963",
+            "content": "this image bwoke my widdle heart ...",
+            "time": "22-01-20 19:17",
+            "timestamp": 1642677421
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "NoSeanForros",
+            "tweet id": "1436651283717500929",
+            "content": "good summary",
+            "time": "21-09-11 11:22",
+            "timestamp": 1631330532
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "mikedelugg",
+            "tweet id": "1586723326633906176",
+            "content": "lol !",
+            "time": "22-10-30 14:14",
+            "timestamp": 1667110495
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "a_jumpz",
+            "tweet id": "1426618217103978497",
+            "content": "love it !",
+            "time": "21-08-14 18:54",
+            "timestamp": 1628938462
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00026915420312434435,
+            5.7665059394196305e-09,
+            1.7324504369753413e-05,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            3.506278600795554e-10,
+            0.022175803780555725,
+            0.03588120639324188,
+            0.03588120639324188,
+            0.022175803780555725,
+            0.40752124786376953,
+            0.20376062393188477,
+            0.6112818717956543,
+            0.40752124786376953,
+            0.20376062393188477,
+            0.40752124786376953,
+            0.20376062393188477,
+            0.00018382997950538993,
+            0.00018382997950538993,
+            3.506278600795554e-10,
+            0.00018382997950538993,
+            0.00018382997950538993,
+            3.506278600795554e-10,
+            3.506278600795554e-10,
+            3.506278600795554e-10,
+            3.506278600795554e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.007894736714661121,
+            0.010526316240429878,
+            0.007894736714661121,
+            1.0000000168623835e-16,
+            0.015789473429322243,
+            1.0000000168623835e-16,
+            0.021052632480859756,
+            0.007894736714661121,
+            1.0000000168623835e-16,
+            0.007894736714661121,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "source": {
+        "content": "#wednesdaywisdom #theresistance #resist",
+        "time": "17-02-22 14:11",
+        "timestamp": 1487743905,
+        "tweet url": "https://twitter.com/Rebecca0682/status/834405321015689216",
+        "user id": "Rebecca0682",
+        "tweet id": "834405321015689216",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "Rebecca0682",
+            "tweet id": "1098011024987484161",
+            "content": "if history has taught us anything it 's that if you do n't draw a line , things will get progressively worse . for me , that line is drawn the minute someone starts identifying any group as “ other ” . when that someone is elected , i feel we have a duty to stand up to it .",
+            "time": "19-02-20 00:06",
+            "timestamp": 1550592403
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "Ummismaelsf",
+            "tweet id": "1270324478594158592",
+            "content": "me , i 'd rather be not quite so \" nice . \" like these ladies .",
+            "time": "20-06-09 11:58",
+            "timestamp": 1591675131
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "Rebecca0682",
+            "tweet id": "1549580699396718593",
+            "content": "i 'm with you !",
+            "time": "22-07-20 02:23",
+            "timestamp": 1658255003
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "tucsonrosie2001",
+            "tweet id": "1062186678368923648",
+            "content": "wow , what a perfect message ! thank you dear for putting this out here to share . i 'm always proud 2follow fellow resisters ! yes we can ! si se puede ! love america and respect it 's constitution . thats what makes america us , not dt followers ! immigrants are america 's lifeblood !",
+            "time": "18-11-13 03:33",
+            "timestamp": 1542051213
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "tucsonrosie2001",
+            "tweet id": "1099168801059270656",
+            "content": "love this message . thank you .",
+            "time": "19-02-23 04:47",
+            "timestamp": 1550868438
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "D__Lancaster",
+            "tweet id": "1550095822880182272",
+            "content": "well put ! i lost 47 of my jewish ancestors to these nazi bastar & s in the holocaust extermination camps of treblinka & auschwitz , poland .",
+            "time": "22-07-21 12:30",
+            "timestamp": 1658377818
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "Imyurmama",
+            "tweet id": "834465790803931136",
+            "content": "shalom becca ! you are so right .",
+            "time": "17-02-22 18:12",
+            "timestamp": 1487758322
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "coastalmom11",
+            "tweet id": "1548878126985269248",
+            "content": "100 %",
+            "time": "22-07-18 03:51",
+            "timestamp": 1658087496
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "JohnRod53160913",
+            "tweet id": "1155520691569082369",
+            "content": "we 're too nice . i believe in humanity and <url> wife and i feed the homeless . i open the door for women and old ppl , no matter the person . i will not let you play with me or my intelligence !",
+            "time": "19-07-28 16:49",
+            "timestamp": 1564303776
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "AshineB",
+            "tweet id": "1096212168758968322",
+            "content": "love this .",
+            "time": "19-02-15 00:58",
+            "timestamp": 1550163522
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "BillK2255",
+            "tweet id": "1548330520471166986",
+            "content": "también hablo español",
+            "time": "22-07-16 15:35",
+            "timestamp": 1657956937
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.7071051001548767,
+            0.7071051001548767,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00909090880304575,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

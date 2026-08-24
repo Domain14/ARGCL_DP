@@ -1,0 +1,8 @@
+integrations:
+  twitter1:
+    type: dataset
+    ref: paperspace/dskuubwx72y8k6p:latest
+    enabled: true
+  weibo1:
+    type: dataset
+    ref: paperspace/ds37qhinxxpmhca:latest

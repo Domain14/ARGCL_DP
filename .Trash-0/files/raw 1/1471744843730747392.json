@@ -1,0 +1,233 @@
+{
+    "source": {
+        "content": "+ the lucid is a better looking car + <@user>",
+        "time": "21-12-17 07:31",
+        "timestamp": 1639697489,
+        "tweet url": "https://twitter.com/brianrayguitar/status/1471744843730747392",
+        "user id": "brianrayguitar",
+        "tweet id": "1471744843730747392",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "bjorn_igar",
+            "tweet id": "1471746565748445190",
+            "content": "i suppose a lease makes more sense with a car like this . out of warranty repairs could get downright scary .",
+            "time": "21-12-17 07:38",
+            "timestamp": 1639697899
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "brianrayguitar",
+            "tweet id": "1471754674952757248",
+            "content": "honestly , both tesla leases had very few problems . the only fluid that needs to be changed and the car is the windshield wiper fluid , lol . ultimately , its just that i do n't like the interior , customer service , or elon musk .",
+            "time": "21-12-17 08:10",
+            "timestamp": 1639699833
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "bjorn_igar",
+            "tweet id": "1471876604586602501",
+            "content": "it 's a stunner brian . completely impractical for hauling band gear , but it looks great .",
+            "time": "21-12-17 16:15",
+            "timestamp": 1639728903
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "Brava_Sandra",
+            "tweet id": "1471749764605562881",
+            "content": "i 'm sorry , but a tesla has an unique style and it 's a beautiful car .",
+            "time": "21-12-17 07:51",
+            "timestamp": 1639698662
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "brianrayguitar",
+            "tweet id": "1471753290559881217",
+            "content": "it 's very nice . i 've leased 2 of them ... i just think the lucid air looks and performs better . tesla design is like 11 years old now too",
+            "time": "21-12-17 08:05",
+            "timestamp": 1639699502
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "MaccaFan1",
+            "tweet id": "1593060952853082112",
+            "content": "it 's a gorgeous car-is this one yours brian !",
+            "time": "22-11-17 01:58",
+            "timestamp": 1668621503
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "brianrayguitar",
+            "tweet id": "1593061047476563969",
+            "content": "same colors yes",
+            "time": "22-11-17 01:58",
+            "timestamp": 1668621526
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "WolfNW",
+            "tweet id": "1471745920660213761",
+            "content": "congrats . looks great .",
+            "time": "21-12-17 07:35",
+            "timestamp": 1639697745
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "KelJa070",
+            "tweet id": "1471746014709268480",
+            "content": "the front looks like a robocop helmet",
+            "time": "21-12-17 07:36",
+            "timestamp": 1639697768
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "choptopmoseley",
+            "tweet id": "1471753969823203333",
+            "content": "love the name",
+            "time": "21-12-17 08:07",
+            "timestamp": 1639699664
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "MitchAmsterNYC",
+            "tweet id": "1471828210631553033",
+            "content": "good luck with it !",
+            "time": "21-12-17 13:02",
+            "timestamp": 1639717365
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "zoogirl123",
+            "tweet id": "1471856545172365317",
+            "content": "oh damn thats purdy",
+            "time": "21-12-17 14:55",
+            "timestamp": 1639724120
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "peterthec",
+            "tweet id": "1471936034434805760",
+            "content": "if you 're going to have an environmentally sensitive vehicle , it 's gotta look good !",
+            "time": "21-12-17 20:11",
+            "timestamp": 1639743072
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "stratogato",
+            "tweet id": "1472068429549084676",
+            "content": "wow ! that is a beauty !",
+            "time": "21-12-18 04:57",
+            "timestamp": 1639774637
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.0131194928125753e-12,
+            0.04514509439468384,
+            0.06384480744600296,
+            0.04514509439468384,
+            0.3702296316623688,
+            0.599044144153595,
+            0.599044144153595,
+            0.3702296316623688,
+            1.0131194928125753e-12,
+            1.0131194928125753e-12,
+            1.0131194928125753e-12,
+            1.0131194928125753e-12,
+            1.0131194928125753e-12,
+            1.0131194928125753e-12,
+            1.0131194928125753e-12
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.010989011265337467,
+            0.010989011265337467,
+            1.0000000168623835e-16,
+            0.016483517363667488,
+            0.021978022530674934,
+            0.016483517363667488,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

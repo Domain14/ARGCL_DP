@@ -1,0 +1,225 @@
+{
+    "source": {
+        "content": "if you 're reading this i 'm actually programming you",
+        "time": "19-03-24 14:20",
+        "timestamp": 1553408458,
+        "tweet url": "https://twitter.com/0xTheGreatApe/status/1109822415910113280",
+        "user id": "0xTheGreatApe",
+        "tweet id": "1109822415910113280",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "0xTheGreatApe",
+            "tweet id": "1467621060803796994",
+            "content": "the mind is one of the more powerful things in the universe . i 'm not sure if the sun can imagine things into existence , but the human mind seems to do it with ease . if we can imagine money and inventions into existence , what if we believed in ourselves more than ideas ?",
+            "time": "21-12-05 22:25",
+            "timestamp": 1638714302
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "britesense",
+            "tweet id": "1109829686354427905",
+            "content": "$ i know . but it 's ok .",
+            "time": "19-03-24 14:49",
+            "timestamp": 1553410191
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "Tervon_2020",
+            "tweet id": "1467564580863938562",
+            "content": "i know .",
+            "time": "21-12-05 18:40",
+            "timestamp": 1638700836
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "__3D___",
+            "tweet id": "1467621928626180112",
+            "content": "goto 0",
+            "time": "21-12-05 22:28",
+            "timestamp": 1638714509
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "cesna8020",
+            "tweet id": "1467638125744820231",
+            "content": "your коде does n't compиле on маи s ¥ st € <url> over .",
+            "time": "21-12-05 23:32",
+            "timestamp": 1638718371
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "scrypac424",
+            "tweet id": "1468581523163131914",
+            "content": "program me harder",
+            "time": "21-12-08 14:01",
+            "timestamp": 1638943294
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "evthin_online",
+            "tweet id": "1469332618776879105",
+            "content": "wow",
+            "time": "21-12-10 15:46",
+            "timestamp": 1639122369
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "evthin_online",
+            "tweet id": "1469332935346208771",
+            "content": "if you 're reading this i 'm already programmed",
+            "time": "21-12-10 15:47",
+            "timestamp": 1639122445
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "euphoricdpt",
+            "tweet id": "1469518735790665730",
+            "content": "this is a possibility",
+            "time": "21-12-11 04:05",
+            "timestamp": 1639166743
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "timay2928",
+            "tweet id": "1472528186344755201",
+            "content": "yes , my boss . follow your lead :d",
+            "time": "21-12-19 11:24",
+            "timestamp": 1639884252
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "PhillipManticus",
+            "tweet id": "1482462173125173252",
+            "content": "we are all 1epiktetus .",
+            "time": "22-01-15 21:18",
+            "timestamp": 1642252699
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "miketweetstaken",
+            "tweet id": "1494612628920016902",
+            "content": "damnit ! !",
+            "time": "22-02-18 09:59",
+            "timestamp": 1645149593
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "4valanche",
+            "tweet id": "1514278241846054918",
+            "content": "01110000 01110010 01101111 01100011 01100101 01110011 01110011 01101001 01101110 01100111",
+            "time": "22-04-13 16:24",
+            "timestamp": 1649838241
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "PeterJPx",
+            "tweet id": "1514279697106022406",
+            "content": "executed",
+            "time": "22-04-13 16:29",
+            "timestamp": 1649838588
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.7071045637130737,
+            0.7071045637130737
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16
+        ]
+    }
+}

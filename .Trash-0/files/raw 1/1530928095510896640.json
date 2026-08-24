@@ -1,0 +1,1227 @@
+{
+    "source": {
+        "content": "<@user>",
+        "time": "20-03-12 12:36",
+        "timestamp": 1583987784,
+        "tweet url": "https://twitter.com/JoaniSparkles/status/1530928095510896640",
+        "user id": "JoaniSparkles",
+        "tweet id": "1530928095510896640",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "JillFanoO4",
+            "tweet id": "1568599498414252032",
+            "content": "i tear up everytime i watch this ! ! !",
+            "time": "22-09-10 13:57",
+            "timestamp": 1662789438
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1568600289850056706",
+            "content": "i love it so i pinned it . this way when i need it i can find it .",
+            "time": "22-09-10 14:00",
+            "timestamp": 1662789626
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "Sam_C_Fraser",
+            "tweet id": "1556038216645365762",
+            "content": "great video - thanks .",
+            "time": "22-08-06 22:03",
+            "timestamp": 1659794595
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1556038703419719681",
+            "content": "i really love it so i pinned it . this way i can find it when i need it . i need it a lot .",
+            "time": "22-08-06 22:05",
+            "timestamp": 1659794711
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "Sam_C_Fraser",
+            "tweet id": "1556040022767304712",
+            "content": "i noticed the video had 24.1 million views . i think a lot of people need it these days - including me ( i have it playing in the background as i type . )",
+            "time": "22-08-06 22:10",
+            "timestamp": 1659795025
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "bonsaibean",
+            "tweet id": "1556042472287047681",
+            "content": "every time this hits my timeline , i have to watch it again . it can't be background though , i have to watch every little bit . and cry every damn time .",
+            "time": "22-08-06 22:20",
+            "timestamp": 1659795609
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "Shnookie04",
+            "tweet id": "1553223781250125826",
+            "content": "that was incredible ! thanks !",
+            "time": "22-07-30 03:39",
+            "timestamp": 1659123581
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1553224670584967168",
+            "content": "thanks that 's what i think too . i pinned it so i can find it when i need it .",
+            "time": "22-07-30 03:43",
+            "timestamp": 1659123793
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1550997816788516864",
+            "content": "right j ? or it 's the doghouse for us guys lol",
+            "time": "22-07-24 00:14",
+            "timestamp": 1658592870
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10,
+                11
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1550999304025903107",
+            "content": "not for you tweetie ! you 're the best !",
+            "time": "22-07-24 00:20",
+            "timestamp": 1658593224
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1550999938347241473",
+            "content": "j i 'm giving you something a heyooooooooooooo j ooooooooo",
+            "time": "22-07-24 00:22",
+            "timestamp": 1658593376
+        },
+        {
+            "comment id": 11,
+            "parent": 9,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1550999711921844224",
+            "content": "awe ty j i try to be good hard sometimes but try to treat people with respect",
+            "time": "22-07-24 00:22",
+            "timestamp": 1658593322
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1572904049451892736",
+            "content": "tweetie you are a sweetie",
+            "time": "22-09-22 11:02",
+            "timestamp": 1663815723
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1572907484704280579",
+            "content": "thanks tony ! you rock !",
+            "time": "22-09-22 11:15",
+            "timestamp": 1663816542
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15,
+                16
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1572908137333628928",
+            "content": "you rock and roll",
+            "time": "22-09-22 11:18",
+            "timestamp": 1663816697
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1572908769008586755",
+            "content": "i try !",
+            "time": "22-09-22 11:20",
+            "timestamp": 1663816848
+        },
+        {
+            "comment id": 16,
+            "parent": 14,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1572909439476432902",
+            "content": "the more trump plays the victim the stringer he gets stronger among his insane followers it just keeps on going indict the m fer he 's like a cancer that continues to spread to our nation which is in disarray and will never recover we are still talking about this fuck 2 years later",
+            "time": "22-09-22 11:23",
+            "timestamp": 1663817008
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1537185917651537920",
+            "content": "hi j hope yur day went well",
+            "time": "22-06-15 21:30",
+            "timestamp": 1655299856
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1537195738324733952",
+            "content": "it was ok . hope you had a great day tweetie !",
+            "time": "22-06-15 22:09",
+            "timestamp": 1655302198
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1537195954897657856",
+            "content": "it was busy",
+            "time": "22-06-15 22:10",
+            "timestamp": 1655302250
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1538702550467235840",
+            "content": "heyoooooo j all the way lol lol",
+            "time": "22-06-20 01:57",
+            "timestamp": 1655661450
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1538707756647174147",
+            "content": "hi tweetie !",
+            "time": "22-06-20 02:18",
+            "timestamp": 1655662691
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1538707965603196928",
+            "content": "hellooooooooooooo j oooooooooooooo today oooooo",
+            "time": "22-06-20 02:19",
+            "timestamp": 1655662741
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1566270770434772993",
+            "content": "good nite tweetie",
+            "time": "22-09-04 03:43",
+            "timestamp": 1662234226
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [
+                25
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1566370942154166272",
+            "content": "good morning tweetie !",
+            "time": "22-09-04 10:21",
+            "timestamp": 1662258109
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1566385853362065410",
+            "content": "morning on these beautiful sunday !",
+            "time": "22-09-04 11:21",
+            "timestamp": 1662261664
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [
+                27
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1566631640151035911",
+            "content": "good nite tweep",
+            "time": "22-09-05 03:37",
+            "timestamp": 1662320264
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [
+                28
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1566633864478474241",
+            "content": "good night tweetie ! ( waiting for my fitbit to charge and i 'm out . )",
+            "time": "22-09-05 03:46",
+            "timestamp": 1662320794
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1566634114375106560",
+            "content": "ok charge it girl lol",
+            "time": "22-09-05 03:47",
+            "timestamp": 1662320854
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [
+                30
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1568197878207627265",
+            "content": "hello lol j",
+            "time": "22-09-09 11:21",
+            "timestamp": 1662693684
+        },
+        {
+            "comment id": 30,
+            "parent": 29,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1568198257058189313",
+            "content": "good morning tweetie !",
+            "time": "22-09-09 11:22",
+            "timestamp": 1662693774
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [
+                32
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1571079012725977089",
+            "content": "great saturday",
+            "time": "22-09-17 10:10",
+            "timestamp": 1663380600
+        },
+        {
+            "comment id": 32,
+            "parent": 31,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1571084160755961856",
+            "content": "good morning tweetie !",
+            "time": "22-09-17 10:30",
+            "timestamp": 1663381827
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [
+                34
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1572249293288792067",
+            "content": "j all the way trump go away never come back another day m fer",
+            "time": "22-09-20 15:40",
+            "timestamp": 1663659617
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [
+                35
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1572249908874457091",
+            "content": "hi tweetie !",
+            "time": "22-09-20 15:42",
+            "timestamp": 1663659763
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [
+                36
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1572250489080909830",
+            "content": "hi babe what 's cooking ? ? i 'm staying outta trouble some say i 'm a bad boy but hey i come from brooklyn what do you expect an angel lol lol",
+            "time": "22-09-20 15:45",
+            "timestamp": 1663659902
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1572251109028397063",
+            "content": "i 'm trying to stay out of trouble ... i 'm a rebel !",
+            "time": "22-09-20 15:47",
+            "timestamp": 1663660050
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [
+                38
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1573614815431516162",
+            "content": "great saturday j i 'm in ny visiting my friend who just lost his wife to covid so it ain't just the flu heading back to flo rida facing a hurricane on monday yikes ! ! !",
+            "time": "22-09-24 10:06",
+            "timestamp": 1663985183
+        },
+        {
+            "comment id": 38,
+            "parent": 37,
+            "children": [
+                39,
+                41
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1573619029742428161",
+            "content": "heading to florida now but i 'm going to the port of miami . i 'm concerned about coming home . i thought they said it would hit florida on wednesday . coming home on thursday .",
+            "time": "22-09-24 10:23",
+            "timestamp": 1663986187
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [
+                40
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1573620188435697664",
+            "content": "stay tuned i 'm in naples so the west coast is getting the brunt of it starting tuesday be safe ! ! !",
+            "time": "22-09-24 10:27",
+            "timestamp": 1663986464
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1573624587442593793",
+            "content": "thanks you too tweetie !",
+            "time": "22-09-24 10:45",
+            "timestamp": 1663987512
+        },
+        {
+            "comment id": 41,
+            "parent": 38,
+            "children": [],
+            "user id": "scibbe",
+            "tweet id": "1573632087294345216",
+            "content": "you will be fine gulf side storm",
+            "time": "22-09-24 11:15",
+            "timestamp": 1663989300
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                43
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1576714418213515264",
+            "content": "hi my lovely tweep hope all good",
+            "time": "22-10-02 23:23",
+            "timestamp": 1664724185
+        },
+        {
+            "comment id": 43,
+            "parent": 42,
+            "children": [
+                44,
+                46
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1576719933614219264",
+            "content": "hi tweetie ! cold and windy here . pats are tied in overtime with a rookie 3rd string qb against that asshole aaron rodgers .",
+            "time": "22-10-02 23:45",
+            "timestamp": 1664725500
+        },
+        {
+            "comment id": 44,
+            "parent": 43,
+            "children": [
+                45
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1576720458749444096",
+            "content": "kerry warm j",
+            "time": "22-10-02 23:47",
+            "timestamp": 1664725626
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1576721202478862336",
+            "content": "the pack just won by a field goal .",
+            "time": "22-10-02 23:50",
+            "timestamp": 1664725803
+        },
+        {
+            "comment id": 46,
+            "parent": 43,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1576720371369545728",
+            "content": "i hate that guy too",
+            "time": "22-10-02 23:46",
+            "timestamp": 1664725605
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [
+                48
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1576956797348290561",
+            "content": "heyooooooo j ooooooo",
+            "time": "22-10-03 15:26",
+            "timestamp": 1664781973
+        },
+        {
+            "comment id": 48,
+            "parent": 47,
+            "children": [
+                49
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1576995519670366208",
+            "content": "hi tweetie !",
+            "time": "22-10-03 18:00",
+            "timestamp": 1664791205
+        },
+        {
+            "comment id": 49,
+            "parent": 48,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1577006296607268864",
+            "content": "hi",
+            "time": "22-10-03 18:42",
+            "timestamp": 1664793775
+        },
+        {
+            "comment id": 50,
+            "parent": -1,
+            "children": [
+                51
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1577621437040496641",
+            "content": "good morning sweety tweety",
+            "time": "22-10-05 11:27",
+            "timestamp": 1664940436
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [
+                52
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1577626912570183682",
+            "content": "good morning tweetie !",
+            "time": "22-10-05 11:49",
+            "timestamp": 1664941741
+        },
+        {
+            "comment id": 52,
+            "parent": 51,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1577627162097729537",
+            "content": "heyoooooo",
+            "time": "22-10-05 11:50",
+            "timestamp": 1664941800
+        },
+        {
+            "comment id": 53,
+            "parent": -1,
+            "children": [
+                54
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1578195417497759745",
+            "content": "j ooooo it 's your birthday ? happy happy birthday",
+            "time": "22-10-07 01:28",
+            "timestamp": 1665077283
+        },
+        {
+            "comment id": 54,
+            "parent": 53,
+            "children": [
+                55
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1578198734852481024",
+            "content": "thanks tweetie !",
+            "time": "22-10-07 01:41",
+            "timestamp": 1665078074
+        },
+        {
+            "comment id": 55,
+            "parent": 54,
+            "children": [
+                56
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1578199086716448768",
+            "content": "aweeeee so happy for you it 's the best day of the year if you did n't have it you would n't be here that would be a loss hun",
+            "time": "22-10-07 01:42",
+            "timestamp": 1665078158
+        },
+        {
+            "comment id": 56,
+            "parent": 55,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1578199349095550976",
+            "content": "love you tweetie ! you 're the best !",
+            "time": "22-10-07 01:43",
+            "timestamp": 1665078221
+        },
+        {
+            "comment id": 57,
+            "parent": -1,
+            "children": [
+                58
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1578356930333970433",
+            "content": "good morning tweety getting more and more bits each day i 'm going botty",
+            "time": "22-10-07 12:09",
+            "timestamp": 1665115791
+        },
+        {
+            "comment id": 58,
+            "parent": 57,
+            "children": [
+                59
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1578357410259161089",
+            "content": "good morning tweetie ! they like your style !",
+            "time": "22-10-07 12:11",
+            "timestamp": 1665115905
+        },
+        {
+            "comment id": 59,
+            "parent": 58,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1578357545864900608",
+            "content": "oh really lol lol lol",
+            "time": "22-10-07 12:12",
+            "timestamp": 1665115938
+        },
+        {
+            "comment id": 60,
+            "parent": -1,
+            "children": [
+                61
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579067691238711296",
+            "content": "good morn j oooooo hopefully it 's a sunday funday",
+            "time": "22-10-09 11:14",
+            "timestamp": 1665285249
+        },
+        {
+            "comment id": 61,
+            "parent": 60,
+            "children": [
+                62
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1579083496840384512",
+            "content": "good morning tweetie ! the sun is shining and i 'm having breakfast with the fam later ! hope you have a sunday funday too !",
+            "time": "22-10-09 12:16",
+            "timestamp": 1665289018
+        },
+        {
+            "comment id": 62,
+            "parent": 61,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579083811635499008",
+            "content": "ty j mmmmm sounds good j enjoy breakfast ! ! !",
+            "time": "22-10-09 12:18",
+            "timestamp": 1665289093
+        },
+        {
+            "comment id": 63,
+            "parent": -1,
+            "children": [
+                64
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1580526501283344384",
+            "content": "have a beautiful fall day j",
+            "time": "22-10-13 11:50",
+            "timestamp": 1665633057
+        },
+        {
+            "comment id": 64,
+            "parent": 63,
+            "children": [
+                65
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1580527532767858688",
+            "content": "you too tweetie ! clouds now rain later but it 's sunny and warm in my head !",
+            "time": "22-10-13 11:55",
+            "timestamp": 1665633303
+        },
+        {
+            "comment id": 65,
+            "parent": 64,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1580527893318627328",
+            "content": "very good that 's where it 's most important ! ! !",
+            "time": "22-10-13 11:56",
+            "timestamp": 1665633389
+        },
+        {
+            "comment id": 66,
+            "parent": -1,
+            "children": [
+                67
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1585386400744378369",
+            "content": "heyoooooooo jooooo hope all well",
+            "time": "22-10-26 21:42",
+            "timestamp": 1666791747
+        },
+        {
+            "comment id": 67,
+            "parent": 66,
+            "children": [
+                68
+            ],
+            "user id": "JoaniSparkles",
+            "tweet id": "1585387345502953473",
+            "content": "you too tweetie ! love you !",
+            "time": "22-10-26 21:46",
+            "timestamp": 1666791972
+        },
+        {
+            "comment id": 68,
+            "parent": 67,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1585387812244713472",
+            "content": "back at you",
+            "time": "22-10-26 21:48",
+            "timestamp": 1666792084
+        },
+        {
+            "comment id": 69,
+            "parent": -1,
+            "children": [],
+            "user id": "ALOVEFarmer",
+            "tweet id": "1550864670092713984",
+            "content": "thank you love brilliant",
+            "time": "22-07-23 15:25",
+            "timestamp": 1658561125
+        },
+        {
+            "comment id": 70,
+            "parent": -1,
+            "children": [
+                71
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1585974626470985728",
+            "content": "good morning sweetie ! ! !",
+            "time": "22-10-28 12:39",
+            "timestamp": 1666931991
+        },
+        {
+            "comment id": 71,
+            "parent": 70,
+            "children": [],
+            "user id": "JoaniSparkles",
+            "tweet id": "1585975281076129795",
+            "content": "good morning tweetie !",
+            "time": "22-10-28 12:42",
+            "timestamp": 1666932147
+        },
+        {
+            "comment id": 72,
+            "parent": -1,
+            "children": [],
+            "user id": "DominicGBrown",
+            "tweet id": "1575840932590768129",
+            "content": "that 's cool",
+            "time": "22-09-30 13:32",
+            "timestamp": 1664515930
+        },
+        {
+            "comment id": 73,
+            "parent": -1,
+            "children": [],
+            "user id": "PaulPari6",
+            "tweet id": "1554956327381831680",
+            "content": "found the tweet in 2020 . beginning of the pandemic started down a youtube rabbit hole just beautiful",
+            "time": "22-08-03 22:24",
+            "timestamp": 1659536652
+        },
+        {
+            "comment id": 74,
+            "parent": -1,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1572249293897236480",
+            "content": "j all the way trump go away never come back another day m fer",
+            "time": "22-09-20 15:40",
+            "timestamp": 1663659617
+        },
+        {
+            "comment id": 75,
+            "parent": -1,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1577116282843205633",
+            "content": "trump never had animals as pets that says it all m fer",
+            "time": "22-10-04 01:59",
+            "timestamp": 1664819997
+        },
+        {
+            "comment id": 76,
+            "parent": -1,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1578764197277880320",
+            "content": "they are good better then the mets lol",
+            "time": "22-10-08 15:08",
+            "timestamp": 1665212891
+        },
+        {
+            "comment id": 77,
+            "parent": -1,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1578764979741794304",
+            "content": "i 'm a jokester but true j oooooo lol",
+            "time": "22-10-08 15:11",
+            "timestamp": 1665213077
+        },
+        {
+            "comment id": 78,
+            "parent": -1,
+            "children": [],
+            "user id": "LiMilla4",
+            "tweet id": "1558634420705394691",
+            "content": "#soundup !",
+            "time": "22-08-14 01:59",
+            "timestamp": 1660413578
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            1.6997735656332225e-05,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.000260494853137061,
+            1.6997735656332225e-05,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00014291261322796345,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.00014291261322796345,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.1487233690307685e-12,
+            3.854476017295383e-05,
+            3.854476017295383e-05,
+            0.023393763229250908,
+            0.03785190358757973,
+            0.03785190358757973,
+            0.023393763229250908,
+            3.854476017295383e-05,
+            3.854476017295383e-05,
+            0.0740172415971756,
+            0.12820161879062653,
+            0.0740172415971756,
+            0.0740172415971756,
+            0.15265196561813354,
+            0.2820638418197632,
+            0.3685338795185089,
+            0.19944904744625092,
+            0.19944904744625092,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            3.854476017295383e-05,
+            3.854476017295383e-05,
+            3.854476017295383e-05,
+            3.854476017295383e-05,
+            0.023393763229250908,
+            0.03785190358757973,
+            0.03785190358757973,
+            0.023393763229250908,
+            0.19944904744625092,
+            0.3685338795185089,
+            0.2820638418197632,
+            0.15265196561813354,
+            0.19944904744625092,
+            0.19944904744625092,
+            0.3685338795185089,
+            0.2820638418197632,
+            0.15265196561813354,
+            0.19944904744625092,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.023393763229250908,
+            0.03785190358757973,
+            0.03785190358757973,
+            0.023393763229250908,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            0.0036377953365445137,
+            0.005144619848579168,
+            0.0036377953365445137,
+            1.1487233690307685e-12,
+            3.854476017295383e-05,
+            3.854476017295383e-05,
+            1.1487233690307685e-12,
+            1.1487233690307685e-12,
+            1.1487233690307685e-12,
+            1.1487233690307685e-12,
+            1.1487233690307685e-12,
+            1.1487233690307685e-12,
+            1.1487233690307685e-12
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.00016228496679104865,
+            1.0000000168623835e-16,
+            0.0004868549294769764,
+            0.0006491398671641946,
+            0.0004868549294769764,
+            1.0000000168623835e-16,
+            0.00016228496679104865,
+            1.0000000168623835e-16,
+            0.0004868549294769764,
+            0.0006491398671641946,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0006491398671641946,
+            0.0009737098589539528,
+            0.0009737098589539528,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.00016228496679104865,
+            1.0000000168623835e-16,
+            0.00016228496679104865,
+            1.0000000168623835e-16,
+            0.0004868549294769764,
+            0.0006491398671641946,
+            0.0004868549294769764,
+            1.0000000168623835e-16,
+            0.0006491398671641946,
+            0.0009737098589539528,
+            0.0004868549294769764,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0006491398671641946,
+            0.0009737098589539528,
+            0.0004868549294769764,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0004868549294769764,
+            0.0006491398671641946,
+            0.0004868549294769764,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            0.0003245699335820973,
+            0.0003245699335820973,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00016228496679104865,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

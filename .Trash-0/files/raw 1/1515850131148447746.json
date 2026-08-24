@@ -1,0 +1,363 @@
+{
+    "source": {
+        "content": "buenas noches amigos ! ! ! yo practico video jaja jaja ! ! ! bueno se aprende nunca hago ... ya en mañana lunes ! ¡ ! ! a dormir temprano ... tengo una semana moviditamucho trabajo ... a dios gracias buen inicio de semana ! ! !",
+        "time": "22-04-18 00:30",
+        "timestamp": 1650213009,
+        "tweet url": "https://twitter.com/irma_pintos/status/1515850131148447746",
+        "user id": "irma_pintos",
+        "tweet id": "1515850131148447746",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "drosty521",
+            "tweet id": "1516937162465460226",
+            "content": "sdv instantly",
+            "time": "22-04-21 00:29",
+            "timestamp": 1650472177
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "Jemaco40",
+            "tweet id": "1564435503969099776",
+            "content": "sdv",
+            "time": "22-08-30 02:11",
+            "timestamp": 1661796664
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "irma_pintos",
+            "tweet id": "1564438350060261376",
+            "content": "saludos jemaco",
+            "time": "22-08-30 02:22",
+            "timestamp": 1661797343
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "Juanpab_Fuentes",
+            "tweet id": "1522531097787129856",
+            "content": "#buenosdías sra . irmita espero que haya amanecido mejor con lo del resfrió .",
+            "time": "22-05-06 10:57",
+            "timestamp": 1651805875
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "irma_pintos",
+            "tweet id": "1523386640705630209",
+            "content": "buen día caballero",
+            "time": "22-05-08 19:37",
+            "timestamp": 1652009852
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "Juanpab_Fuentes",
+            "tweet id": "1523422880347742208",
+            "content": "hola sra . irmita #buenastardes y feliz #diadelamadre se que no es la fecha en aun así mis respetos .",
+            "time": "22-05-08 22:01",
+            "timestamp": 1652018493
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "irma_pintos",
+            "tweet id": "1523449572596494336",
+            "content": "gracias juan pablo en octubre aquí gracias de igual modo",
+            "time": "22-05-08 23:47",
+            "timestamp": 1652024857
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "Juanpab_Fuentes",
+            "tweet id": "1535453796868018176",
+            "content": "#buenasnoches sra . irmita a esta hora ya se siente el frió acá .",
+            "time": "22-06-11 02:48",
+            "timestamp": 1654886887
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "irma_pintos",
+            "tweet id": "1535456807656857601",
+            "content": "aquí ni te digo helada calefacción a mil",
+            "time": "22-06-11 03:00",
+            "timestamp": 1654887605
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "Juanpab_Fuentes",
+            "tweet id": "1608293498834362368",
+            "content": "muy #buenasnoches sra . irmita #ig",
+            "time": "22-12-29 02:47",
+            "timestamp": 1672253225
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "irma_pintos",
+            "tweet id": "1608301586274451459",
+            "content": "gracias juan pablo recién llego fui a brindarcon la gente que esta conmigo a diario",
+            "time": "22-12-29 03:19",
+            "timestamp": 1672255153
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "Juanpab_Fuentes",
+            "tweet id": "1608408427239194624",
+            "content": "genial . que tenga un lindo día sra.irmita",
+            "time": "22-12-29 10:23",
+            "timestamp": 1672280626
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "irma_pintos",
+            "tweet id": "1608515232187424768",
+            "content": "estoy trabajando amigo un calor",
+            "time": "22-12-29 17:28",
+            "timestamp": 1672306090
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "edu21_lr",
+            "tweet id": "1515851968824201222",
+            "content": "buenas noches prima jeje salió el videito que tengas una linda noche",
+            "time": "22-04-18 00:37",
+            "timestamp": 1650213447
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "user id": "irma_pintos",
+            "tweet id": "1515854108862779392",
+            "content": "si primo ya en casa",
+            "time": "22-04-18 00:45",
+            "timestamp": 1650213957
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16
+            ],
+            "user id": "edu21_lr",
+            "tweet id": "1515855591033511937",
+            "content": "que bueno prima ya mañana lunes",
+            "time": "22-04-18 00:51",
+            "timestamp": 1650214310
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "irma_pintos",
+            "tweet id": "1515885918535647233",
+            "content": "si estaba acomodando la planilla de pedidos para envíos al interior esta semana primo",
+            "time": "22-04-18 02:52",
+            "timestamp": 1650221541
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "ron_220588",
+            "tweet id": "1515854826063732745",
+            "content": "guapa",
+            "time": "22-04-18 00:48",
+            "timestamp": 1650214128
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "irma_pintos",
+            "tweet id": "1515885975481643011",
+            "content": "gracias",
+            "time": "22-04-18 02:52",
+            "timestamp": 1650221555
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "Edu25419700",
+            "tweet id": "1515895725024063492",
+            "content": "muy buenas noches irma",
+            "time": "22-04-18 03:31",
+            "timestamp": 1650223879
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21
+            ],
+            "user id": "irma_pintos",
+            "tweet id": "1515899365906296837",
+            "content": "edu buen descanso",
+            "time": "22-04-18 03:45",
+            "timestamp": 1650224747
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "Edu25419700",
+            "tweet id": "1515902202463891457",
+            "content": "ahora te toca a ti",
+            "time": "22-04-18 03:57",
+            "timestamp": 1650225423
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            3.3737044269344096e-09,
+            3.3737044269344096e-09,
+            0.0017687927465885878,
+            0.0017687927465885878,
+            0.21337325870990753,
+            0.3452451825141907,
+            0.3452451825141907,
+            0.21337325870990753,
+            0.0017687927465885878,
+            0.0017687927465885878,
+            0.21337325870990753,
+            0.3452451825141907,
+            0.3452451825141907,
+            0.21337325870990753,
+            0.21337325870990753,
+            0.3452451825141907,
+            0.3452451825141907,
+            0.21337325870990753,
+            0.0017687927465885878,
+            0.0017687927465885878,
+            0.05396047234535217,
+            0.0763116329908371,
+            0.05396047234535217
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0021645021624863148,
+            1.0000000168623835e-16,
+            0.006493506487458944,
+            0.008658008649945259,
+            0.006493506487458944,
+            1.0000000168623835e-16,
+            0.0021645021624863148,
+            1.0000000168623835e-16,
+            0.006493506487458944,
+            0.008658008649945259,
+            0.006493506487458944,
+            1.0000000168623835e-16,
+            0.006493506487458944,
+            0.008658008649945259,
+            0.006493506487458944,
+            1.0000000168623835e-16,
+            0.0021645021624863148,
+            1.0000000168623835e-16,
+            0.0043290043249726295,
+            0.0043290043249726295,
+            1.0000000168623835e-16
+        ]
+    }
+}

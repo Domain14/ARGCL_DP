@@ -1,0 +1,469 @@
+{
+    "source": {
+        "content": "renklerinden hiç pişmanlık duymayan , siyah beyaz bir kadınım ben . eski şarkıları , masalları ve yağmuru çok seven .. __didem madak ..",
+        "time": "20-07-08 00:39",
+        "timestamp": 1594139943,
+        "tweet url": "https://twitter.com/Smyrna_Dnz/status/1280662649102106624",
+        "user id": "Smyrna_Dnz",
+        "tweet id": "1280662649102106624",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "seni_dilendim03",
+            "tweet id": "1480677418721492996",
+            "content": "yeni yaşınız kutlu olsun gönlünüzce mutlu yıllara .",
+            "time": "22-01-10 23:06",
+            "timestamp": 1641827180
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1480678735951142912",
+            "content": "çok teşekkür ederim hasip bey . dilerim hepimiz için öyle olur .",
+            "time": "22-01-10 23:11",
+            "timestamp": 1641827494
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "seni_dilendim03",
+            "tweet id": "1480678807254310915",
+            "content": "rica ederim ,",
+            "time": "22-01-10 23:11",
+            "timestamp": 1641827511
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "BalaZeynep26556",
+            "tweet id": "1480794223360331778",
+            "content": "doğum günün kutlu olsun yeni yaşın sana bütün güzellikleri beraberinde getirsin canım",
+            "time": "22-01-11 06:50",
+            "timestamp": 1641855029
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1480801136923844615",
+            "content": "çok teşekkür ederim zeynepçim .. dilerim hep birlikte canım .",
+            "time": "22-01-11 07:17",
+            "timestamp": 1641856677
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "mehmetademircan",
+            "tweet id": "1480920622645583876",
+            "content": "kalan ömrünüz sağlıklı olsun . i̇yilik ve sevgi yüklü olsun .",
+            "time": "22-01-11 15:12",
+            "timestamp": 1641885165
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1480920867098054660",
+            "content": "çok teşekkür ederim mehmet bey .",
+            "time": "22-01-11 15:13",
+            "timestamp": 1641885223
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "k_elaz",
+            "tweet id": "1463399498923847681",
+            "content": "günaydınlar canım , günün kutlu olsun ...",
+            "time": "21-11-24 06:50",
+            "timestamp": 1637707803
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1463400349264404487",
+            "content": "günaydın canım , çok teşekkür ederim .",
+            "time": "21-11-24 06:53",
+            "timestamp": 1637708006
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "k_elaz",
+            "tweet id": "1483850634206105602",
+            "content": "canım merhabalar , nasıl oldun ?",
+            "time": "22-01-19 17:15",
+            "timestamp": 1642583734
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1483850999152394241",
+            "content": "çok teşekkür ederim canım , bugün daha iyiyim . güzel geçsin akşamın",
+            "time": "22-01-19 17:17",
+            "timestamp": 1642583821
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "VazYok",
+            "tweet id": "1337198167918596098",
+            "content": "i̇yi geceler olsun yarin cuma yağmur duasi var yağdıracaklar daha güzel olçak herşey",
+            "time": "20-12-11 00:51",
+            "timestamp": 1607619061
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "Abdulla86296315",
+            "tweet id": "1339211976510218249",
+            "content": "arkadaşım sizleri takip edeni sizlerde takip etme lütfunda bulunursanız sevinirim saygılarımla iyi günler dilerim .",
+            "time": "20-12-16 14:13",
+            "timestamp": 1608099191
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "SamiCanpolat_",
+            "tweet id": "1297821825175564288",
+            "content": "günaydın yağmur yağsın yüreginize selamlar sevgiler",
+            "time": "20-08-24 09:03",
+            "timestamp": 1598231010
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            9.200152861765787e-10,
+            0.499880850315094,
+            0.7069382667541504,
+            0.499880850315094,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            9.200152861765787e-10,
+            9.200152861765787e-10,
+            9.200152861765787e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.010989011265337467,
+            0.010989011265337467,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}{
+    "source": {
+        "content": "renklerinden hiç pişmanlık duymayan , siyah beyaz bir kadınım ben . eski şarkıları , masalları ve yağmuru çok seven .. __didem madak ..",
+        "time": "20-07-08 00:39",
+        "timestamp": 1594139943,
+        "tweet url": "https://twitter.com/Smyrna_Dnz/status/1280662649102106624",
+        "user id": "Smyrna_Dnz",
+        "tweet id": "1280662649102106624",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "seni_dilendim03",
+            "tweet id": "1480677418721492996",
+            "content": "yeni yaşınız kutlu olsun gönlünüzce mutlu yıllara .",
+            "time": "22-01-10 23:06",
+            "timestamp": 1641827180
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1480678735951142912",
+            "content": "çok teşekkür ederim hasip bey . dilerim hepimiz için öyle olur .",
+            "time": "22-01-10 23:11",
+            "timestamp": 1641827494
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "seni_dilendim03",
+            "tweet id": "1480678807254310915",
+            "content": "rica ederim ,",
+            "time": "22-01-10 23:11",
+            "timestamp": 1641827511
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "BalaZeynep26556",
+            "tweet id": "1480794223360331778",
+            "content": "doğum günün kutlu olsun yeni yaşın sana bütün güzellikleri beraberinde getirsin canım",
+            "time": "22-01-11 06:50",
+            "timestamp": 1641855029
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1480801136923844615",
+            "content": "çok teşekkür ederim zeynepçim .. dilerim hep birlikte canım .",
+            "time": "22-01-11 07:17",
+            "timestamp": 1641856677
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "mehmetademircan",
+            "tweet id": "1480920622645583876",
+            "content": "kalan ömrünüz sağlıklı olsun . i̇yilik ve sevgi yüklü olsun .",
+            "time": "22-01-11 15:12",
+            "timestamp": 1641885165
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1480920867098054660",
+            "content": "çok teşekkür ederim mehmet bey .",
+            "time": "22-01-11 15:13",
+            "timestamp": 1641885223
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "k_elaz",
+            "tweet id": "1463399498923847681",
+            "content": "günaydınlar canım , günün kutlu olsun ...",
+            "time": "21-11-24 06:50",
+            "timestamp": 1637707803
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1463400349264404487",
+            "content": "günaydın canım , çok teşekkür ederim .",
+            "time": "21-11-24 06:53",
+            "timestamp": 1637708006
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "k_elaz",
+            "tweet id": "1483850634206105602",
+            "content": "canım merhabalar , nasıl oldun ?",
+            "time": "22-01-19 17:15",
+            "timestamp": 1642583734
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1483850999152394241",
+            "content": "çok teşekkür ederim canım , bugün daha iyiyim . güzel geçsin akşamın",
+            "time": "22-01-19 17:17",
+            "timestamp": 1642583821
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "VazYok",
+            "tweet id": "1337198167918596098",
+            "content": "i̇yi geceler olsun yarin cuma yağmur duasi var yağdıracaklar daha güzel olçak herşey",
+            "time": "20-12-11 00:51",
+            "timestamp": 1607619061
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "Abdulla86296315",
+            "tweet id": "1339211976510218249",
+            "content": "arkadaşım sizleri takip edeni sizlerde takip etme lütfunda bulunursanız sevinirim saygılarımla iyi günler dilerim .",
+            "time": "20-12-16 14:13",
+            "timestamp": 1608099191
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "SamiCanpolat_",
+            "tweet id": "1297821825175564288",
+            "content": "günaydın yağmur yağsın yüreginize selamlar sevgiler",
+            "time": "20-08-24 09:03",
+            "timestamp": 1598231010
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            9.200152861765787e-10,
+            0.499880850315094,
+            0.7069382667541504,
+            0.499880850315094,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            9.200152861765787e-10,
+            9.200152861765787e-10,
+            9.200152861765787e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.010989011265337467,
+            0.010989011265337467,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

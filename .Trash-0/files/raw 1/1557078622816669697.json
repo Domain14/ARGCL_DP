@@ -1,0 +1,211 @@
+{
+    "source": {
+        "content": "jd vance is too dangerous for ohio and he can't be trusted . we 're 2 points ahead in the polls . make a donation now to help us raise $ 5,000 so we can stop him :",
+        "time": "22-08-09 18:57",
+        "timestamp": 1660042647,
+        "tweet url": "https://twitter.com/TimRyan/status/1557078622816669697",
+        "user id": "TimRyan",
+        "tweet id": "1557078622816669697",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "LawrenceConnol2",
+            "tweet id": "1557079294182129667",
+            "content": "crush him",
+            "time": "22-08-09 19:00",
+            "timestamp": 1660042807
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "ThomasHinkel4",
+            "tweet id": "1557079899294367746",
+            "content": "he also needs to come out and clarify if he supports gop calls to defund the fbi and abolish federal law enforcement agencies .",
+            "time": "22-08-09 19:02",
+            "timestamp": 1660042951
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "WillardHixson",
+            "tweet id": "1557081690081837057",
+            "content": "why is the flip flopping vance close ? this loser should be pulling much lower .",
+            "time": "22-08-09 19:09",
+            "timestamp": 1660043378
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "PatClif69178926",
+            "tweet id": "1557089708886282240",
+            "content": "thank god",
+            "time": "22-08-09 19:41",
+            "timestamp": 1660045290
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "lighty1967",
+            "tweet id": "1557129474373812226",
+            "content": "<@user> columbus using that infrastructure bill for good use ? i think so !",
+            "time": "22-08-09 22:19",
+            "timestamp": 1660054771
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "vali_miguel",
+            "tweet id": "1557325355098202112",
+            "content": "listen , if you do n't vote . vance will make it harder for you next election !",
+            "time": "22-08-10 11:17",
+            "timestamp": 1660101473
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "Millice01112735",
+            "tweet id": "1557408945454682113",
+            "content": "<@user> is the best !",
+            "time": "22-08-10 16:50",
+            "timestamp": 1660121402
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "Tahdahling",
+            "tweet id": "1557079266889764865",
+            "content": "after seeing your commercials i would never vote for you .",
+            "time": "22-08-09 19:00",
+            "timestamp": 1660042801
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "connaiconqueso",
+            "tweet id": "1557084059238629377",
+            "content": "you dont vote here anyways .",
+            "time": "22-08-09 19:19",
+            "timestamp": 1660043943
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "Edwardo43560",
+            "tweet id": "1557078950555312128",
+            "content": "kick his a $ $ sir ! ! send this carpetbagger back to his west coast home ! !",
+            "time": "22-08-09 18:58",
+            "timestamp": 1660042725
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "charleypatton52",
+            "tweet id": "1557080830580871168",
+            "content": "this ought to be 68-28 . what 's wrong with the people of ohio ? the flak i 've been getting from the right is that you have a problem getting bills passed . if true , fix that after you 're reelected .",
+            "time": "22-08-09 19:06",
+            "timestamp": 1660043173
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "Murphy56837241",
+            "tweet id": "1557111070258614272",
+            "content": "depends on who is doing the polling , cnn ? vote for jd vance the best man for ohio",
+            "time": "22-08-09 21:06",
+            "timestamp": 1660050383
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "AnthonyLeeVoice",
+            "tweet id": "1557087317264805889",
+            "content": "suppose 100 people vote . if the gop gets 48 votes and the dems get 52 votes , the dems win . but if , let 's say , 10 would-be dem voters refuse to vote for whatever reason , the gop wins 48-42 . refusing to vote = voting for the opponent do not repeat 2016 in 2022 .",
+            "time": "22-08-09 19:32",
+            "timestamp": 1660044720
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.7071047425270081,
+            0.7071047425270081,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

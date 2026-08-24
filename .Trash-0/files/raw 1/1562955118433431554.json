@@ -1,0 +1,437 @@
+{
+    "source": {
+        "content": "la vida es como ... #felizviernesatodos",
+        "time": "22-08-26 00:08",
+        "timestamp": 1661443713,
+        "tweet url": "https://twitter.com/16maluz/status/1562955118433431554",
+        "user id": "16maluz",
+        "tweet id": "1562955118433431554",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "Nolten13",
+            "tweet id": "1563048686653165570",
+            "content": "buenos días encanto",
+            "time": "22-08-26 06:20",
+            "timestamp": 1661466021
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563188361288122369",
+            "content": "buenas tardes corazón",
+            "time": "22-08-26 15:35",
+            "timestamp": 1661499322
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "Jmusic57446388",
+            "tweet id": "1563004189495918592",
+            "content": "buenos dias luz feliz viernes",
+            "time": "22-08-26 03:23",
+            "timestamp": 1661455412
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "16maluz",
+            "tweet id": "1563303099569414145",
+            "content": "lo acabo de ver buenas noches jmusic , feliz descanso",
+            "time": "22-08-26 23:11",
+            "timestamp": 1661526678
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "Jmusic57446388",
+            "tweet id": "1563382458976210945",
+            "content": "gracias luz buenas noches",
+            "time": "22-08-27 04:26",
+            "timestamp": 1661545599
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1564279921647800320",
+            "content": "buenas tardes , jmusic",
+            "time": "22-08-29 15:52",
+            "timestamp": 1661759570
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "ErikamacielAre",
+            "tweet id": "1563170724252360706",
+            "content": "bendecido día",
+            "time": "22-08-26 14:25",
+            "timestamp": 1661495117
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563192306043613185",
+            "content": "muchas gracias , igualmente",
+            "time": "22-08-26 15:51",
+            "timestamp": 1661500263
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "Lola_Malvarrosa",
+            "tweet id": "1563203215122137090",
+            "content": "buenas tardes luz .",
+            "time": "22-08-26 16:34",
+            "timestamp": 1661502864
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563203504415866883",
+            "content": "buenas tardes lola !",
+            "time": "22-08-26 16:35",
+            "timestamp": 1661502933
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "FAssoreira",
+            "tweet id": "1563096210390495232",
+            "content": "buenos dias luz",
+            "time": "22-08-26 09:29",
+            "timestamp": 1661477352
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563190777127153664",
+            "content": "buenas tardes fernando",
+            "time": "22-08-26 15:44",
+            "timestamp": 1661499898
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "PolillaAlegre",
+            "tweet id": "1563285255452184576",
+            "content": "me mojo ... buenas noches y buenas noches de hoy",
+            "time": "22-08-26 22:00",
+            "timestamp": 1661522423
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "user id": "16maluz",
+            "tweet id": "1563304194961920001",
+            "content": "buenas noches",
+            "time": "22-08-26 23:15",
+            "timestamp": 1661526939
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "PolillaAlegre",
+            "tweet id": "1563307778659086338",
+            "content": "buenas noches",
+            "time": "22-08-26 23:29",
+            "timestamp": 1661527793
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "LocoSoa12285594",
+            "tweet id": "1563194488176070656",
+            "content": "buenas tardes luz , que tengas un bonito viernes",
+            "time": "22-08-26 15:59",
+            "timestamp": 1661500783
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "user id": "16maluz",
+            "tweet id": "1563195083113242626",
+            "content": "igualmente soñador , pásala genial",
+            "time": "22-08-26 16:02",
+            "timestamp": 1661500925
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "user id": "LocoSoa12285594",
+            "tweet id": "1563195155229814785",
+            "content": "gracias , muy amable",
+            "time": "22-08-26 16:02",
+            "timestamp": 1661500942
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563195965997469704",
+            "content": "gracias siempre a tí",
+            "time": "22-08-26 16:05",
+            "timestamp": 1661501135
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "JMFregel",
+            "tweet id": "1563128473857986563",
+            "content": "buen día",
+            "time": "22-08-26 11:37",
+            "timestamp": 1661485044
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21
+            ],
+            "user id": "16maluz",
+            "tweet id": "1563191827406000130",
+            "content": "buenas tardes",
+            "time": "22-08-26 15:49",
+            "timestamp": 1661500149
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "user id": "JMFregel",
+            "tweet id": "1563193248587255808",
+            "content": "son muy buenas tardes .",
+            "time": "22-08-26 15:54",
+            "timestamp": 1661500487
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563193538573385729",
+            "content": "vaya cuanto me alegro que siga así",
+            "time": "22-08-26 15:55",
+            "timestamp": 1661500556
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "Sara04400782",
+            "tweet id": "1563062873857097730",
+            "content": "feliz fin de semana luz",
+            "time": "22-08-26 07:16",
+            "timestamp": 1661469404
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "16maluz",
+            "tweet id": "1563190446503116801",
+            "content": "gracias sara , igualmente ! pásalo genial !",
+            "time": "22-08-26 15:43",
+            "timestamp": 1661499819
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "Lorenzo25028761",
+            "tweet id": "1563027795386650624",
+            "content": "me encanta , buen día luz",
+            "time": "22-08-26 04:57",
+            "timestamp": 1661461040
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "urquia_hugo",
+            "tweet id": "1563221935320072193",
+            "content": "hola ! recuerda que el amor es la dulzura de la vida . la dulzura empalagosa , siempre será el amor viviente entre las personas . las frutas ácidas y las personas ácidas , dan a la vida su sabor . que tus palabras siempre tengan , la dulzura de tu alma y de tu corazón . #felizdía",
+            "time": "22-08-26 17:48",
+            "timestamp": 1661507327
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            8.823281660852444e-09,
+            0.002312970347702503,
+            0.002312970347702503,
+            0.213151216506958,
+            0.344885915517807,
+            0.344885915517807,
+            0.213151216506958,
+            0.002312970347702503,
+            0.002312970347702503,
+            0.002312970347702503,
+            0.002312970347702503,
+            0.002312970347702503,
+            0.002312970347702503,
+            0.0584552027285099,
+            0.08266814053058624,
+            0.0584552027285099,
+            0.213151216506958,
+            0.344885915517807,
+            0.344885915517807,
+            0.213151216506958,
+            0.213151216506958,
+            0.344885915517807,
+            0.344885915517807,
+            0.213151216506958,
+            0.002312970347702503,
+            0.002312970347702503,
+            8.823281660852444e-09,
+            8.823281660852444e-09
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0014245014172047377,
+            1.0000000168623835e-16,
+            0.004273504484444857,
+            0.005698005668818951,
+            0.004273504484444857,
+            1.0000000168623835e-16,
+            0.0014245014172047377,
+            1.0000000168623835e-16,
+            0.0014245014172047377,
+            1.0000000168623835e-16,
+            0.0014245014172047377,
+            1.0000000168623835e-16,
+            0.0028490028344094753,
+            0.0028490028344094753,
+            1.0000000168623835e-16,
+            0.004273504484444857,
+            0.005698005668818951,
+            0.004273504484444857,
+            1.0000000168623835e-16,
+            0.004273504484444857,
+            0.005698005668818951,
+            0.004273504484444857,
+            1.0000000168623835e-16,
+            0.0014245014172047377,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

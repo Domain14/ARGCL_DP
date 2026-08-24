@@ -1,0 +1,227 @@
+{
+    "source": {
+        "content": "footage of black tigers is rare because the park ranger turns off his body cam whenever he pulls one over . this is also why they 're so rare to begin with . #blacktigersmatter",
+        "time": "22-02-01 22:11",
+        "timestamp": 1643724671,
+        "tweet url": "https://twitter.com/EdLatimore/status/1488668219321815041",
+        "user id": "EdLatimore",
+        "tweet id": "1488668219321815041",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "AureliusKarma",
+            "tweet id": "1488668608087707649",
+            "content": "nothing scarier than a park ranger screaming “ stop resisting ” as they pull their weapon .",
+            "time": "22-02-02 00:20",
+            "timestamp": 1643732428
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "EdLatimore",
+            "tweet id": "1488669002369048577",
+            "content": "effin tragic",
+            "time": "22-02-02 00:22",
+            "timestamp": 1643732522
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "SirSportsman",
+            "tweet id": "1488834887905914882",
+            "content": "they 're not that rare . here 's one we see all the time ...",
+            "time": "22-02-02 11:21",
+            "timestamp": 1643772073
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "EdLatimore",
+            "tweet id": "1488855062508146691",
+            "content": "lolz well played",
+            "time": "22-02-02 12:41",
+            "timestamp": 1643776883
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "UriKatsavR",
+            "tweet id": "1488669632835772416",
+            "content": "tigers so black that they do n't get a fair treatment by the media .",
+            "time": "22-02-02 00:24",
+            "timestamp": 1643732673
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "TheLavaLeffel",
+            "tweet id": "1488669910532300803",
+            "content": "quick ned — thin out their numbers !",
+            "time": "22-02-02 00:25",
+            "timestamp": 1643732739
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "Francheski64",
+            "tweet id": "1488671820140191751",
+            "content": "please why do they turn off their body cams ?",
+            "time": "22-02-02 00:33",
+            "timestamp": 1643733194
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "daily500",
+            "tweet id": "1488671944840990721",
+            "content": "savage .",
+            "time": "22-02-02 00:33",
+            "timestamp": 1643733224
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "LisaSan06108068",
+            "tweet id": "1488687142259740674",
+            "content": "from 1 to level 10 . that joke was an 11 .",
+            "time": "22-02-02 01:34",
+            "timestamp": 1643736847
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "NelsonDaleSmith",
+            "tweet id": "1488689547336732677",
+            "content": "haha",
+            "time": "22-02-02 01:43",
+            "timestamp": 1643737421
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "rockeye13",
+            "tweet id": "1488776121395130369",
+            "content": "even more rare : black tigers drinking coffee . what kind of coffee ? funny that you ask ...",
+            "time": "22-02-02 07:27",
+            "timestamp": 1643758062
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "Fit_50_Life",
+            "tweet id": "1488804216244166656",
+            "content": "but those black tigers resembled other black tigers and that part of the jungle is high crime",
+            "time": "22-02-02 09:19",
+            "timestamp": 1643764760
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "tlzltl",
+            "tweet id": "1488835224989429764",
+            "content": "they 're not really black though , are they ?",
+            "time": "22-02-02 11:22",
+            "timestamp": 1643772153
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "JonezinWidJonez",
+            "tweet id": "1488836333162450946",
+            "content": "this tiger was seen reaching for a gun",
+            "time": "22-02-02 11:26",
+            "timestamp": 1643772417
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0009765573777258396,
+            0.4999973773956299,
+            0.4999973773956299,
+            0.4999973773956299,
+            0.4999973773956299,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396,
+            0.0009765573777258396
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "source": {
+        "content": ". <@user> <@user>",
+        "time": "22-01-16 19:22",
+        "timestamp": 1642332172,
+        "tweet url": "https://twitter.com/kodiak149/status/1482795508330647553",
+        "user id": "kodiak149",
+        "tweet id": "1482795508330647553",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "pfeiffer_char",
+            "tweet id": "1482796591119486976",
+            "content": "this is past tense ...",
+            "time": "22-01-16 19:27",
+            "timestamp": 1642332431
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "twylado",
+            "tweet id": "1483031281239683074",
+            "content": "lol omg",
+            "time": "22-01-17 10:59",
+            "timestamp": 1642388385
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "MarthaP29033882",
+            "tweet id": "1484221521488982016",
+            "content": "how much ? i have plenty of people who will wear that .",
+            "time": "22-01-20 17:49",
+            "timestamp": 1642672160
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "dlorne1",
+            "tweet id": "1512910299241889804",
+            "content": "should n't that say again ?",
+            "time": "22-04-09 21:48",
+            "timestamp": 1649512098
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "RnJcr",
+            "tweet id": "1545876373771898886",
+            "content": "he probably did",
+            "time": "22-07-09 21:03",
+            "timestamp": 1657371823
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "pfeiffer_char",
+            "tweet id": "1564001897253584896",
+            "content": "i think that boat sailed decades ago . 45 selling t-shirts ?",
+            "time": "22-08-28 21:28",
+            "timestamp": 1661693284
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "BigNickR10",
+            "tweet id": "1564003586312474625",
+            "content": "and watch",
+            "time": "22-08-28 21:34",
+            "timestamp": 1661693687
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Hawaii11022016",
+            "tweet id": "1587703571562102784",
+            "content": "well , hell , everyone assumes it already happened .",
+            "time": "22-11-02 07:10",
+            "timestamp": 1667344204
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "MistyKitty3",
+            "tweet id": "1484284724059254787",
+            "content": "then",
+            "time": "22-01-20 22:00",
+            "timestamp": 1642687229
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "Jessiesuzie24",
+            "tweet id": "1487132820384403459",
+            "content": "besides he wants to come in your mouth you know what it looks like do n't you !",
+            "time": "22-01-28 18:37",
+            "timestamp": 1643366268
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "LetGar4",
+            "tweet id": "1487490209625296904",
+            "content": "disgusting is an understatement .",
+            "time": "22-01-29 18:17",
+            "timestamp": 1643451476
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474,
+            0.28867512941360474
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

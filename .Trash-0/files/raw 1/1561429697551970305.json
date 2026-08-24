@@ -1,0 +1,195 @@
+{
+    "source": {
+        "content": "i leave this right here",
+        "time": "22-08-21 19:07",
+        "timestamp": 1661080024,
+        "tweet url": "https://twitter.com/kodiak149/status/1561429697551970305",
+        "user id": "kodiak149",
+        "tweet id": "1561429697551970305",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "MonkTweeting",
+            "tweet id": "1561443131031183361",
+            "content": "",
+            "time": "22-08-21 20:00",
+            "timestamp": 1661083227
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "Boken928",
+            "tweet id": "1561450979807186944",
+            "content": "now make one for social security !",
+            "time": "22-08-21 20:31",
+            "timestamp": 1661085098
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "Midwest_Voter",
+            "tweet id": "1561451412038373377",
+            "content": "this meme is great ! i 'm stealing the voter at the ballot box meme",
+            "time": "22-08-21 20:33",
+            "timestamp": 1661085201
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "sobroquet",
+            "tweet id": "1561485125753352193",
+            "content": "the computer-weaponized war against women 's rights with the rise of reproductive surveillance <url> ...",
+            "time": "22-08-21 22:47",
+            "timestamp": 1661093239
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "debbie156",
+            "tweet id": "1561522465439772672",
+            "content": "#votebluetoprotectwomen",
+            "time": "22-08-22 01:15",
+            "timestamp": 1661102142
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "thinkkimthink",
+            "tweet id": "1561552045965975552",
+            "content": "#votebluetoprotectwomen",
+            "time": "22-08-22 03:13",
+            "timestamp": 1661109194
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "PARATROOPER1986",
+            "tweet id": "1561616845576278018",
+            "content": "chose wisely ! #votebluetosavedemocracy #votebluetoprotectwomen #votebluetoprotectourrights",
+            "time": "22-08-22 07:30",
+            "timestamp": 1661124644
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "myrabbitpoops",
+            "tweet id": "1563305005586980866",
+            "content": "love it !",
+            "time": "22-08-26 23:18",
+            "timestamp": 1661527132
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "Michael65714379",
+            "tweet id": "1561462256793096193",
+            "content": "einstein 's brain is in a mason jar somewhere in kansas .",
+            "time": "22-08-21 21:16",
+            "timestamp": 1661087787
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "Yodamonkey2",
+            "tweet id": "1561458956861861888",
+            "content": "vote the republicans out ! everyone needs to hear you ! spread the word and lets trend it ! #nomoreinnocentblood protect yourselves and your kids and vote the bad guys out ! do n't let uvalde and democracy be for nothing , get out there and change the usa laws ! #bluecrew",
+            "time": "22-08-21 21:03",
+            "timestamp": 1661087000
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "sjstill",
+            "tweet id": "1569330617933828096",
+            "content": "we need to expand our majorities in congress . be prepared as nov . is quickly approaching . voting for many begins sooner . everything to help you prepare in one spot <url> . let 's get this done everyone . we can out vote them , if we all vote <url> .",
+            "time": "22-09-12 14:22",
+            "timestamp": 1662963750
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "Bosengood",
+            "tweet id": "1580685458081689600",
+            "content": "voter registration closes tomorrow in ny , id , nc and ok and early next week in dc , ks , md , nj , or and wv and ma . please make sure you , your friends and family are registered to vote through",
+            "time": "22-10-13 22:22",
+            "timestamp": 1665670955
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686,
+            0.2773500978946686
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

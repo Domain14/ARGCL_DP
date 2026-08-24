@@ -1,0 +1,699 @@
+{
+    "source": {
+        "content": "monday no taxes day <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+        "time": "20-09-28 21:57",
+        "timestamp": 1601301421,
+        "tweet url": "https://twitter.com/doxie53/status/1310700064780644352",
+        "user id": "doxie53",
+        "tweet id": "1310700064780644352",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                14,
+                15,
+                18,
+                20,
+                23,
+                25,
+                26,
+                27,
+                28
+            ],
+            "user id": "doxie53",
+            "tweet id": "1310700071554482177",
+            "content": "monday drive 2 no taxes <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "20-09-28 21:57",
+            "timestamp": 1601301423
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2,
+                4,
+                6,
+                8,
+                10,
+                12
+            ],
+            "user id": "doxie53",
+            "tweet id": "1310702404933881856",
+            "content": "monday no taxes 3 <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "20-09-28 22:06",
+            "timestamp": 1601301979
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "atadayon",
+            "tweet id": "1310703908512133120",
+            "content": "great list , following all #strongertogether #votebluetoendthisnightmare",
+            "time": "20-09-28 22:12",
+            "timestamp": 1601302338
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310704651134595072",
+            "content": "great",
+            "time": "20-09-28 22:15",
+            "timestamp": 1601302515
+        },
+        {
+            "comment id": 4,
+            "parent": 1,
+            "children": [
+                5
+            ],
+            "user id": "crzyfkinworld",
+            "tweet id": "1310718954596306944",
+            "content": "thanks bill",
+            "time": "20-09-28 23:12",
+            "timestamp": 1601305925
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310719513822781440",
+            "content": "you did n't hold back .",
+            "time": "20-09-28 23:14",
+            "timestamp": 1601306058
+        },
+        {
+            "comment id": 6,
+            "parent": 1,
+            "children": [
+                7
+            ],
+            "user id": "EricRebbert",
+            "tweet id": "1310733867897286658",
+            "content": "followed all i was n't already following !",
+            "time": "20-09-29 00:11",
+            "timestamp": 1601309481
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310735659552796672",
+            "content": "cool . i have n't seen you in awhile . hope all is well ?",
+            "time": "20-09-29 00:18",
+            "timestamp": 1601309908
+        },
+        {
+            "comment id": 8,
+            "parent": 1,
+            "children": [
+                9
+            ],
+            "user id": "customcore7",
+            "tweet id": "1310735774715797504",
+            "content": "thanks bill ! <@user> this is all i have for you ...",
+            "time": "20-09-29 00:18",
+            "timestamp": 1601309935
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "DesertPapillon",
+            "tweet id": "1310738335959146497",
+            "content": "love it , but can you do it in 750 dollar bills ? ! ! !",
+            "time": "20-09-29 00:29",
+            "timestamp": 1601310546
+        },
+        {
+            "comment id": 10,
+            "parent": 1,
+            "children": [
+                11
+            ],
+            "user id": "BrenSumner",
+            "tweet id": "1310736623613538304",
+            "content": "thank you sweet bill",
+            "time": "20-09-29 00:22",
+            "timestamp": 1601310138
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310739952808783872",
+            "content": "we paid less for this hairstyle",
+            "time": "20-09-29 00:35",
+            "timestamp": 1601310931
+        },
+        {
+            "comment id": 12,
+            "parent": 1,
+            "children": [
+                13
+            ],
+            "user id": "kimberleigh30",
+            "tweet id": "1310772043214880770",
+            "content": "that white scalp though",
+            "time": "20-09-29 02:43",
+            "timestamp": 1601318582
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310772988929740800",
+            "content": "this will scare you",
+            "time": "20-09-29 02:46",
+            "timestamp": 1601318808
+        },
+        {
+            "comment id": 14,
+            "parent": 0,
+            "children": [],
+            "user id": "MarisolTorresRS",
+            "tweet id": "1310722329220182019",
+            "content": "graciasnathan .",
+            "time": "20-09-28 23:25",
+            "timestamp": 1601306729
+        },
+        {
+            "comment id": 15,
+            "parent": 0,
+            "children": [
+                16
+            ],
+            "user id": "LRPow79",
+            "tweet id": "1310700972830842886",
+            "content": "thanks nathan ! how bout that lions win yesterday ? ?",
+            "time": "20-09-28 22:00",
+            "timestamp": 1601301638
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "user id": "doxie53",
+            "tweet id": "1310703675069755393",
+            "content": "what happened ? i thought they were snatching defeat from the jaws of victory ?",
+            "time": "20-09-28 22:11",
+            "timestamp": 1601302282
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "LRPow79",
+            "tweet id": "1310704139316400128",
+            "content": "normally . they messed up and won ...",
+            "time": "20-09-28 22:13",
+            "timestamp": 1601302393
+        },
+        {
+            "comment id": 18,
+            "parent": 0,
+            "children": [
+                19
+            ],
+            "user id": "LopezResists",
+            "tweet id": "1310704887559192576",
+            "content": "thank you",
+            "time": "20-09-28 22:16",
+            "timestamp": 1601302571
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310705892401115137",
+            "content": "you are welcome always",
+            "time": "20-09-28 22:20",
+            "timestamp": 1601302811
+        },
+        {
+            "comment id": 20,
+            "parent": 0,
+            "children": [
+                21
+            ],
+            "user id": "SmackeyCracks",
+            "tweet id": "1310713310044659715",
+            "content": "following all including a few new folks . fbs are always appreciated my friends . thanks for the tag brother !",
+            "time": "20-09-28 22:49",
+            "timestamp": 1601304579
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "user id": "doxie53",
+            "tweet id": "1310715133413355522",
+            "content": "yes sir ! how 's it going smackey ? i love your take on things",
+            "time": "20-09-28 22:56",
+            "timestamp": 1601305014
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "SmackeyCracks",
+            "tweet id": "1310718942730694659",
+            "content": "doing well , my friend . i trust you are doing well . thank you ! that 's high praise for a resister of your caliber !",
+            "time": "20-09-28 23:12",
+            "timestamp": 1601305922
+        },
+        {
+            "comment id": 23,
+            "parent": 0,
+            "children": [
+                24
+            ],
+            "user id": "stuhunter1",
+            "tweet id": "1310733664964149250",
+            "content": "great list ! thank you . following all .",
+            "time": "20-09-29 00:10",
+            "timestamp": 1601309432
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310736113712074752",
+            "content": "great i hope you found some new connections",
+            "time": "20-09-29 00:20",
+            "timestamp": 1601310016
+        },
+        {
+            "comment id": 25,
+            "parent": 0,
+            "children": [],
+            "user id": "DimaJayne",
+            "tweet id": "1310713611598229506",
+            "content": "uneffingbelievable",
+            "time": "20-09-28 22:50",
+            "timestamp": 1601304651
+        },
+        {
+            "comment id": 26,
+            "parent": 0,
+            "children": [],
+            "user id": "leiter_robin",
+            "tweet id": "1310741526205493248",
+            "content": "little black devil dog comments : \" it was perfect till he looked in the mirror & scared himself . \" woof ! $ 70,000 down the !",
+            "time": "20-09-29 00:41",
+            "timestamp": 1601311306
+        },
+        {
+            "comment id": 27,
+            "parent": 0,
+            "children": [],
+            "user id": "BrooklynCoastal",
+            "tweet id": "1310710665766531073",
+            "content": "please help support small business ! ! #maskup please share / rt thank you #resisters <url> #wearamask your vote matters #maskup #wearadamnmask #covid19 stay safe !",
+            "time": "20-09-28 22:39",
+            "timestamp": 1601303949
+        },
+        {
+            "comment id": 28,
+            "parent": 0,
+            "children": [
+                29
+            ],
+            "user id": "PhredWrites",
+            "tweet id": "1310754710647783424",
+            "content": "the senate . it is imperative that we flip the senate . #postcardstovoters has addresses jon ossoff . write with us . text join to 484-275-2229 you will get step by step instructions on how to complete your first postcard . #demcastga",
+            "time": "20-09-29 01:34",
+            "timestamp": 1601314450
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [
+                30
+            ],
+            "user id": "darjaz",
+            "tweet id": "1310758933091381251",
+            "content": "still in the process of writing ours . will be ready on the mail date . any word the day change to adjust to the sabotage of the usps . hope no one has forgotten that little news idem ! love all your cramped hands and sore butts ... well done all you postcard writers ! !",
+            "time": "20-09-29 01:50",
+            "timestamp": 1601315457
+        },
+        {
+            "comment id": 30,
+            "parent": 29,
+            "children": [],
+            "user id": "GailWaldby",
+            "tweet id": "1310761197344448514",
+            "content": "you may be writing with a different group than <url> we have a 3 day mailing deadline for each list of addresses we request .",
+            "time": "20-09-29 01:59",
+            "timestamp": 1601315996
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [
+                32
+            ],
+            "user id": "Allen58B",
+            "tweet id": "1310710804468002817",
+            "content": "thanks",
+            "time": "20-09-28 22:39",
+            "timestamp": 1601303982
+        },
+        {
+            "comment id": 32,
+            "parent": 31,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310715478067740672",
+            "content": "rip gop !",
+            "time": "20-09-28 22:58",
+            "timestamp": 1601305096
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "srh_medco",
+            "tweet id": "1310701151105449984",
+            "content": "thanks bill love the meme . i said the same when i heard that .",
+            "time": "20-09-28 22:01",
+            "timestamp": 1601301680
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [
+                35
+            ],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1310706131443109888",
+            "content": "gracias bill",
+            "time": "20-09-28 22:21",
+            "timestamp": 1601302868
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310706825763803136",
+            "content": "great gif and you are welcome always vanessa",
+            "time": "20-09-28 22:23",
+            "timestamp": 1601303033
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [
+                37
+            ],
+            "user id": "Pracken",
+            "tweet id": "1310720080062427137",
+            "content": "found some new resisters . thanks for posting this list . working on following all . y'all have a good evening :o)",
+            "time": "20-09-28 23:16",
+            "timestamp": 1601306193
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310728715328827392",
+            "content": "thank you . the others should begin to get you back .",
+            "time": "20-09-28 23:50",
+            "timestamp": 1601308252
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [
+                39
+            ],
+            "user id": "ResisterThe",
+            "tweet id": "1310727288481251329",
+            "content": "fbr",
+            "time": "20-09-28 23:45",
+            "timestamp": 1601307912
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310731717720772610",
+            "content": "thank you . the others should start to follow",
+            "time": "20-09-29 00:02",
+            "timestamp": 1601308968
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "ElectBlue2022",
+            "tweet id": "1310731844938346498",
+            "content": "thank you bill",
+            "time": "20-09-29 00:03",
+            "timestamp": 1601308998
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "ElosserDonna",
+            "tweet id": "1310732624567164928",
+            "content": "thanks for the shout-out nathan ... agree percent ! ! cheeto \" s getting ripped off on that coif .. no wonder #trumpisbroke ! ! have a happy monday resisters #resignnowtrump #votehimout #votebluetosaveamerica #votebidenharris2020",
+            "time": "20-09-29 00:06",
+            "timestamp": 1601309184
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                43
+            ],
+            "user id": "OnePissedOffGr1",
+            "tweet id": "1310733353788878854",
+            "content": "we got ripped off !",
+            "time": "20-09-29 00:09",
+            "timestamp": 1601309358
+        },
+        {
+            "comment id": 43,
+            "parent": 42,
+            "children": [],
+            "user id": "doxie53",
+            "tweet id": "1310736799325585408",
+            "content": "no kidding . i want a refund lol",
+            "time": "20-09-29 00:22",
+            "timestamp": 1601310179
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            10.0,
+            6.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            0.0012281659292057157,
+            5.196198253543116e-05,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.649396153879934e-06,
+            0.6087986826896667,
+            0.4192814528942108,
+            0.13548798859119415,
+            0.04036566987633705,
+            0.13548798859119415,
+            0.04036566987633705,
+            0.13548798859119415,
+            0.04036566987633705,
+            0.13548798859119415,
+            0.04036566987633705,
+            0.13548798859119415,
+            0.04036566987633705,
+            0.13548798859119415,
+            0.04036566987633705,
+            0.17709730565547943,
+            0.19552436470985413,
+            0.062254808843135834,
+            0.018428703770041466,
+            0.19320367276668549,
+            0.055690210312604904,
+            0.19552436470985413,
+            0.062254808843135834,
+            0.018428703770041466,
+            0.19320367276668549,
+            0.055690210312604904,
+            0.17709730565547943,
+            0.17709730565547943,
+            0.17709730565547943,
+            0.19552436470985413,
+            0.062254808843135834,
+            0.018428703770041466,
+            0.0004222454153932631,
+            0.0004222454153932631,
+            1.649396153879934e-06,
+            0.0004222454153932631,
+            0.0004222454153932631,
+            0.0004222454153932631,
+            0.0004222454153932631,
+            0.0004222454153932631,
+            0.0004222454153932631,
+            1.649396153879934e-06,
+            1.649396153879934e-06,
+            0.0004222454153932631,
+            0.0004222454153932631
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.015856236219406128,
+            0.012684989720582962,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.002114164875820279,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0010570824379101396,
+            1.0000000168623835e-16,
+            0.002114164875820279,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0010570824379101396,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.002114164875820279,
+            0.0015856237150728703,
+            1.0000000168623835e-16,
+            0.0005285412189550698,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0005285412189550698,
+            1.0000000168623835e-16,
+            0.0005285412189550698,
+            1.0000000168623835e-16,
+            0.0005285412189550698,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0005285412189550698,
+            1.0000000168623835e-16
+        ]
+    }
+}

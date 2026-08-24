@@ -1,0 +1,216 @@
+{
+    "source": {
+        "content": "#europeday2022 #happyeuropeday the words of esteban gonzález pons “ europe is not a market , it is the will to live together . leaving europe is not leaving a market , it is leaving shared dreams . we can have a common market , but if we do not have common dreams , we have nothing .",
+        "time": "22-05-09 14:57",
+        "timestamp": 1652079448,
+        "tweet url": "https://twitter.com/BoroumandMaryam/status/1523678543498326016",
+        "user id": "BoroumandMaryam",
+        "tweet id": "1523678543498326016",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "BoroumandMaryam",
+            "tweet id": "1523678546572419073",
+            "content": "europe is the peace that came after the disaster of war and is the pardon between french and germans . europe is the return to freedom of greece , spain and portugal . europe is the fall of the berlin wall & is the end of communism . europe is the welfare state , it is democracy ”",
+            "time": "22-05-09 14:57",
+            "timestamp": 1652079448
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "LorellLair",
+            "tweet id": "1543266045187657731",
+            "content": "for democracy",
+            "time": "22-07-02 16:11",
+            "timestamp": 1656749472
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "AndrewYo16",
+            "tweet id": "1573569800466472960",
+            "content": "it 's also prosperity .",
+            "time": "22-09-24 07:07",
+            "timestamp": 1663974450
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "kemptownbod",
+            "tweet id": "1523710302600105985",
+            "content": "this is the eu i want , and miss .",
+            "time": "22-05-09 17:03",
+            "timestamp": 1652087019
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "BrittenumFaye",
+            "tweet id": "1529478202174980104",
+            "content": "maryam ! thank you for following me on twitter . i am following you back on twitter .",
+            "time": "22-05-25 15:03",
+            "timestamp": 1653462194
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "DanielAhlert9",
+            "tweet id": "1533443642148458498",
+            "content": "may i get a follow ?",
+            "time": "22-06-05 13:40",
+            "timestamp": 1654407628
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "Sarafand",
+            "tweet id": "1563234037048561665",
+            "content": "timevto follow .",
+            "time": "22-08-26 18:36",
+            "timestamp": 1661510212
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "haP65",
+            "tweet id": "1576961518696280064",
+            "content": "beautifully stated . keep the dream alive ! #fbpe #standwithukraine #standwithtrudeau #votebluetosavedemocracy #knowdementia",
+            "time": "22-10-03 15:44",
+            "timestamp": 1664783099
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "lindsay_joker",
+            "tweet id": "1529937820072263693",
+            "content": "",
+            "time": "22-05-26 21:29",
+            "timestamp": 1653571775
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "haP65",
+            "tweet id": "1556831428305981440",
+            "content": "so beautifully quoted . that field of shared dreams promises a future that is more than the sum of its parts . market share is not only the least of it , but will adapt itself to that better future .",
+            "time": "22-08-09 02:35",
+            "timestamp": 1659983711
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "simon4124",
+            "tweet id": "1587038562368757760",
+            "content": "yeah because the vindictive nasty behaviour of the eu since we left shows the shared dreams , they 've behaved like nothing but spoilt petulant children because we left .",
+            "time": "22-10-31 11:07",
+            "timestamp": 1667185653
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "Littlst",
+            "tweet id": "1588839866317819905",
+            "content": "it is the uk government that has been spoilt and petulant , wanting its cake and eating it and wanting more cake . the eu has been a forbearing adult in comparison .",
+            "time": "22-11-05 10:25",
+            "timestamp": 1667615118
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "AmazonF73524699",
+            "tweet id": "1589227511799754753",
+            "content": "check inbox",
+            "time": "22-11-06 12:05",
+            "timestamp": 1667707539
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0008665491477586329,
+            0.49999886751174927,
+            0.35355207324028015,
+            0.35355207324028015,
+            0.0008665491477586329,
+            0.0008665491477586329,
+            0.0008665491477586329,
+            0.0008665491477586329,
+            0.0008665491477586329,
+            0.0008665491477586329,
+            0.35355207324028015,
+            0.49999886751174927,
+            0.35355207324028015,
+            0.0008665491477586329
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.012820512987673283,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.012820512987673283,
+            0.012820512987673283,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

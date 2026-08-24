@@ -1,0 +1,215 @@
+{
+    "source": {
+        "content": "her yeni gün'ün başlangıcında terapi gibi bir parça . aklımı kaçırmadığım bir gün daha ... <@user>",
+        "time": "22-09-12 07:20",
+        "timestamp": 1662938403,
+        "tweet url": "https://twitter.com/kingoftthedevil/status/1569224302276255744",
+        "user id": "kingoftthedevil",
+        "tweet id": "1569224302276255744",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "Tomoko0333",
+            "tweet id": "1601052370959749121",
+            "content": "こんにちわ",
+            "time": "22-12-09 03:13",
+            "timestamp": 1670526806
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "kingoftthedevil",
+            "tweet id": "1601055211878944768",
+            "content": "こんにちわ",
+            "time": "22-12-09 03:24",
+            "timestamp": 1670527483
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "Tomoko0333",
+            "tweet id": "1601052728792600576",
+            "content": "素敵な午後を",
+            "time": "22-12-09 03:14",
+            "timestamp": 1670526891
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "kingoftthedevil",
+            "tweet id": "1601054824916652032",
+            "content": "素敵な午後を",
+            "time": "22-12-09 03:23",
+            "timestamp": 1670527391
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "movlud_mirzeyev",
+            "tweet id": "1599784071223070721",
+            "content": "hakketen güzelmiş ... sevdim !",
+            "time": "22-12-05 15:13",
+            "timestamp": 1670224419
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "kingoftthedevil",
+            "tweet id": "1599785274975756288",
+            "content": "size tamamen dinlemenizi tavsiye ederim apayrı bir dünya",
+            "time": "22-12-05 15:18",
+            "timestamp": 1670224706
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "gizemsarenur",
+            "tweet id": "1604911736389255168",
+            "content": "gt yaparmisin rica etsem",
+            "time": "22-12-19 18:49",
+            "timestamp": 1671446950
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Tomoko0333",
+            "tweet id": "1601055636212842496",
+            "content": "ありがとうございます",
+            "time": "22-12-09 03:26",
+            "timestamp": 1670527584
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "Tomoko0333",
+            "tweet id": "1601055722321907713",
+            "content": "素敵な一日を",
+            "time": "22-12-09 03:26",
+            "timestamp": 1670527605
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "JustoNoelLpez2",
+            "tweet id": "1603965328773578752",
+            "content": "hoy estoy siguiendo al instante , a todos los que me sigan ! ! !",
+            "time": "22-12-17 04:08",
+            "timestamp": 1671221309
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "JustoNoelLpez2",
+            "tweet id": "1603966103105011712",
+            "content": "sigo ... y recomiendo seguir esta cuenta <@user> follow seguro ! ! !",
+            "time": "22-12-17 04:11",
+            "timestamp": 1671221493
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "JustoNoelLpez2",
+            "tweet id": "1604988590399832065",
+            "content": "sigo ... y recomiendo seguir a mi hermano y amigo <@user> follow al instante ! ! !",
+            "time": "22-12-19 23:54",
+            "timestamp": 1671465273
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "WestwardFree",
+            "tweet id": "1602080819488645120",
+            "content": "follow back 100 %",
+            "time": "22-12-11 23:20",
+            "timestamp": 1670772007
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0015947036445140839,
+            0.40824413299560547,
+            0.40824413299560547,
+            0.40824413299560547,
+            0.40824413299560547,
+            0.40824413299560547,
+            0.40824413299560547,
+            0.0015947036445140839,
+            0.0015947036445140839,
+            0.0015947036445140839,
+            0.0015947036445140839,
+            0.0015947036445140839,
+            0.0015947036445140839,
+            0.0015947036445140839
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

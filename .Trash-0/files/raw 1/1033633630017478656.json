@@ -1,0 +1,220 @@
+{
+    "source": {
+        "content": "le reste du temps , nous espérions atteindre la condition du granit ou du bois , ou encore l'heureuse inconsistance des nuages . richard millet #littérature #photographie #citation",
+        "time": "18-08-26 08:33",
+        "timestamp": 1535243636,
+        "tweet url": "https://twitter.com/o_franco_aleman/status/1033633630017478656",
+        "user id": "o_franco_aleman",
+        "tweet id": "1033633630017478656",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1042763261341511687",
+            "content": "richard millet <url> ... #littérature #literature #france #photography #nature #naturephotography #beach #ocean #waves",
+            "time": "18-09-20 13:11",
+            "timestamp": 1537420309
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1047962312055959552",
+            "content": "merci ! <@user>",
+            "time": "18-10-04 21:31",
+            "timestamp": 1538659860
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1048126949770584064",
+            "content": "#merci beaucoup à toutes les personnes qui ont aimé et #partagé ce tweet ! bon vendredi ! #littérature #photographie #thankyou",
+            "time": "18-10-05 08:25",
+            "timestamp": 1538699112
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                5
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1048328875229548548",
+            "content": "merci beaucoup ! <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "18-10-05 21:47",
+            "timestamp": 1538747255
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "larssonzita",
+            "tweet id": "1048654274992001024",
+            "content": "thank you hagw all",
+            "time": "18-10-06 19:20",
+            "timestamp": 1538824836
+        },
+        {
+            "comment id": 5,
+            "parent": 3,
+            "children": [],
+            "user id": "williw01",
+            "tweet id": "1048330936612519937",
+            "content": "euch ein schönes herbstwochenende have a nice autumn weekend bon week-end d'automne que tengas un buen fin de semana de otoño",
+            "time": "18-10-05 21:55",
+            "timestamp": 1538747746
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1370395315736559617",
+            "content": "thank you ! good afternoon ! <@user>",
+            "time": "21-03-12 15:24",
+            "timestamp": 1615533878
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "Alisazvezdica99",
+            "tweet id": "1370405455793688582",
+            "content": "good afternoon",
+            "time": "21-03-12 16:04",
+            "timestamp": 1615536296
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1370400709859020800",
+            "content": "herzlichen dank ! <@user>",
+            "time": "21-03-12 15:46",
+            "timestamp": 1615535164
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "pet_paux",
+            "tweet id": "1370401547423784962",
+            "content": "sehr gerne !",
+            "time": "21-03-12 15:49",
+            "timestamp": 1615535364
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "williw01",
+            "tweet id": "1033788784058478593",
+            "content": "magnifique , franck ! passe un bon dimanche soir .",
+            "time": "18-08-26 18:50",
+            "timestamp": 1535280627
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1033792379285893122",
+            "content": "merci ! bonne soirée !",
+            "time": "18-08-26 19:04",
+            "timestamp": 1535281484
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "ollivier_yves",
+            "tweet id": "1033753292982108160",
+            "content": "st cast 22",
+            "time": "18-08-26 16:29",
+            "timestamp": 1535272165
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            9.200152861765787e-10,
+            0.007717647589743137,
+            0.007717647589743137,
+            9.200152861765787e-10,
+            0.7069382667541504,
+            0.499880850315094,
+            0.499880850315094,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            0.007717647589743137,
+            9.200152861765787e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.012820512987673283,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

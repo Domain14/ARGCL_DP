@@ -1,0 +1,230 @@
+{
+    "source": {
+        "content": "volatile days tend to expose poorly run bitcoin exchanges and services that did not properly manage risk . you should consider withdrawing and holding your bitcoin yourself instead of trusting them . full guide for my suggested setup can be found here : <url> .",
+        "time": "21-05-20 11:31",
+        "timestamp": 1621481488,
+        "tweet url": "https://twitter.com/ODELL/status/1395341397587283969",
+        "user id": "ODELL",
+        "tweet id": "1395341397587283969",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "Joshi_NYC",
+            "tweet id": "1395342074116026373",
+            "content": "thanks for the info !",
+            "time": "21-05-20 11:34",
+            "timestamp": 1621481649
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "BTCSchellingPt",
+            "tweet id": "1395342246640177152",
+            "content": "<url> surprisingly still available",
+            "time": "21-05-20 11:34",
+            "timestamp": 1621481690
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "chillumdafoe",
+            "tweet id": "1395342302072254467",
+            "content": "bisq just chugging along ̄ \\ _ ( ツ ) _ / ̄",
+            "time": "21-05-20 11:35",
+            "timestamp": 1621481703
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "chillumdafoe",
+            "tweet id": "1395343189087825920",
+            "content": "( just ask muh node )",
+            "time": "21-05-20 11:38",
+            "timestamp": 1621481915
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "ImQuenos",
+            "tweet id": "1395343124432629760",
+            "content": "there is no viable alternative to holding your own keys and running your own node . there are very cheap alternatives for the latter . <@user>",
+            "time": "21-05-20 11:38",
+            "timestamp": 1621481899
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "tdrud",
+            "tweet id": "1395346669592629251",
+            "content": "true , any thoughts on what 's happening here ?",
+            "time": "21-05-20 11:52",
+            "timestamp": 1621482744
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "magnum___opus",
+            "tweet id": "1395350242762051584",
+            "content": "plus , if you make it complicate enough to spend your coins , you will not panic sell in time and save your sats",
+            "time": "21-05-20 12:06",
+            "timestamp": 1621483596
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                10
+            ],
+            "user id": "buildimmersion",
+            "tweet id": "1395360224979177478",
+            "content": "today is the day i will take the step . thank you for all the work that you do !",
+            "time": "21-05-20 12:46",
+            "timestamp": 1621485976
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "buildimmersion",
+            "tweet id": "1395644781590683649",
+            "content": "<@user> i am using mullvad vpn on a router level . bitcoin core on an intel nuc with ubuntu . ufw ( firewall ) enabled . should i configure ufw to allow 8333 ( inbound connections ) ?",
+            "time": "21-05-21 07:37",
+            "timestamp": 1621553820
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "ODELL",
+            "tweet id": "1395697195966402563",
+            "content": "up to you but my preference is to run through tor if you want to contribute to the network , then you do n't have to deal with port 8333",
+            "time": "21-05-21 11:05",
+            "timestamp": 1621566316
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "user id": "ODELL",
+            "tweet id": "1395697195966402563",
+            "content": "up to you but my preference is to run through tor if you want to contribute to the network , then you do n't have to deal with port 8333",
+            "time": "21-05-21 11:05",
+            "timestamp": 1621566316
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "btcagnostic",
+            "tweet id": "1395369456000454664",
+            "content": "thank you",
+            "time": "21-05-20 13:22",
+            "timestamp": 1621488177
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "level09",
+            "tweet id": "1395370748320092162",
+            "content": "most of them disabled purchases yesterday , some also disabled withdrawals . reason is most the time : timeout / server busy / unknown error",
+            "time": "21-05-20 13:28",
+            "timestamp": 1621488485
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "infos_sim",
+            "tweet id": "1395441367040548864",
+            "content": "thank you for sharing . very thourough security protocol . gererally speaking , would you recommend a decentralized vpn ?",
+            "time": "21-05-20 18:08",
+            "timestamp": 1621505322
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.952948984282557e-06,
+            4.952948984282557e-06,
+            4.952948984282557e-06,
+            0.020287279039621353,
+            0.020287279039621353,
+            4.952948984282557e-06,
+            4.952948984282557e-06,
+            4.952948984282557e-06,
+            0.60125333070755,
+            0.60125333070755,
+            0.37159499526023865,
+            0.37159499526023865,
+            4.952948984282557e-06,
+            4.952948984282557e-06,
+            4.952948984282557e-06
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.016483517363667488,
+            0.010989011265337467,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

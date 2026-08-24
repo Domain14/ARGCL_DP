@@ -1,0 +1,511 @@
+{
+    "source": {
+        "content": "above all my choices are kindness and love always and forever",
+        "time": "22-01-09 17:02",
+        "timestamp": 1641718925,
+        "tweet url": "https://twitter.com/ValentinoAndy77/status/1480223361749950472",
+        "user id": "ValentinoAndy77",
+        "tweet id": "1480223361749950472",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "DenzilIrvin",
+            "tweet id": "1564108261602869248",
+            "content": "you lost all your hair andy .",
+            "time": "22-08-29 04:30",
+            "timestamp": 1661718643
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1564177242892156928",
+            "content": "yep it started when my first was born lol",
+            "time": "22-08-29 09:04",
+            "timestamp": 1661735090
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "VirginiaAWhite3",
+            "tweet id": "1595537724789985280",
+            "content": "hi andy",
+            "time": "22-11-23 22:00",
+            "timestamp": 1669212011
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1595538138969022464",
+            "content": "hi sweetie",
+            "time": "22-11-23 22:01",
+            "timestamp": 1669212110
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "Katyper97117749",
+            "tweet id": "1518661106226667521",
+            "content": "hi andy fun space with you nice voice you 've got a nice voice .",
+            "time": "22-04-25 18:39",
+            "timestamp": 1650883197
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1518673862937956354",
+            "content": "thank you lori i did n't say much i do n't know too much about what 's going on in the world but i do try and and listen carefully to others",
+            "time": "22-04-25 19:30",
+            "timestamp": 1650886239
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "user id": "Katyper97117749",
+            "tweet id": "1518675484082679808",
+            "content": "that 's okay i heard you and glad i did .",
+            "time": "22-04-25 19:37",
+            "timestamp": 1650886625
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1518677352007544834",
+            "content": "i do n't like how i sound sometimes it 's nice to add voice to the photo though",
+            "time": "22-04-25 19:44",
+            "timestamp": 1650887071
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "Katyper97117749",
+            "tweet id": "1535302002829312002",
+            "content": "i like the new picture",
+            "time": "22-06-10 16:44",
+            "timestamp": 1654850696
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1535356106985414656",
+            "content": "thank you lori i like yours too",
+            "time": "22-06-10 20:19",
+            "timestamp": 1654863596
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "Katyper97117749",
+            "tweet id": "1535356493352079361",
+            "content": "aww thanks andy .",
+            "time": "22-06-10 20:21",
+            "timestamp": 1654863688
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "IAM_AllLove",
+            "tweet id": "1551533871321288706",
+            "content": "i love this !",
+            "time": "22-07-25 11:44",
+            "timestamp": 1658720675
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1551538913185042434",
+            "content": "thank you very much x",
+            "time": "22-07-25 12:04",
+            "timestamp": 1658721877
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "LuvinTrigger",
+            "tweet id": "1516504582934958089",
+            "content": "good afternoon andy",
+            "time": "22-04-19 19:50",
+            "timestamp": 1650369042
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1516506533005344776",
+            "content": "hi marlene hope you 're keeping well sweetie",
+            "time": "22-04-19 19:58",
+            "timestamp": 1650369507
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16
+            ],
+            "user id": "LuvinTrigger",
+            "tweet id": "1516515522401214472",
+            "content": "i 'm fine andy how are you",
+            "time": "22-04-19 20:34",
+            "timestamp": 1650371650
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1516516311924363273",
+            "content": "yeah not too bad my end thanks nice to hear from you marlene x",
+            "time": "22-04-19 20:37",
+            "timestamp": 1650371838
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "LuvinTrigger",
+            "tweet id": "1612931947923111937",
+            "content": "hello andy how have you been",
+            "time": "23-01-10 21:58",
+            "timestamp": 1673359117
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1612936553550217216",
+            "content": "howdy miss marlene not been too good lately had the dreaded lurgy i am on the mend now though thanks . how are you ?",
+            "time": "23-01-10 22:16",
+            "timestamp": 1673360215
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [
+                20
+            ],
+            "user id": "LuvinTrigger",
+            "tweet id": "1613133658537312256",
+            "content": "i 'm fine andy sorry to hear hope you are better take care be safe",
+            "time": "23-01-11 11:20",
+            "timestamp": 1673407209
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1613134770581504001",
+            "content": "thank you sweetie i 'll be fine",
+            "time": "23-01-11 11:24",
+            "timestamp": 1673407474
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                22
+            ],
+            "user id": "AnneAnd59185576",
+            "tweet id": "1480406806241288196",
+            "content": "have a beautiful new week andy",
+            "time": "22-01-10 05:11",
+            "timestamp": 1641762661
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1480427268044382208",
+            "content": "thank you anne you too my friend",
+            "time": "22-01-10 06:32",
+            "timestamp": 1641767540
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "ianatki75837388",
+            "tweet id": "1544918903394111488",
+            "content": "morning andy",
+            "time": "22-07-07 05:39",
+            "timestamp": 1657143544
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1544944919185440769",
+            "content": "morning ian have a beautiful thursday",
+            "time": "22-07-07 07:22",
+            "timestamp": 1657149747
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26
+            ],
+            "user id": "ianatki75837388",
+            "tweet id": "1546368229634969600",
+            "content": "morning andy",
+            "time": "22-07-11 05:38",
+            "timestamp": 1657489090
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [
+                27
+            ],
+            "user id": "ValentinoAndy77",
+            "tweet id": "1546369713781047302",
+            "content": "morning ian have a happy monday",
+            "time": "22-07-11 05:44",
+            "timestamp": 1657489444
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [],
+            "user id": "ianatki75837388",
+            "tweet id": "1546369902059163648",
+            "content": "enjoy your day",
+            "time": "22-07-11 05:44",
+            "timestamp": 1657489489
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "Michael57825268",
+            "tweet id": "1611333214395678720",
+            "content": "thanks for the follow",
+            "time": "23-01-06 12:05",
+            "timestamp": 1672977950
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "LuvinTrigger",
+            "tweet id": "1494468002682740736",
+            "content": "good evening andy",
+            "time": "22-02-18 00:25",
+            "timestamp": 1645115112
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "ianatki75837388",
+            "tweet id": "1563066975768547329",
+            "content": "morning andy",
+            "time": "22-08-26 07:33",
+            "timestamp": 1661470382
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "ianatki75837388",
+            "tweet id": "1600058145966985217",
+            "content": "morning andy how are you",
+            "time": "22-12-06 09:22",
+            "timestamp": 1670289764
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.8776018240185266e-10,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.21308963000774384,
+            0.34478625655174255,
+            0.34478625655174255,
+            0.21308963000774384,
+            0.04225705936551094,
+            0.05976050719618797,
+            0.04225705936551094,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.21308963000774384,
+            0.34478625655174255,
+            0.34478625655174255,
+            0.21308963000774384,
+            0.21308963000774384,
+            0.34478625655174255,
+            0.34478625655174255,
+            0.21308963000774384,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.0007875232840888202,
+            0.04225705936551094,
+            0.05976050719618797,
+            0.04225705936551094,
+            1.8776018240185266e-10,
+            1.8776018240185266e-10,
+            1.8776018240185266e-10,
+            1.8776018240185266e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0010080644860863686,
+            1.0000000168623835e-16,
+            0.0010080644860863686,
+            1.0000000168623835e-16,
+            0.0030241934582591057,
+            0.004032257944345474,
+            0.0030241934582591057,
+            1.0000000168623835e-16,
+            0.002016128972172737,
+            0.002016128972172737,
+            1.0000000168623835e-16,
+            0.0010080644860863686,
+            1.0000000168623835e-16,
+            0.0030241934582591057,
+            0.004032257944345474,
+            0.0030241934582591057,
+            1.0000000168623835e-16,
+            0.0030241934582591057,
+            0.004032257944345474,
+            0.0030241934582591057,
+            1.0000000168623835e-16,
+            0.0010080644860863686,
+            1.0000000168623835e-16,
+            0.0010080644860863686,
+            1.0000000168623835e-16,
+            0.002016128972172737,
+            0.002016128972172737,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

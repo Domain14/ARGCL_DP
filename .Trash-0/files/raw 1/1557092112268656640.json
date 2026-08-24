@@ -1,0 +1,404 @@
+{
+    "source": {
+        "content": "completely false . shame on you .",
+        "time": "22-08-09 19:51",
+        "timestamp": 1660045863,
+        "tweet url": "https://twitter.com/lauferlaw/status/1557092112268656640",
+        "user id": "lauferlaw",
+        "tweet id": "1557092112268656640",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "Elle4Love4Life",
+            "tweet id": "1557093076140601344",
+            "content": "it amazes me you continue to get up each day and continue to be so evil",
+            "time": "22-08-09 19:54",
+            "timestamp": 1660046093
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "Donna12May",
+            "tweet id": "1557093693860880384",
+            "content": "reported",
+            "time": "22-08-09 19:57",
+            "timestamp": 1660046240
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                7,
+                10,
+                17,
+                19,
+                20
+            ],
+            "user id": "a_dallasgirl",
+            "tweet id": "1557183629587087360",
+            "content": "then why so many new agents ?",
+            "time": "22-08-10 01:54",
+            "timestamp": 1660067683
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "IraSelmon",
+            "tweet id": "1557404744934576129",
+            "content": "not agents . employees . call center agents , hr people , software developers , it admins , paper clerks , etc . agents are a small number of them .",
+            "time": "22-08-10 16:33",
+            "timestamp": 1660120401
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5,
+                6
+            ],
+            "user id": "a_dallasgirl",
+            "tweet id": "1557406420265484289",
+            "content": "and your point is ?",
+            "time": "22-08-10 16:40",
+            "timestamp": 1660120800
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "Bob_Anderson_",
+            "tweet id": "1558137231893622784",
+            "content": "that the irs is woefully underfunded . any other stupid questions ?",
+            "time": "22-08-12 17:03",
+            "timestamp": 1660295039
+        },
+        {
+            "comment id": 6,
+            "parent": 4,
+            "children": [],
+            "user id": "karmarro1",
+            "tweet id": "1557693934469521408",
+            "content": "so this is your argument ? \" why so many agents ? \" you ask and you got your answer - - a reasonable and , based on the articles i 've been reading , a true answer . and you try to turn this around instead of just letting it go .",
+            "time": "22-08-11 11:42",
+            "timestamp": 1660189349
+        },
+        {
+            "comment id": 7,
+            "parent": 2,
+            "children": [
+                8
+            ],
+            "user id": "lighthouse_lily",
+            "tweet id": "1557758822390943744",
+            "content": "going after the super rich who have n't paid their fair share of taxes .",
+            "time": "22-08-11 16:00",
+            "timestamp": 1660204819
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "a_dallasgirl",
+            "tweet id": "1558187253846908929",
+            "content": "really ? you 've seen them personally ?",
+            "time": "22-08-12 20:22",
+            "timestamp": 1660306965
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "ReplyHere1",
+            "tweet id": "1558269003201744896",
+            "content": "i mean , ffs , have you heard of research ? assuming you can read ?",
+            "time": "22-08-13 01:47",
+            "timestamp": 1660326456
+        },
+        {
+            "comment id": 10,
+            "parent": 2,
+            "children": [
+                11,
+                13,
+                14,
+                16
+            ],
+            "user id": "kentuckycatkady",
+            "tweet id": "1557341912776024067",
+            "content": "because , if you have bothered to read anything , is they do n't have enough staff to process tax returns .",
+            "time": "22-08-10 12:23",
+            "timestamp": 1660105420
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "a_dallasgirl",
+            "tweet id": "1557406756975923204",
+            "content": "so they need 87,000 ? why read ? biden and pelosi said it was to go after billionaires",
+            "time": "22-08-10 16:41",
+            "timestamp": 1660120880
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "kentuckycatkady",
+            "tweet id": "1557431121750679553",
+            "content": "could be that too , they need to pay their fair share of taxes .",
+            "time": "22-08-10 18:18",
+            "timestamp": 1660126689
+        },
+        {
+            "comment id": 13,
+            "parent": 10,
+            "children": [],
+            "user id": "Karmasbusdriver",
+            "tweet id": "1557372582948634625",
+            "content": "or to field calls from tax payers .",
+            "time": "22-08-10 14:25",
+            "timestamp": 1660112733
+        },
+        {
+            "comment id": 14,
+            "parent": 10,
+            "children": [
+                15
+            ],
+            "user id": "theadamferrell",
+            "tweet id": "1557393948636860416",
+            "content": "because the irs is horrifically understaffed",
+            "time": "22-08-10 15:50",
+            "timestamp": 1660117826
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "a_dallasgirl",
+            "tweet id": "1557406521155371015",
+            "content": "oh ok . if that makes y'all feel better",
+            "time": "22-08-10 16:40",
+            "timestamp": 1660120824
+        },
+        {
+            "comment id": 16,
+            "parent": 10,
+            "children": [],
+            "user id": "pat986542",
+            "tweet id": "1557750769524568064",
+            "content": "cnn tell you that ?",
+            "time": "22-08-11 15:28",
+            "timestamp": 1660202899
+        },
+        {
+            "comment id": 17,
+            "parent": 2,
+            "children": [
+                18
+            ],
+            "user id": "ChadDarnell",
+            "tweet id": "1559392445900566529",
+            "content": "do you not have google ? jesus .",
+            "time": "22-08-16 04:11",
+            "timestamp": 1660594305
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "MelissaJPeltier",
+            "tweet id": "1582011206378090497",
+            "content": "let me help . fyi dearheart , this was debunked months ago .",
+            "time": "22-10-17 14:10",
+            "timestamp": 1665987038
+        },
+        {
+            "comment id": 19,
+            "parent": 2,
+            "children": [],
+            "user id": "PepinLachance",
+            "tweet id": "1557458898579333120",
+            "content": "because there are scumbags who think they are special and entitled so they do n't have to pay taxes . there is always some dipshit that wants to cheat . that wants the benefits of living in a society without actually chipping in when the time comes . even the bible says pay ur taxes .",
+            "time": "22-08-10 20:08",
+            "timestamp": 1660133312
+        },
+        {
+            "comment id": 20,
+            "parent": 2,
+            "children": [],
+            "user id": "GC30783567",
+            "tweet id": "1560675699375378432",
+            "content": "a big city girl with a small town brain .",
+            "time": "22-08-19 17:10",
+            "timestamp": 1660900257
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "pat986542",
+            "tweet id": "1557750633305985024",
+            "content": "completely true . shame on you .",
+            "time": "22-08-11 15:27",
+            "timestamp": 1660202867
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "AdamKoppekin",
+            "tweet id": "1582013292309991424",
+            "content": "the vast majority of people and households making under 75,000 take the standard deduction . they have nothing to worry about . the underfunded irs will be going after people with \" creative \" deductions that are meant to skirt the law .",
+            "time": "22-10-17 14:18",
+            "timestamp": 1665987535
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "FIy_Screaming",
+            "tweet id": "1557095011141013505",
+            "content": "you can't shame somebody who sells out their fellow countrymen because they 're too #spineless to do the right thing . #newcenturymccarthyism",
+            "time": "22-08-09 20:02",
+            "timestamp": 1660046554
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "SandraVwiz80",
+            "tweet id": "1557330460203950080",
+            "content": "no it 's not shame on you",
+            "time": "22-08-10 11:38",
+            "timestamp": 1660102690
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            6.0,
+            1.0,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            4.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.000689868931658566,
+            1.6997735656332225e-05,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            1.7978043615585193e-05,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            6.771159860363696e-06,
+            6.771159860363696e-06,
+            6.771159860363696e-06,
+            0.5793539881706238,
+            0.25780513882637024,
+            0.13347309827804565,
+            0.05074307322502136,
+            0.05074307322502136,
+            0.24487899243831635,
+            0.10250181704759598,
+            0.03781692683696747,
+            0.4643999934196472,
+            0.1915154904127121,
+            0.06905905902385712,
+            0.16636739671230316,
+            0.1915154904127121,
+            0.06905905902385712,
+            0.16636739671230316,
+            0.23711247742176056,
+            0.08439573645591736,
+            0.20706884562969208,
+            0.20706884562969208,
+            6.771159860363696e-06,
+            6.771159860363696e-06,
+            6.771159860363696e-06,
+            6.771159860363696e-06
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.029999999329447746,
+            0.009999999776482582,
+            0.009999999776482582,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.006666666828095913,
+            0.004999999888241291,
+            1.0000000168623835e-16,
+            0.019999999552965164,
+            0.004999999888241291,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.004999999888241291,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0033333334140479565,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

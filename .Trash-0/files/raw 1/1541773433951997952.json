@@ -1,0 +1,270 @@
+{
+    "source": {
+        "content": "all the cool kids are joining",
+        "time": "22-06-28 13:20",
+        "timestamp": 1656393606,
+        "tweet url": "https://twitter.com/blackhatwizardd/status/1541773433951997952",
+        "user id": "blackhatwizardd",
+        "tweet id": "1541773433951997952",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "blackhatwizardd",
+            "tweet id": "1541773502402945025",
+            "content": "<url>",
+            "time": "22-06-28 13:20",
+            "timestamp": 1656393622
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "AnthonyEclipse",
+            "tweet id": "1541774774103425025",
+            "content": "this is a steal for the price",
+            "time": "22-06-28 13:25",
+            "timestamp": 1656393925
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                5
+            ],
+            "user id": "Reester3",
+            "tweet id": "1541799693612716032",
+            "content": "i 'm def gonna join .",
+            "time": "22-06-28 15:04",
+            "timestamp": 1656399866
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "_Stephenbishop",
+            "tweet id": "1541805115178471424",
+            "content": "do it . yesterday .",
+            "time": "22-06-28 15:25",
+            "timestamp": 1656401159
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "blackhatwizardd",
+            "tweet id": "1541805259319902208",
+            "content": "facts",
+            "time": "22-06-28 15:26",
+            "timestamp": 1656401193
+        },
+        {
+            "comment id": 5,
+            "parent": 2,
+            "children": [],
+            "user id": "Awukudaar",
+            "tweet id": "1543157463888936960",
+            "content": "get yourself b-eco fuel tabs , use them , see results then help others save up on fuel as well by sharing your link with them . get paid . link is on my bio see you on the other side",
+            "time": "22-07-02 08:59",
+            "timestamp": 1656723584
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "thought_bender",
+            "tweet id": "1541824041278877696",
+            "content": "the value ratio here is actually insane - it 's cheap enough for someone to afford who is just beginning and more than good enough to be charging more than you are",
+            "time": "22-06-28 16:41",
+            "timestamp": 1656405671
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "TheHustleFather",
+            "tweet id": "1542791055707459585",
+            "content": "yep . this is where 10k months reside #internetmoney",
+            "time": "22-07-01 08:43",
+            "timestamp": 1656636226
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "Godsonphotogra1",
+            "tweet id": "1542811195475984387",
+            "content": "the value on the internet is so so massive",
+            "time": "22-07-01 10:03",
+            "timestamp": 1656641027
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "suzygeeky",
+            "tweet id": "1542971787570454536",
+            "content": "internet money and email marketing exit since 1996 do you think yourself smart and invent this",
+            "time": "22-07-01 20:41",
+            "timestamp": 1656679315
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "sowmenroy",
+            "tweet id": "1543556401767018497",
+            "content": "do n't beg bruh",
+            "time": "22-07-03 11:24",
+            "timestamp": 1656818698
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "romsweb",
+            "tweet id": "1543923798059036672",
+            "content": "you vsl make me want to join ! even if the $ 10k / month is behind . thanks for that feeling",
+            "time": "22-07-04 11:44",
+            "timestamp": 1656906292
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "DetectivePepsi",
+            "tweet id": "1544337298925436928",
+            "content": "bots on a sponsored crypto post , what a surprise",
+            "time": "22-07-05 15:07",
+            "timestamp": 1657004879
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "ruleyourmedia",
+            "tweet id": "1558752992505090050",
+            "content": "best group i 've joined in the last 2 years , made more financial progress than ever in 6 weeks , also just improved understanding of business in general . daniel gives you everything you need to start with . offers , outbound / inbound , sales , marketing etc .",
+            "time": "22-08-14 09:50",
+            "timestamp": 1660441848
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "glennreactivly",
+            "tweet id": "1559091801008607232",
+            "content": "yup",
+            "time": "22-08-15 08:17",
+            "timestamp": 1660522626
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "Trust_IcOkamgba",
+            "tweet id": "1564514912902291456",
+            "content": "no traffic on the road that leads to righteousness so is those that leads to true richness .",
+            "time": "22-08-30 07:26",
+            "timestamp": 1661815597
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "joinnitink",
+            "tweet id": "1541776484880117761",
+            "content": "be your shameless promoter !",
+            "time": "22-06-28 13:32",
+            "timestamp": 1656394333
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.6014992594718933,
+            0.6014992594718933,
+            0.3717472553253174,
+            0.3717472553253174,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683,
+            0.0006094217533245683
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.011029412038624287,
+            0.007352941203862429,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

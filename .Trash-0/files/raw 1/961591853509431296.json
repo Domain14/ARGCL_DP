@@ -1,0 +1,229 @@
+{
+    "source": {
+        "content": "by \" #dignity \" i meant mutual self-respect , the sense that we have some right to be here and that there is value in it . ron padgett #poetry #photography",
+        "time": "18-02-08 13:25",
+        "timestamp": 1518067538,
+        "tweet url": "https://twitter.com/o_franco_aleman/status/961591853509431296",
+        "user id": "o_franco_aleman",
+        "tweet id": "961591853509431296",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "965554684017696768",
+            "content": "ron padgett <url> ... #literature #poetry #usa #newyorkschool #poesie #photographie #nature #naturephotography #landscape #coast #pines #sea",
+            "time": "18-02-19 11:52",
+            "timestamp": 1519012350
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1374301399509524481",
+            "content": "thank you very much ! <@user>",
+            "time": "21-03-23 10:06",
+            "timestamp": 1616465161
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "pet_paux",
+            "tweet id": "1374708245097496578",
+            "content": "you are welcome !",
+            "time": "21-03-24 13:02",
+            "timestamp": 1616562161
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1030165696800612352",
+            "content": "thank you very much ! <@user> <@user> <@user> <@user>",
+            "time": "18-08-16 18:53",
+            "timestamp": 1534416816
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1059126466204614656",
+            "content": "thank you very much ! <@user>",
+            "time": "18-11-04 16:53",
+            "timestamp": 1541321601
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "AnxietyPath",
+            "tweet id": "1059130842432397321",
+            "content": "all the best to you ! wishing you a wonderful new week ahead !",
+            "time": "18-11-04 17:10",
+            "timestamp": 1541322645
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1059130924263186433",
+            "content": "thank you !",
+            "time": "18-11-04 17:11",
+            "timestamp": 1541322664
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "969690242621038593",
+            "content": "thank you very much for all retweets and likes ! #happyweekend ! #poetry #photography",
+            "time": "18-03-02 21:45",
+            "timestamp": 1519998344
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1059128018432614400",
+            "content": "thank you very much ! <@user>",
+            "time": "18-11-04 16:59",
+            "timestamp": 1541321971
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1205157733693042688",
+            "content": "thanks for rt ! <@user>",
+            "time": "19-12-12 16:09",
+            "timestamp": 1576138169
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1374340761752371204",
+            "content": "thanks a lot ! <@user>",
+            "time": "21-03-23 12:42",
+            "timestamp": 1616474546
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1389985177728860160",
+            "content": "thank you ! good evening ! <@user>",
+            "time": "21-05-05 16:47",
+            "timestamp": 1620204465
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1390211788663296004",
+            "content": "thank you ! happy thursday ! <@user>",
+            "time": "21-05-06 07:48",
+            "timestamp": 1620258493
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1390213749760569344",
+            "content": "thanks for rt ! <@user>",
+            "time": "21-05-06 07:56",
+            "timestamp": 1620258961
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            0.028803659602999687,
+            0.028803659602999687,
+            4.395089661102247e-07,
+            0.49958500266075134,
+            0.7065199017524719,
+            0.49958500266075134,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.010989011265337467,
+            0.010989011265337467,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

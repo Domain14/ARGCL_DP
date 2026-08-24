@@ -1,0 +1,1867 @@
+{
+    "source": {
+        "content": "my dog loves me & that 's all that matters to me . i hope you all had a wonderful day .",
+        "time": "22-03-22 01:17",
+        "timestamp": 1647883059,
+        "tweet url": "https://twitter.com/LeonaLioness6/status/1506077613277728769",
+        "user id": "LeonaLioness6",
+        "tweet id": "1506077613277728769",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "4wding",
+            "tweet id": "1506077773873369090",
+            "content": "what a beautiful picture - true love",
+            "time": "22-03-22 01:18",
+            "timestamp": 1647883097
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506077877577650178",
+            "content": "thank you",
+            "time": "22-03-22 01:18",
+            "timestamp": 1647883122
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "Tjeerd001",
+            "tweet id": "1506077875128131587",
+            "content": "great picture !",
+            "time": "22-03-22 01:18",
+            "timestamp": 1647883121
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506077944170651650",
+            "content": "thank you .",
+            "time": "22-03-22 01:18",
+            "timestamp": 1647883138
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "NellyOcker",
+            "tweet id": "1506077979763523590",
+            "content": "leona see it in his eyes and persona awww bless",
+            "time": "22-03-22 01:19",
+            "timestamp": 1647883146
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "Rene_gadeCowboy",
+            "tweet id": "1506078241177497604",
+            "content": "now if we could only get humans to look and love us unconditionally as dogs do",
+            "time": "22-03-22 01:20",
+            "timestamp": 1647883208
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7,
+                9
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506078971246559237",
+            "content": "if only we could do that . that would be great . i had a rough day today and then seeing him made me realize people who do n't like me or talk about me , do n't matter . i 've got him and those who love me . the rest do n't matter .",
+            "time": "22-03-22 01:23",
+            "timestamp": 1647883382
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "Rene_gadeCowboy",
+            "tweet id": "1506079536353480706",
+            "content": "that 's a very good way of looking at it ... but sadly we are humans and we sometimes let ppl get in our heads . animals have a great way of keeping us grounded",
+            "time": "22-03-22 01:25",
+            "timestamp": 1647883517
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506084732060188674",
+            "content": "yep . we do . we have to remind ourselves sometimes that others opinions do n't matter . people who do n't truly know you especially do n't matter . animals are the best .",
+            "time": "22-03-22 01:45",
+            "timestamp": 1647884756
+        },
+        {
+            "comment id": 9,
+            "parent": 6,
+            "children": [
+                10
+            ],
+            "user id": "mtbhawk",
+            "tweet id": "1506097911683325953",
+            "content": "i hope you have a better day tomorrow , leona . be safe and have fun",
+            "time": "22-03-22 02:38",
+            "timestamp": 1647887898
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506099557381427207",
+            "content": "thank you . i hope you have a wonderful rest of the night .",
+            "time": "22-03-22 02:44",
+            "timestamp": 1647888291
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "TheMarco",
+            "tweet id": "1506078523521265664",
+            "content": "adorable ! ! ! hi from my bullies :)",
+            "time": "22-03-22 01:21",
+            "timestamp": 1647883276
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506092401303367683",
+            "content": "awww . they 're too cute ! ! !",
+            "time": "22-03-22 02:16",
+            "timestamp": 1647886584
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14,
+                15
+            ],
+            "user id": "Superteacher74",
+            "tweet id": "1506078747690078212",
+            "content": "the doods say hi henry",
+            "time": "22-03-22 01:22",
+            "timestamp": 1647883329
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506094397452128265",
+            "content": "awwww . hi cutie pies ! ! !",
+            "time": "22-03-22 02:24",
+            "timestamp": 1647887060
+        },
+        {
+            "comment id": 15,
+            "parent": 13,
+            "children": [],
+            "user id": "Commander_Bee",
+            "tweet id": "1506078991274295296",
+            "content": "hiiii doods and henry",
+            "time": "22-03-22 01:23",
+            "timestamp": 1647883387
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "JohnPaul_HI",
+            "tweet id": "1506080064508551170",
+            "content": "we all need someone that looks at us like that . adorable leona",
+            "time": "22-03-22 01:27",
+            "timestamp": 1647883643
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506081121817313294",
+            "content": "we do . he 's making everything so much better .",
+            "time": "22-03-22 01:31",
+            "timestamp": 1647883895
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "JohnPaul_HI",
+            "tweet id": "1506086451154329601",
+            "content": "i really love this for you .",
+            "time": "22-03-22 01:52",
+            "timestamp": 1647885166
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "howler4life",
+            "tweet id": "1506080549609349123",
+            "content": "this is my new current favourite of you two",
+            "time": "22-03-22 01:29",
+            "timestamp": 1647883759
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506080977860411395",
+            "content": "aww . thank you .",
+            "time": "22-03-22 01:31",
+            "timestamp": 1647883861
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                22,
+                23,
+                25,
+                26
+            ],
+            "user id": "SarahLarchmont",
+            "tweet id": "1506081852142071812",
+            "content": "dogs are my favorite people .",
+            "time": "22-03-22 01:34",
+            "timestamp": 1647884069
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506090578462846979",
+            "content": "sames . he is adorable !",
+            "time": "22-03-22 02:09",
+            "timestamp": 1647886150
+        },
+        {
+            "comment id": 23,
+            "parent": 21,
+            "children": [
+                24
+            ],
+            "user id": "oldcrank2",
+            "tweet id": "1506089208460492801",
+            "content": "george ! ! !",
+            "time": "22-03-22 02:03",
+            "timestamp": 1647885823
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [],
+            "user id": "SarahLarchmont",
+            "tweet id": "1506089659256000516",
+            "content": "he is my love .",
+            "time": "22-03-22 02:05",
+            "timestamp": 1647885931
+        },
+        {
+            "comment id": 25,
+            "parent": 21,
+            "children": [],
+            "user id": "JimKa3ceb",
+            "tweet id": "1506275412657246217",
+            "content": "mine too !",
+            "time": "22-03-22 14:23",
+            "timestamp": 1647930218
+        },
+        {
+            "comment id": 26,
+            "parent": 21,
+            "children": [],
+            "user id": "Ericjoojoo",
+            "tweet id": "1506274516875587594",
+            "content": "agreed percent",
+            "time": "22-03-22 14:20",
+            "timestamp": 1647930004
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "user id": "enoch5040",
+            "tweet id": "1506082064524722176",
+            "content": "omg leona all of these pictures are so amazing ! !",
+            "time": "22-03-22 01:35",
+            "timestamp": 1647884120
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [
+                29
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506083202607288321",
+            "content": "thanks . i 'm surprised they came out okay , it was n't easy getting him to settle down in the pictures",
+            "time": "22-03-22 01:39",
+            "timestamp": 1647884391
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "enoch5040",
+            "tweet id": "1506083677796802564",
+            "content": "they way he looks at you is priceless these pics are all frame worthy",
+            "time": "22-03-22 01:41",
+            "timestamp": 1647884505
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [
+                31,
+                33
+            ],
+            "user id": "WickedWalnut",
+            "tweet id": "1506082216144744450",
+            "content": "awwww henry ! !",
+            "time": "22-03-22 01:35",
+            "timestamp": 1647884156
+        },
+        {
+            "comment id": 31,
+            "parent": 30,
+            "children": [
+                32
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506085973553262593",
+            "content": "henry says hi ! !",
+            "time": "22-03-22 01:50",
+            "timestamp": 1647885052
+        },
+        {
+            "comment id": 32,
+            "parent": 31,
+            "children": [],
+            "user id": "WickedWalnut",
+            "tweet id": "1506086835759595523",
+            "content": "hiii",
+            "time": "22-03-22 01:54",
+            "timestamp": 1647885258
+        },
+        {
+            "comment id": 33,
+            "parent": 30,
+            "children": [],
+            "user id": "Mercury0382",
+            "tweet id": "1506085645734670340",
+            "content": "i want one ! ! ! sorry current dogs , henry is in town",
+            "time": "22-03-22 01:49",
+            "timestamp": 1647884974
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [
+                35
+            ],
+            "user id": "gmrjr59",
+            "tweet id": "1506084037722447875",
+            "content": "these are some of your most beautiful pictures .",
+            "time": "22-03-22 01:43",
+            "timestamp": 1647884590
+        },
+        {
+            "comment id": 35,
+            "parent": 34,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506469759994535946",
+            "content": "thank you",
+            "time": "22-03-23 03:15",
+            "timestamp": 1647976554
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [
+                37
+            ],
+            "user id": "laurietug1",
+            "tweet id": "1506085480286371842",
+            "content": "he 's so cute",
+            "time": "22-03-22 01:48",
+            "timestamp": 1647884934
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506085740249501698",
+            "content": "he is . i just cut his nails .. he thought the clipper was a toy he 's so silly but very well behaved",
+            "time": "22-03-22 01:49",
+            "timestamp": 1647884996
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [
+                39
+            ],
+            "user id": "FacMan57",
+            "tweet id": "1506085596992880643",
+            "content": "that pose is precious ! it 's name ?",
+            "time": "22-03-22 01:49",
+            "timestamp": 1647884962
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506085870075527169",
+            "content": "his name is henry . just got him not long ago .",
+            "time": "22-03-22 01:50",
+            "timestamp": 1647885027
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [
+                41,
+                43,
+                44,
+                46,
+                48,
+                50,
+                52,
+                54,
+                56,
+                58,
+                61,
+                63,
+                65,
+                66,
+                67,
+                68,
+                70,
+                71,
+                72,
+                73
+            ],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506085876450930691",
+            "content": "this is lucky , he got attacked by dogs at a park , i managed to track him , trap him , and get him fixed up . he lives with us now , forever . #rescuecat #cat #adopted",
+            "time": "22-03-22 01:50",
+            "timestamp": 1647885029
+        },
+        {
+            "comment id": 41,
+            "parent": 40,
+            "children": [
+                42
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506091988860522496",
+            "content": "omg . hi lucky ! ! what a beautiful kitty ! i 'm so glad he 's okay and thankful people like you are out there to help animals like him . thank you for sharing that story with me . my dog who just passed name was lucky also .",
+            "time": "22-03-22 02:14",
+            "timestamp": 1647886486
+        },
+        {
+            "comment id": 42,
+            "parent": 41,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506092365731311619",
+            "content": "and your dog was lucky to have had you , as you were lucky to have had them .",
+            "time": "22-03-22 02:16",
+            "timestamp": 1647886576
+        },
+        {
+            "comment id": 43,
+            "parent": 40,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506277843826790405",
+            "content": "lucky is truly overwhelmed by your kindness and support . here he is making friends with his big sister :",
+            "time": "22-03-22 14:33",
+            "timestamp": 1647930797
+        },
+        {
+            "comment id": 44,
+            "parent": 40,
+            "children": [
+                45
+            ],
+            "user id": "dionna17",
+            "tweet id": "1506090853399416832",
+            "content": "he has such a regal countenance . love the bowtie !",
+            "time": "22-03-22 02:10",
+            "timestamp": 1647886215
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506091112850763781",
+            "content": "he says thank you . i try to speak to him in my faux posh english accent .",
+            "time": "22-03-22 02:11",
+            "timestamp": 1647886277
+        },
+        {
+            "comment id": 46,
+            "parent": 40,
+            "children": [
+                47
+            ],
+            "user id": "body_politic",
+            "tweet id": "1506093078238609419",
+            "content": "omg ! that is so sad , and joyful and heartwarming . i know how it feels to rescue a cat from the elements , or danger . it bonds you like nothing else can .",
+            "time": "22-03-22 02:19",
+            "timestamp": 1647886746
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506097664882057224",
+            "content": "i guess he chose the right people to be rescued by . thank you",
+            "time": "22-03-22 02:37",
+            "timestamp": 1647887839
+        },
+        {
+            "comment id": 48,
+            "parent": 40,
+            "children": [
+                49
+            ],
+            "user id": "AirmanDg",
+            "tweet id": "1506094968317820938",
+            "content": "cuuuuute",
+            "time": "22-03-22 02:26",
+            "timestamp": 1647887196
+        },
+        {
+            "comment id": 49,
+            "parent": 48,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506097967677292547",
+            "content": "thank you",
+            "time": "22-03-22 02:38",
+            "timestamp": 1647887912
+        },
+        {
+            "comment id": 50,
+            "parent": 40,
+            "children": [
+                51
+            ],
+            "user id": "finniesfriend",
+            "tweet id": "1506096092013895680",
+            "content": "that 's a beautiful puddycat",
+            "time": "22-03-22 02:31",
+            "timestamp": 1647887464
+        },
+        {
+            "comment id": 51,
+            "parent": 50,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506097857421627392",
+            "content": "yeah , he 's rapidly becoming the most handsome man in the house",
+            "time": "22-03-22 02:38",
+            "timestamp": 1647887885
+        },
+        {
+            "comment id": 52,
+            "parent": 40,
+            "children": [
+                53
+            ],
+            "user id": "RedDragonWing",
+            "tweet id": "1506099459754758144",
+            "content": "love the bow tie",
+            "time": "22-03-22 02:44",
+            "timestamp": 1647888267
+        },
+        {
+            "comment id": 53,
+            "parent": 52,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506100011511201795",
+            "content": "as long as i do n't need to tie it , he can keep it ! tbh the pickings were thin at my pet store , it was this or pink diamanté , which would also have looked great , it was a coin flip .",
+            "time": "22-03-22 02:46",
+            "timestamp": 1647888399
+        },
+        {
+            "comment id": 54,
+            "parent": 40,
+            "children": [
+                55
+            ],
+            "user id": "NotajeDimindtrk",
+            "tweet id": "1506101606680571907",
+            "content": "thanks for taking care of him .",
+            "time": "22-03-22 02:52",
+            "timestamp": 1647888779
+        },
+        {
+            "comment id": 55,
+            "parent": 54,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506104740144455680",
+            "content": "hopefully he returns the favor !",
+            "time": "22-03-22 03:05",
+            "timestamp": 1647889526
+        },
+        {
+            "comment id": 56,
+            "parent": 40,
+            "children": [
+                57
+            ],
+            "user id": "cannebrannen",
+            "tweet id": "1506113189594947589",
+            "content": "thank you for rescuing lucky . he 's beautiful and you have a kind and compassionate heart",
+            "time": "22-03-22 03:39",
+            "timestamp": 1647891541
+        },
+        {
+            "comment id": 57,
+            "parent": 56,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506115008043929604",
+            "content": "thank you",
+            "time": "22-03-22 03:46",
+            "timestamp": 1647891974
+        },
+        {
+            "comment id": 58,
+            "parent": 40,
+            "children": [
+                59
+            ],
+            "user id": "Rummy26",
+            "tweet id": "1506118135077822465",
+            "content": "so handsome ! what a lucky guy .",
+            "time": "22-03-22 03:58",
+            "timestamp": 1647892720
+        },
+        {
+            "comment id": 59,
+            "parent": 58,
+            "children": [
+                60
+            ],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506119942193692673",
+            "content": "thank you",
+            "time": "22-03-22 04:05",
+            "timestamp": 1647893151
+        },
+        {
+            "comment id": 60,
+            "parent": 59,
+            "children": [],
+            "user id": "Rummy26",
+            "tweet id": "1506120845097410561",
+            "content": "you 're lucky too ! black cats are the best",
+            "time": "22-03-22 04:09",
+            "timestamp": 1647893366
+        },
+        {
+            "comment id": 61,
+            "parent": 40,
+            "children": [
+                62
+            ],
+            "user id": "MMcrzyldy",
+            "tweet id": "1506135575211827201",
+            "content": "very snazzy w / the bow tie . glad he 's safe now .",
+            "time": "22-03-22 05:07",
+            "timestamp": 1647896878
+        },
+        {
+            "comment id": 62,
+            "parent": 61,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506287170478350348",
+            "content": "thank you",
+            "time": "22-03-22 15:10",
+            "timestamp": 1647933021
+        },
+        {
+            "comment id": 63,
+            "parent": 40,
+            "children": [
+                64
+            ],
+            "user id": "EileenLunkes",
+            "tweet id": "1506267754374082568",
+            "content": "how wonderful . what a wonderful life you have given him",
+            "time": "22-03-22 13:53",
+            "timestamp": 1647928392
+        },
+        {
+            "comment id": 64,
+            "parent": 63,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506268432853049346",
+            "content": "thank you , as long as he does n't poop in my shoes , we 'll be good",
+            "time": "22-03-22 13:55",
+            "timestamp": 1647928554
+        },
+        {
+            "comment id": 65,
+            "parent": 40,
+            "children": [],
+            "user id": "martiegirlie",
+            "tweet id": "1506426432192499717",
+            "content": "perfect name , lucky . he 's so handsome . love his bow tie .",
+            "time": "22-03-23 00:23",
+            "timestamp": 1647966224
+        },
+        {
+            "comment id": 66,
+            "parent": 40,
+            "children": [],
+            "user id": "coxad1449",
+            "tweet id": "1506092666274127876",
+            "content": "cool",
+            "time": "22-03-22 02:17",
+            "timestamp": 1647886648
+        },
+        {
+            "comment id": 67,
+            "parent": 40,
+            "children": [],
+            "user id": "CoGregg1",
+            "tweet id": "1506098782387138563",
+            "content": "thank you for saving this little one !",
+            "time": "22-03-22 02:41",
+            "timestamp": 1647888106
+        },
+        {
+            "comment id": 68,
+            "parent": 40,
+            "children": [
+                69
+            ],
+            "user id": "LaviniaHughes",
+            "tweet id": "1506254788673028102",
+            "content": "he looks very jaunty today in his bow tie .",
+            "time": "22-03-22 13:01",
+            "timestamp": 1647925301
+        },
+        {
+            "comment id": 69,
+            "parent": 68,
+            "children": [],
+            "user id": "SochiHidingDog",
+            "tweet id": "1506256172629868544",
+            "content": "thank you !",
+            "time": "22-03-22 13:07",
+            "timestamp": 1647925631
+        },
+        {
+            "comment id": 70,
+            "parent": 40,
+            "children": [],
+            "user id": "PetalLu",
+            "tweet id": "1506293814612406291",
+            "content": "oh my heart",
+            "time": "22-03-22 15:36",
+            "timestamp": 1647934605
+        },
+        {
+            "comment id": 71,
+            "parent": 40,
+            "children": [],
+            "user id": "BSBair",
+            "tweet id": "1506548534883287044",
+            "content": "and i bet he loves being right where he is now .. what a \" looker \" . no pic pun intended .. lol",
+            "time": "22-03-23 08:28",
+            "timestamp": 1647995335
+        },
+        {
+            "comment id": 72,
+            "parent": 40,
+            "children": [],
+            "user id": "tomaroundworld",
+            "tweet id": "1507152110512713740",
+            "content": "love this post and that bow-tie ! ! !",
+            "time": "22-03-25 00:27",
+            "timestamp": 1648139239
+        },
+        {
+            "comment id": 73,
+            "parent": 40,
+            "children": [],
+            "user id": "MarianMarie8",
+            "tweet id": "1507556371641909248",
+            "content": "very dapper !",
+            "time": "22-03-26 03:13",
+            "timestamp": 1648235622
+        },
+        {
+            "comment id": 74,
+            "parent": -1,
+            "children": [
+                75
+            ],
+            "user id": "boobookitty64",
+            "tweet id": "1506088741189783558",
+            "content": "aww , looks like our sweet murphy , except he 's 9 .",
+            "time": "22-03-22 02:01",
+            "timestamp": 1647885712
+        },
+        {
+            "comment id": 75,
+            "parent": 74,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506089028176814089",
+            "content": "awww . hi murphy",
+            "time": "22-03-22 02:03",
+            "timestamp": 1647885780
+        },
+        {
+            "comment id": 76,
+            "parent": -1,
+            "children": [
+                77
+            ],
+            "user id": "RobinEagleThom2",
+            "tweet id": "1506088838577410053",
+            "content": "my boy jagger . he has brought joy and love to me for over 8 years .",
+            "time": "22-03-22 02:02",
+            "timestamp": 1647885735
+        },
+        {
+            "comment id": 77,
+            "parent": 76,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506089172897087490",
+            "content": "awwww . he is adorable . boston terriers are amazing dogs .",
+            "time": "22-03-22 02:03",
+            "timestamp": 1647885815
+        },
+        {
+            "comment id": 78,
+            "parent": -1,
+            "children": [
+                79
+            ],
+            "user id": "enespacio",
+            "tweet id": "1506089345387741186",
+            "content": "aww what a cutie !",
+            "time": "22-03-22 02:04",
+            "timestamp": 1647885856
+        },
+        {
+            "comment id": 79,
+            "parent": 78,
+            "children": [
+                80
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506090630728060937",
+            "content": "thank you",
+            "time": "22-03-22 02:09",
+            "timestamp": 1647886162
+        },
+        {
+            "comment id": 80,
+            "parent": 79,
+            "children": [],
+            "user id": "enespacio",
+            "tweet id": "1506093620088160256",
+            "content": "can't imagine life without our pets . mongo and lady sif .",
+            "time": "22-03-22 02:21",
+            "timestamp": 1647886875
+        },
+        {
+            "comment id": 81,
+            "parent": -1,
+            "children": [
+                82
+            ],
+            "user id": "steelfanonly11",
+            "tweet id": "1506089407329275914",
+            "content": "that cute little face , what kind of dog is it ?",
+            "time": "22-03-22 02:04",
+            "timestamp": 1647885871
+        },
+        {
+            "comment id": 82,
+            "parent": 81,
+            "children": [
+                83
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506090704870723592",
+            "content": "french bulldog / boston terrier mix",
+            "time": "22-03-22 02:09",
+            "timestamp": 1647886180
+        },
+        {
+            "comment id": 83,
+            "parent": 82,
+            "children": [],
+            "user id": "steelfanonly11",
+            "tweet id": "1506090789851611139",
+            "content": "soooo cute !",
+            "time": "22-03-22 02:10",
+            "timestamp": 1647886200
+        },
+        {
+            "comment id": 84,
+            "parent": -1,
+            "children": [],
+            "user id": "JCope222",
+            "tweet id": "1506089740856020999",
+            "content": "my boys did too . i 'm so happy you have him",
+            "time": "22-03-22 02:05",
+            "timestamp": 1647885950
+        },
+        {
+            "comment id": 85,
+            "parent": -1,
+            "children": [
+                86
+            ],
+            "user id": "Desbearado",
+            "tweet id": "1506090046918647811",
+            "content": "you obviously had one and that makes me very happy . please keep posting . i need this .",
+            "time": "22-03-22 02:07",
+            "timestamp": 1647886023
+        },
+        {
+            "comment id": 86,
+            "parent": 85,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506091040339640325",
+            "content": "it was alright . puppy made it better . i will keep posting . hope you 're okay",
+            "time": "22-03-22 02:11",
+            "timestamp": 1647886260
+        },
+        {
+            "comment id": 87,
+            "parent": -1,
+            "children": [
+                88
+            ],
+            "user id": "ButlerCory",
+            "tweet id": "1506090424397856769",
+            "content": "gracie says hi",
+            "time": "22-03-22 02:08",
+            "timestamp": 1647886113
+        },
+        {
+            "comment id": 88,
+            "parent": 87,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506091286700384265",
+            "content": "omg . gracie is adorable ! ! love frenchies ! ! !",
+            "time": "22-03-22 02:11",
+            "timestamp": 1647886319
+        },
+        {
+            "comment id": 89,
+            "parent": -1,
+            "children": [
+                90
+            ],
+            "user id": "MDY_610",
+            "tweet id": "1506090551283572740",
+            "content": "soooo stinking cute !",
+            "time": "22-03-22 02:09",
+            "timestamp": 1647886143
+        },
+        {
+            "comment id": 90,
+            "parent": 89,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506091475989372933",
+            "content": "thank you . i love him very much .",
+            "time": "22-03-22 02:12",
+            "timestamp": 1647886364
+        },
+        {
+            "comment id": 91,
+            "parent": -1,
+            "children": [
+                92
+            ],
+            "user id": "PugMafia66",
+            "tweet id": "1506091746035339266",
+            "content": "he 's adorable .",
+            "time": "22-03-22 02:13",
+            "timestamp": 1647886428
+        },
+        {
+            "comment id": 92,
+            "parent": 91,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506092602273239040",
+            "content": "thank you",
+            "time": "22-03-22 02:17",
+            "timestamp": 1647886632
+        },
+        {
+            "comment id": 93,
+            "parent": -1,
+            "children": [
+                94
+            ],
+            "user id": "beckstrom68",
+            "tweet id": "1506092333355266051",
+            "content": "my little guy chug loves to watch dog videos with me .",
+            "time": "22-03-22 02:16",
+            "timestamp": 1647886568
+        },
+        {
+            "comment id": 94,
+            "parent": 93,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506093532368547842",
+            "content": "awww . that is so sweet ! i was doing that with henry last night .",
+            "time": "22-03-22 02:20",
+            "timestamp": 1647886854
+        },
+        {
+            "comment id": 95,
+            "parent": -1,
+            "children": [
+                96
+            ],
+            "user id": "JLinMiller",
+            "tweet id": "1506092600385806345",
+            "content": "i love this picture so much !",
+            "time": "22-03-22 02:17",
+            "timestamp": 1647886632
+        },
+        {
+            "comment id": 96,
+            "parent": 95,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506093827475611655",
+            "content": "me too",
+            "time": "22-03-22 02:22",
+            "timestamp": 1647886924
+        },
+        {
+            "comment id": 97,
+            "parent": -1,
+            "children": [
+                98
+            ],
+            "user id": "SimplyMichaelK",
+            "tweet id": "1506094824767766533",
+            "content": "lovely girl , you 're so right . the only soul you gotta be one with , is your own .",
+            "time": "22-03-22 02:26",
+            "timestamp": 1647887162
+        },
+        {
+            "comment id": 98,
+            "parent": 97,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506095345150971908",
+            "content": "absolutely right",
+            "time": "22-03-22 02:28",
+            "timestamp": 1647887286
+        },
+        {
+            "comment id": 99,
+            "parent": -1,
+            "children": [
+                100,
+                101,
+                103,
+                104
+            ],
+            "user id": "gasgraphics",
+            "tweet id": "1506095124840955904",
+            "content": "this picture and that pup are so cute ! i came home to this little guy , prince , all excited to see me and i got all the puppy kisses he could give .",
+            "time": "22-03-22 02:27",
+            "timestamp": 1647887234
+        },
+        {
+            "comment id": 100,
+            "parent": 99,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506095712764837888",
+            "content": "awww . he is so cute . it 's the best feeling when you come home and they 're all happy to see you .",
+            "time": "22-03-22 02:29",
+            "timestamp": 1647887374
+        },
+        {
+            "comment id": 101,
+            "parent": 99,
+            "children": [
+                102
+            ],
+            "user id": "Bethass1",
+            "tweet id": "1506100186350862337",
+            "content": "he looks like my little willie but a lot younger . so cute ..",
+            "time": "22-03-22 02:47",
+            "timestamp": 1647888441
+        },
+        {
+            "comment id": 102,
+            "parent": 101,
+            "children": [],
+            "user id": "gasgraphics",
+            "tweet id": "1506118826777272326",
+            "content": "aww cute , there is a resemblance . prince has the same white bit of white on his paws also .",
+            "time": "22-03-22 04:01",
+            "timestamp": 1647892885
+        },
+        {
+            "comment id": 103,
+            "parent": 99,
+            "children": [],
+            "user id": "katiedidanddid",
+            "tweet id": "1506291732421427215",
+            "content": "he looks so much like my little bit .",
+            "time": "22-03-22 15:28",
+            "timestamp": 1647934109
+        },
+        {
+            "comment id": 104,
+            "parent": 99,
+            "children": [],
+            "user id": "DebQuie99",
+            "tweet id": "1506307355818004485",
+            "content": "what a loving cutie pie .",
+            "time": "22-03-22 16:30",
+            "timestamp": 1647937834
+        },
+        {
+            "comment id": 105,
+            "parent": -1,
+            "children": [
+                106
+            ],
+            "user id": "phillygumbeaux",
+            "tweet id": "1506095828192141316",
+            "content": "had it , lost it , miss it . rip milo",
+            "time": "22-03-22 02:30",
+            "timestamp": 1647887402
+        },
+        {
+            "comment id": 106,
+            "parent": 105,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506096896405815311",
+            "content": "i 'm so sorry for your loss . i lost my baby last month .",
+            "time": "22-03-22 02:34",
+            "timestamp": 1647887656
+        },
+        {
+            "comment id": 107,
+            "parent": -1,
+            "children": [
+                108,
+                109
+            ],
+            "user id": "DoubleMCards",
+            "tweet id": "1506098324390100992",
+            "content": "not hijacking this post with my pup . your pup ( and you too ) are too damn cute .",
+            "time": "22-03-22 02:39",
+            "timestamp": 1647887997
+        },
+        {
+            "comment id": 108,
+            "parent": 107,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506101688544940038",
+            "content": "you can post your puppy pictures here . i do n't mind . and thank you !",
+            "time": "22-03-22 02:53",
+            "timestamp": 1647888799
+        },
+        {
+            "comment id": 109,
+            "parent": 107,
+            "children": [],
+            "user id": "ETommyBS1",
+            "tweet id": "1506098637570420737",
+            "content": ", yep too damn cute",
+            "time": "22-03-22 02:41",
+            "timestamp": 1647888071
+        },
+        {
+            "comment id": 110,
+            "parent": -1,
+            "children": [
+                111
+            ],
+            "user id": "PopeElmo",
+            "tweet id": "1506098722018676736",
+            "content": "looks like a great friend to have . his name 's henry , right ?",
+            "time": "22-03-22 02:41",
+            "timestamp": 1647888091
+        },
+        {
+            "comment id": 111,
+            "parent": 110,
+            "children": [
+                112
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506101786666545161",
+            "content": "yes",
+            "time": "22-03-22 02:53",
+            "timestamp": 1647888822
+        },
+        {
+            "comment id": 112,
+            "parent": 111,
+            "children": [],
+            "user id": "PopeElmo",
+            "tweet id": "1506102373864849416",
+            "content": "i 'd seen another post , and thought i had his name right .",
+            "time": "22-03-22 02:56",
+            "timestamp": 1647888962
+        },
+        {
+            "comment id": 113,
+            "parent": -1,
+            "children": [
+                114
+            ],
+            "user id": "Camerams4",
+            "tweet id": "1506098961400188938",
+            "content": "that face ! who could resist loving that puppy ?",
+            "time": "22-03-22 02:42",
+            "timestamp": 1647888149
+        },
+        {
+            "comment id": 114,
+            "parent": 113,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506101882267258883",
+            "content": "i 'm having a hard time leaving his side",
+            "time": "22-03-22 02:54",
+            "timestamp": 1647888845
+        },
+        {
+            "comment id": 115,
+            "parent": -1,
+            "children": [
+                116,
+                119
+            ],
+            "user id": "Laura_voteblue",
+            "tweet id": "1506099275029258242",
+            "content": "oh my gosh ! ! ! how old ? so dang cute ! ! looks similar to my little frankie",
+            "time": "22-03-22 02:43",
+            "timestamp": 1647888223
+        },
+        {
+            "comment id": 116,
+            "parent": 115,
+            "children": [
+                117
+            ],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506102699024125970",
+            "content": "hes 11 weeks now i love frenchies . they 're my favorite . i just lost mine in february and got henry 3 weeks later . your puppy is really adorable ! ! !",
+            "time": "22-03-22 02:57",
+            "timestamp": 1647889040
+        },
+        {
+            "comment id": 117,
+            "parent": 116,
+            "children": [
+                118
+            ],
+            "user id": "Laura_voteblue",
+            "tweet id": "1506103915670089731",
+            "content": "i 'm so sorry for your loss",
+            "time": "22-03-22 03:02",
+            "timestamp": 1647889330
+        },
+        {
+            "comment id": 118,
+            "parent": 117,
+            "children": [],
+            "user id": "LeonaLioness6",
+            "tweet id": "1506104228456112128",
+            "content": "thank you . i 'm sorry for yours too . i remember seeing your post .",
+            "time": "22-03-22 03:03",
+            "timestamp": 1647889404
+        },
+        {
+            "comment id": 119,
+            "parent": 115,
+            "children": [
+                120
+            ],
+            "user id": "PaulNeilan",
+            "tweet id": "1506200921696792582",
+            "content": "love those ears ! so cute !",
+            "time": "22-03-22 09:27",
+            "timestamp": 1647912458
+        },
+        {
+            "comment id": 120,
+            "parent": 119,
+            "children": [],
+            "user id": "Laura_voteblue",
+            "tweet id": "1506229686891917312",
+            "content": "thank you !",
+            "time": "22-03-22 11:21",
+            "timestamp": 1647919316
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            4.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            20.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            4.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.0002688274544198066,
+            1.7324504369753413e-05,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            9.645442332839593e-06,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00023244725889526308,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            9.645442332839593e-06,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00014323939103633165,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.7354127730159234e-08,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            4.7354127730159234e-08,
+            0.0005663553602062166,
+            0.0010948274284601212,
+            0.000774524116422981,
+            0.00040118416654877365,
+            0.000774524116422981,
+            0.00040118416654877365,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            0.00011260811152169481,
+            0.00011260811152169481,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.0017961894627660513,
+            0.0008653966942802072,
+            0.0011303903302177787,
+            0.0005463245906867087,
+            0.0008653966942802072,
+            0.0008653966942802072,
+            0.00011260811152169481,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            0.00032035066396929324,
+            0.00032035066396929324,
+            0.00019798761059064418,
+            0.00019798761059064418,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.7020902633666992,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.15203624963760376,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.16026033461093903,
+            0.03779560327529907,
+            0.008224133402109146,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.15203624963760376,
+            0.15203624963760376,
+            0.15203624963760376,
+            0.1597888320684433,
+            0.03579389676451683,
+            0.15203624963760376,
+            0.15203624963760376,
+            0.15203624963760376,
+            0.15203624963760376,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.00011260811152169481,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            0.00011260811152169481,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            4.7354127730159234e-08,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.0017961894627660513,
+            0.0008653966942802072,
+            0.0011303903302177787,
+            0.0005463245906867087,
+            0.0008653966942802072,
+            0.0008653966942802072,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            0.00011260811152169481,
+            0.00011260811152169481,
+            0.00015925192565191537,
+            0.00011260811152169481,
+            2.4245313397841528e-05,
+            2.4245313397841528e-05,
+            0.0006147986277937889,
+            0.0006147986277937889,
+            0.000493524712510407,
+            0.0002742277574725449,
+            0.000493524712510407,
+            0.0002742277574725449
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.000344352622050792,
+            0.0005509642069227993,
+            0.00020661157032009214,
+            1.0000000168623835e-16,
+            0.00020661157032009214,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.000344352622050792,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00020661157032009214,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.0022727272007614374,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.0002754821034613997,
+            0.00020661157032009214,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.000344352622050792,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            0.00013774105173069984,
+            1.0000000168623835e-16,
+            6.887052586534992e-05,
+            1.0000000168623835e-16,
+            0.000344352622050792,
+            0.0002754821034613997,
+            0.00020661157032009214,
+            1.0000000168623835e-16,
+            0.00013774105173069984,
+            1.0000000168623835e-16
+        ]
+    }
+}

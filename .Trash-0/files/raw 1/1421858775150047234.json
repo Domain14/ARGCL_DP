@@ -1,0 +1,542 @@
+{
+    "source": {
+        "content": "treeverse is launching today . i think a lot of people view a lot of nft projects short-term right now but i can't wait till people understand what we are building . this is bigger than your average nft launch . blockchain gaming is the future , and we are still so early .",
+        "time": "21-08-01 15:42",
+        "timestamp": 1627803723,
+        "tweet url": "https://twitter.com/Loopifyyy/status/1421858775150047234",
+        "user id": "Loopifyyy",
+        "tweet id": "1421858775150047234",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                3
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1421859071632855041",
+            "content": "join the discord , nft sale is today at 8p m bst :",
+            "time": "21-08-01 15:43",
+            "timestamp": 1627803794
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1584468291703435264",
+            "content": "still so much to do .",
+            "time": "22-10-24 08:54",
+            "timestamp": 1666572853
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "JiaHo",
+            "tweet id": "1584468973374312449",
+            "content": "i 'm looking forward to it !",
+            "time": "22-10-24 08:56",
+            "timestamp": 1666573015
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "0xHelix",
+            "tweet id": "1421868378583674881",
+            "content": "ah nice , a time i do n't have to figure out for once",
+            "time": "21-08-01 16:20",
+            "timestamp": 1627806013
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "VectorMeldrew",
+            "tweet id": "1421858921992577026",
+            "content": "on it !",
+            "time": "21-08-01 15:42",
+            "timestamp": 1627803758
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "CryptoCammers",
+            "tweet id": "1421921407668215811",
+            "content": "got in for 4 , this is going to be massive . i love the idea .",
+            "time": "21-08-01 19:50",
+            "timestamp": 1627818656
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "Simon_Goldberg",
+            "tweet id": "1421859436184752131",
+            "content": "congrats on the launch man ! ! !",
+            "time": "21-08-01 15:44",
+            "timestamp": 1627803881
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1421859531672465411",
+            "content": "still have a few hours left ^ _ ^",
+            "time": "21-08-01 15:45",
+            "timestamp": 1627803903
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "Simon_Goldberg",
+            "tweet id": "1421859651721719818",
+            "content": "congrats on the pre launch ! lots of hard work into it !",
+            "time": "21-08-01 15:45",
+            "timestamp": 1627803932
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "greatmando_nft",
+            "tweet id": "1421868033421815818",
+            "content": "good luck man - ill be invovled !",
+            "time": "21-08-01 16:18",
+            "timestamp": 1627805930
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "ricgalbraith",
+            "tweet id": "1421867809852755975",
+            "content": "good luck with the launch wizard , know how much time and passion you 've put into this one , it 's going to be awesome",
+            "time": "21-08-01 16:17",
+            "timestamp": 1627805877
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "conceptsofnft1",
+            "tweet id": "1421861952096178177",
+            "content": "im with you all the way loop",
+            "time": "21-08-01 15:54",
+            "timestamp": 1627804480
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "VinnieHager",
+            "tweet id": "1421862108468219908",
+            "content": "as an nftree holder i am very excited !",
+            "time": "21-08-01 15:55",
+            "timestamp": 1627804518
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "thatrtx",
+            "tweet id": "1421859135864311809",
+            "content": "good luck it looks amazing !",
+            "time": "21-08-01 15:43",
+            "timestamp": 1627803809
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "Loopifyyy",
+            "tweet id": "1421859375573049346",
+            "content": "thank you !",
+            "time": "21-08-01 15:44",
+            "timestamp": 1627803866
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "miguelgarest",
+            "tweet id": "1421860138214899713",
+            "content": "congrats loop . as nftree holder do we get a plot airdropped or have to mint somewhere ?",
+            "time": "21-08-01 15:47",
+            "timestamp": 1627804048
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1421860262601269258",
+            "content": "should be airdropped",
+            "time": "21-08-01 15:47",
+            "timestamp": 1627804078
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "miguelgarest",
+            "tweet id": "1421860378909331456",
+            "content": "lovely . thanks a lot man ! !",
+            "time": "21-08-01 15:48",
+            "timestamp": 1627804105
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "0xChocBlock",
+            "tweet id": "1421899885335388160",
+            "content": "keen to get one",
+            "time": "21-08-01 18:25",
+            "timestamp": 1627813524
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "St8cryptolife",
+            "tweet id": "1421879392385466373",
+            "content": "diamond vision is what the doge pound is ! ! ! to unheard planet we go <@user> send it ! ! <@user>",
+            "time": "21-08-01 17:03",
+            "timestamp": 1627808639
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "JWhiteFF",
+            "tweet id": "1421859844378738694",
+            "content": "how many total plots will there be in the game ?",
+            "time": "21-08-01 15:46",
+            "timestamp": 1627803978
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "Loopifyyy",
+            "tweet id": "1421860034003210242",
+            "content": "10,420 founder private plots public is down the roadmap",
+            "time": "21-08-01 15:47",
+            "timestamp": 1627804023
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "Ana_Novo",
+            "tweet id": "1421859064150167552",
+            "content": "so true !",
+            "time": "21-08-01 15:43",
+            "timestamp": 1627803792
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "iamprecieee",
+            "tweet id": "1421859124753674240",
+            "content": "looking forward to this",
+            "time": "21-08-01 15:43",
+            "timestamp": 1627803806
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [
+                25
+            ],
+            "user id": "stan3web",
+            "tweet id": "1421861227324641280",
+            "content": "#ad ?",
+            "time": "21-08-01 15:51",
+            "timestamp": 1627804308
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [
+                26
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1421861523660722176",
+            "content": "nope , my project",
+            "time": "21-08-01 15:52",
+            "timestamp": 1627804378
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "stan3web",
+            "tweet id": "1421861801457819648",
+            "content": "ah , i see . will take a look",
+            "time": "21-08-01 15:54",
+            "timestamp": 1627804445
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "DanielKCrossan",
+            "tweet id": "1421922853696548869",
+            "content": "i could n't not get behind this",
+            "time": "21-08-01 19:56",
+            "timestamp": 1627819001
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "cryptocrawlerz",
+            "tweet id": "1421861047200215052",
+            "content": "delisting my nftree with the swiftness today",
+            "time": "21-08-01 15:51",
+            "timestamp": 1627804265
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "xIN_8",
+            "tweet id": "1421859445953335301",
+            "content": "congrats ser",
+            "time": "21-08-01 15:44",
+            "timestamp": 1627803883
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "realTIMER9",
+            "tweet id": "1421861142322946049",
+            "content": "second most expansive early access game of all time love it !",
+            "time": "21-08-01 15:51",
+            "timestamp": 1627804287
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "Jillmarkin",
+            "tweet id": "1421890972456214528",
+            "content": "check out this #nft for sale on mintable ! pick up ' hennedg ' before its swooped up ! #nofilter #nftcommunity",
+            "time": "21-08-01 17:49",
+            "timestamp": 1627811399
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "user id": "bitcoinPalmer",
+            "tweet id": "1421860837032173575",
+            "content": "so stoked for this one !",
+            "time": "21-08-01 15:50",
+            "timestamp": 1627804215
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [
+                34
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1421860897463705606",
+            "content": "hope you get one ser , join the discord too ! :]",
+            "time": "21-08-01 15:50",
+            "timestamp": 1627804229
+        },
+        {
+            "comment id": 34,
+            "parent": 33,
+            "children": [],
+            "user id": "bitcoinPalmer",
+            "tweet id": "1421861931015675905",
+            "content": "me too bruv",
+            "time": "21-08-01 15:54",
+            "timestamp": 1627804475
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            3.1398132808595257e-15,
+            0.5977968573570251,
+            0.5977968573570251,
+            0.36945879459381104,
+            0.36945879459381104,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            0.027701789513230324,
+            0.03917624428868294,
+            0.027701789513230324,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            5.39415814273525e-05,
+            5.39415814273525e-05,
+            0.027701789513230324,
+            0.03917624428868294,
+            0.027701789513230324,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            5.39415814273525e-05,
+            5.39415814273525e-05,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            0.027701789513230324,
+            0.03917624428868294,
+            0.027701789513230324,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            3.1398132808595257e-15,
+            0.027701789513230324,
+            0.03917624428868294,
+            0.027701789513230324
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.002521008485928178,
+            0.0016806722851470113,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0016806722851470113,
+            0.0016806722851470113,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0008403361425735056,
+            1.0000000168623835e-16,
+            0.0016806722851470113,
+            0.0016806722851470113,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0008403361425735056,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0016806722851470113,
+            0.0016806722851470113,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0016806722851470113,
+            0.0016806722851470113,
+            1.0000000168623835e-16
+        ]
+    }
+}

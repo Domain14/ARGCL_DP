@@ -1,0 +1,331 @@
+{
+    "source": {
+        "content": "my favorite thing about the nba is that sometimes you watch a game on tnt at night , and then when you turn the tv back on at 7:40 am , this is the first thing you see .",
+        "time": "22-01-26 15:48",
+        "timestamp": 1643183338,
+        "tweet url": "https://twitter.com/NoahGarfinkel/status/1486365556798156802",
+        "user id": "NoahGarfinkel",
+        "tweet id": "1486365556798156802",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "NoahGarfinkel",
+            "tweet id": "1486470394668208128",
+            "content": "turned the tv on again at lunch and caught a pivotal moment in an episode of bones .",
+            "time": "22-01-26 22:45",
+            "timestamp": 1643208334
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "em_dasher",
+            "tweet id": "1486863857482182663",
+            "content": "need to change show title to this .",
+            "time": "22-01-28 00:49",
+            "timestamp": 1643302142
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "NoahGarfinkel",
+            "tweet id": "1521887532656472065",
+            "content": "my favorite thing about the nba is that sometimes you watch a game on tnt at night , and then when you turn the tv back on at 7:40 am , this is the first thing you see . part ii :",
+            "time": "22-05-04 16:20",
+            "timestamp": 1651652437
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "NoahGarfinkel",
+            "tweet id": "1585320737342005248",
+            "content": "i love not knowing one thing about this show .",
+            "time": "22-10-26 17:21",
+            "timestamp": 1666776092
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "mikericciiii",
+            "tweet id": "1486366299164925952",
+            "content": "in my early 20s , i never watched an episode of bones . but i saw the last 15 seconds of every episode of bones because it always precluded inside the nba and would get picked up by the dvr",
+            "time": "22-01-26 15:51",
+            "timestamp": 1643183515
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "Troker61",
+            "tweet id": "1486424884129550339",
+            "content": "it was always the denouement and it was always the \" will they , wo n't they ? \" stuff between the two main characters . i never watched but i 'm still rooting for those crazy cops",
+            "time": "22-01-26 19:44",
+            "timestamp": 1643197483
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "Faute15",
+            "tweet id": "1486727435466858500",
+            "content": "good . it 's the only part that matters since it 's only part that 's never awful .",
+            "time": "22-01-27 15:46",
+            "timestamp": 1643269617
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "PJHaranas",
+            "tweet id": "1486405884368543749",
+            "content": "when my daughter as 6 she learned how to turn the tv on in the morning by herself . consequently , she saw a lot more of charmed than was probably advisable .",
+            "time": "22-01-26 18:29",
+            "timestamp": 1643192953
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "TheFienPrint",
+            "tweet id": "1486424857210355712",
+            "content": "this is the explanation for nearly every second of \" charmed \" that i 've watched in my entire life .",
+            "time": "22-01-26 19:44",
+            "timestamp": 1643197477
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "vedderled",
+            "tweet id": "1486426615282388998",
+            "content": "this . today even .",
+            "time": "22-01-26 19:51",
+            "timestamp": 1643197896
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "trane711",
+            "tweet id": "1486424930296152067",
+            "content": "supernatural is dope",
+            "time": "22-01-26 19:44",
+            "timestamp": 1643197494
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "Seegy24",
+            "tweet id": "1486425840627982337",
+            "content": "loved waking up to charmed",
+            "time": "22-01-26 19:48",
+            "timestamp": 1643197711
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "848ty",
+            "tweet id": "1486430099855470592",
+            "content": "tv pg",
+            "time": "22-01-26 20:05",
+            "timestamp": 1643198726
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "real_el_horse",
+            "tweet id": "1486432942972981248",
+            "content": "why is it cut so badly ?",
+            "time": "22-01-26 20:16",
+            "timestamp": 1643199404
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "SideOfHash",
+            "tweet id": "1486440525804851204",
+            "content": "\" tvpg \"",
+            "time": "22-01-26 20:46",
+            "timestamp": 1643201212
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "tommyvalenti92",
+            "tweet id": "1486463521642586114",
+            "content": "lmao",
+            "time": "22-01-26 22:18",
+            "timestamp": 1643206695
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "bstreets",
+            "tweet id": "1486549517545750531",
+            "content": "countless mornings waking up to these 3 women on my",
+            "time": "22-01-27 03:59",
+            "timestamp": 1643227198
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "dbheise",
+            "tweet id": "1486722873427329032",
+            "content": "tv-pg rating too . perfect .",
+            "time": "22-01-27 15:28",
+            "timestamp": 1643268529
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "jehawks",
+            "tweet id": "1585314731262238720",
+            "content": "i go to bed on saturday night watching silent german movies on tcm and i awake on sunday morning to the cacophony of tapdancing in technicolor .",
+            "time": "22-10-26 16:57",
+            "timestamp": 1666774660
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "br0wnb3ar1",
+            "tweet id": "1486366643534147585",
+            "content": "tv-pg",
+            "time": "22-01-26 15:53",
+            "timestamp": 1643183597
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "ScottysCallinMe",
+            "tweet id": "1486425016912781315",
+            "content": "it 's only a fake demon clown brownbear , not a fake real clown",
+            "time": "22-01-26 19:45",
+            "timestamp": 1643197515
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            3.1235725117539914e-08,
+            0.016376515850424767,
+            0.016376515850424767,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            0.49959754943847656,
+            0.706537663936615,
+            0.49959754943847656,
+            3.1235725117539914e-08,
+            0.016376515850424767,
+            0.016376515850424767,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            3.1235725117539914e-08,
+            0.016376515850424767,
+            0.016376515850424767
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.004761904943734407,
+            0.004761904943734407,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16
+        ]
+    }
+}

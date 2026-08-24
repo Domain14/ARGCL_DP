@@ -1,0 +1,598 @@
+{
+    "source": {
+        "content": "<@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+        "time": "16-07-11 19:53",
+        "timestamp": 1468238002,
+        "tweet url": "https://twitter.com/amiha_mu/status/752591632206225409",
+        "user id": "amiha_mu",
+        "tweet id": "752591632206225409",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "sitaravirgo",
+            "tweet id": "1088976159486955520",
+            "content": "<@user> <@user> happy weekend friends enjoy your lovely moments",
+            "time": "19-01-26 01:45",
+            "timestamp": 1548438323
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "amiha_mu",
+            "tweet id": "1089002528681816065",
+            "content": "thank you so much dear sitara . happy weekend and enjoy time to you and my friends .",
+            "time": "19-01-26 03:30",
+            "timestamp": 1548444610
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "sitaravirgo",
+            "tweet id": "1215642109279195136",
+            "content": "weekend ahead now enjoy lovely time",
+            "time": "20-01-10 14:30",
+            "timestamp": 1578637839
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "amiha_mu",
+            "tweet id": "1215645070143045632",
+            "content": "thank you so much for the beautiful photo , my dear friend sitara . wonderful weekend and enjoy time to you and friends .",
+            "time": "20-01-10 14:42",
+            "timestamp": 1578638544
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "RrhHzSdXdsSpGxe",
+            "tweet id": "783171194149187584",
+            "content": "( * ́ ∀ ` )",
+            "time": "16-10-04 05:05",
+            "timestamp": 1475528737
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "sheikh_ALABBAS",
+            "tweet id": "869413495162515457",
+            "content": "#goodmorning",
+            "time": "17-05-30 04:41",
+            "timestamp": 1496090504
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "sankarchanda99",
+            "tweet id": "1025656859267608577",
+            "content": "beauty : nonpareil . grace : ancient & eternal . dress & decor : delicate & divine .",
+            "time": "18-08-04 08:17",
+            "timestamp": 1533341825
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "sushilpershad",
+            "tweet id": "836089207965671424",
+            "content": "bride of india",
+            "time": "17-02-27 05:42",
+            "timestamp": 1488145375
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "0301Robanomimi",
+            "tweet id": "886627528101707776",
+            "content": "ありがとう ( * ^ ^ * )",
+            "time": "17-07-16 16:44",
+            "timestamp": 1500194650
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "Elipho2022",
+            "tweet id": "906672856435752960",
+            "content": "so beautiful",
+            "time": "17-09-10 00:17",
+            "timestamp": 1504973828
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "amiha_mu",
+            "tweet id": "906783901451919360",
+            "content": "thank you very much ! !",
+            "time": "17-09-10 07:38",
+            "timestamp": 1505000303
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "fukuiMURASAKIHI",
+            "tweet id": "978208840729509889",
+            "content": "綺麗",
+            "time": "18-03-26 09:55",
+            "timestamp": 1522029336
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "user id": "amiha_mu",
+            "tweet id": "978209370470195200",
+            "content": "有り難うございます",
+            "time": "18-03-26 09:57",
+            "timestamp": 1522029462
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "fukuiMURASAKIHI",
+            "tweet id": "978240241969520641",
+            "content": "超綺麗美形素敵です",
+            "time": "18-03-26 12:00",
+            "timestamp": 1522036823
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "defgear2004",
+            "tweet id": "1175581467813920768",
+            "content": "it ' s beautiful .",
+            "time": "19-09-22 01:23",
+            "timestamp": 1569086637
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [
+                16
+            ],
+            "user id": "amiha_mu",
+            "tweet id": "1175629970648924160",
+            "content": "thank you very much !",
+            "time": "19-09-22 04:36",
+            "timestamp": 1569098201
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "defgear2004",
+            "tweet id": "1175640667353018368",
+            "content": "you are welcome . how are you .",
+            "time": "19-09-22 05:19",
+            "timestamp": 1569100752
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "AndrenaLaraine",
+            "tweet id": "753284406417166338",
+            "content": "beauty",
+            "time": "16-07-13 17:46",
+            "timestamp": 1468403172
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19,
+                21
+            ],
+            "user id": "sheikh_ALABBAS",
+            "tweet id": "762726363824467968",
+            "content": "<@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "16-08-08 19:05",
+            "timestamp": 1470654310
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [
+                20
+            ],
+            "user id": "sitaravirgo",
+            "tweet id": "762892528467279872",
+            "content": "",
+            "time": "16-08-09 06:05",
+            "timestamp": 1470693927
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "sheikh_ALABBAS",
+            "tweet id": "762895257491103744",
+            "content": "blessings",
+            "time": "16-08-09 06:16",
+            "timestamp": 1470694577
+        },
+        {
+            "comment id": 21,
+            "parent": 18,
+            "children": [],
+            "user id": "chaerilversace",
+            "tweet id": "762734158250594305",
+            "content": "<@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "16-08-08 19:36",
+            "timestamp": 1470656168
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "sheikh_ALABBAS",
+            "tweet id": "766277384374980609",
+            "content": "<@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "16-08-18 14:15",
+            "timestamp": 1471500939
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "aramisadn",
+            "tweet id": "768944577063428097",
+            "content": "_ orgullosos de nuestras raices , bien hecho .",
+            "time": "16-08-25 22:54",
+            "timestamp": 1472136848
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "_________Johann",
+            "tweet id": "834967807733325824",
+            "content": "<@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> whoa !",
+            "time": "17-02-24 03:26",
+            "timestamp": 1487878012
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26
+            ],
+            "user id": "God8886",
+            "tweet id": "925553300187025408",
+            "content": "【 当代武大郎李晨炎症声明 : 范冰冰自古以来属于朕 】 正告王门庆及溜冰爱好者 : 晨合法拥有民政部出土文物-结婚证 , 对于强行上冰 、 溜冰者晨主张 “ 共同开发 搁置争议 ” , 强烈抗议王门庆独霸钓冰岛诡异行为 , 晨与时俱进将擀面杖改装成高倍望远镜 24小时监控溜冰者 , 一律转交贵爷曝光 , 看谁更难看 ? !",
+            "time": "17-11-01 02:41",
+            "timestamp": 1509475277
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "God8886",
+            "tweet id": "925556706008031232",
+            "content": "【 当代武大郎李晨炎症声明二 】 正告王骑冰门庆先生 : 如果门庆兄还不 “ 冰前勒 ” , 朕将号令阳谷县草民们上街打砸抢王氏家族企业如 : 王麻子刀剪 、 王老吉 、 王致和臭豆腐 、 王府井百货大楼 、 王府饭店等 , 看谁损失大 ?",
+            "time": "17-11-01 02:54",
+            "timestamp": 1509476089
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "lavergneChriste",
+            "tweet id": "992516493299634176",
+            "content": "sublime ♡ ♡ ♡",
+            "time": "18-05-04 21:29",
+            "timestamp": 1525440546
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [
+                29
+            ],
+            "user id": "HollywoodGroove",
+            "tweet id": "1033559432360275969",
+            "content": "<url> ... good nights from argentina ... my band .",
+            "time": "18-08-26 03:39",
+            "timestamp": 1535225945
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "HollywoodGroove",
+            "tweet id": "1033572856817491968",
+            "content": "thanks ...",
+            "time": "18-08-26 04:32",
+            "timestamp": 1535229146
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "anaemiliatovar",
+            "tweet id": "1054123146314502144",
+            "content": "hermosa",
+            "time": "18-10-21 21:31",
+            "timestamp": 1540128717
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "SKID1144",
+            "tweet id": "794683117659373568",
+            "content": "what a beautiful model she 's gorgeous nice colors as well",
+            "time": "16-11-04 23:29",
+            "timestamp": 1478273394
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "mamiao211325",
+            "tweet id": "921192268576440320",
+            "content": "金の歩揺がゆらゆら揺れて ... 一笑すれば百媚生ずだっけ ? 艶やかデスね 。",
+            "time": "17-10-20 01:52",
+            "timestamp": 1508435526
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "sandeep94893476",
+            "tweet id": "964074843799982080",
+            "content": "so pitty girl",
+            "time": "18-02-15 09:52",
+            "timestamp": 1518659529
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "TommyPhelps10",
+            "tweet id": "945492008419946496",
+            "content": "beautiful",
+            "time": "17-12-26 03:10",
+            "timestamp": 1514229035
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [
+                36
+            ],
+            "user id": "soyunShin1",
+            "tweet id": "952374329408237568",
+            "content": "good morning ^ ^",
+            "time": "18-01-14 02:58",
+            "timestamp": 1515869909
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [],
+            "user id": "sheikh_ALABBAS",
+            "tweet id": "952394884396322817",
+            "content": "blessings everyone #peaceandblessings",
+            "time": "18-01-14 04:20",
+            "timestamp": 1515874809
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "sitaravirgo",
+            "tweet id": "1021421552238284806",
+            "content": "goodnight friends peaceful sleep",
+            "time": "18-07-23 15:47",
+            "timestamp": 1532332049
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "sitaravirgo",
+            "tweet id": "1038764794147471360",
+            "content": "if you can look at the #sunset and smile then you will still have hope goodevening friends",
+            "time": "18-09-09 12:23",
+            "timestamp": 1536467000
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.8014994010440155e-11,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            0.05705016851425171,
+            0.08068112283945084,
+            0.05705016851425171,
+            0.05705016851425171,
+            0.08068112283945084,
+            0.05705016851425171,
+            1.8014994010440155e-11,
+            0.5936170816421509,
+            0.5936170816421509,
+            0.3668755292892456,
+            0.3668755292892456,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            1.8014994010440155e-11,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11,
+            0.0006044828915037215,
+            0.0006044828915037215,
+            1.8014994010440155e-11,
+            1.8014994010440155e-11
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0006747638108208776,
+            1.0000000168623835e-16,
+            0.0006747638108208776,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0006747638108208776,
+            1.0000000168623835e-16,
+            0.001349527621641755,
+            0.001349527621641755,
+            1.0000000168623835e-16,
+            0.001349527621641755,
+            0.001349527621641755,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0020242915488779545,
+            0.001349527621641755,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0006747638108208776,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0006747638108208776,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0006747638108208776,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

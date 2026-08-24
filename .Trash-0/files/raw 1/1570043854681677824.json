@@ -1,0 +1,239 @@
+{
+    "source": {
+        "content": "ok , i 'm so pleased with this from <@user> what do you think",
+        "time": "22-09-14 13:36",
+        "timestamp": 1663133799,
+        "tweet url": "https://twitter.com/kodiak149/status/1570043854681677824",
+        "user id": "kodiak149",
+        "tweet id": "1570043854681677824",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "colmant_",
+            "tweet id": "1570046431872061442",
+            "content": "awww that is wonderful , ron ! thank you for sharing with us ! precious children ~",
+            "time": "22-09-14 13:46",
+            "timestamp": 1663134414
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "kodiak149",
+            "tweet id": "1570046645538103296",
+            "content": "i 'm very pleased <@user> was great to work with",
+            "time": "22-09-14 13:47",
+            "timestamp": 1663134465
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "dhershiser",
+            "tweet id": "1570049535539564544",
+            "content": "love ! ! !",
+            "time": "22-09-14 13:59",
+            "timestamp": 1663135154
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "WTF_64whocares",
+            "tweet id": "1570047201199509507",
+            "content": "this is so beautiful ! ! !",
+            "time": "22-09-14 13:49",
+            "timestamp": 1663134597
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "LaurelBlu2",
+            "tweet id": "1570053039976767489",
+            "content": "fantastic ! she captured their likeness and expressions very well . great job !",
+            "time": "22-09-14 14:13",
+            "timestamp": 1663135989
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "glassceiling02",
+            "tweet id": "1570058605272907778",
+            "content": "beautiful ! !",
+            "time": "22-09-14 14:35",
+            "timestamp": 1663137316
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "savetheturtles2",
+            "tweet id": "1570071965754351618",
+            "content": "what an adorable sketch she did and moment ! ! love it precious memory !",
+            "time": "22-09-14 15:28",
+            "timestamp": 1663140501
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Fah_Lo_Me",
+            "tweet id": "1570097534051172352",
+            "content": "wow ! turned out beautifully !",
+            "time": "22-09-14 17:09",
+            "timestamp": 1663146597
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "B055Lady_Elle",
+            "tweet id": "1570098018589851648",
+            "content": "i it ! ! superb",
+            "time": "22-09-14 17:11",
+            "timestamp": 1663146713
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "WeHearPodcast",
+            "tweet id": "1570118139215478784",
+            "content": "this is fantastic art ! i checked each child and the dog and she really captured them ! wow !",
+            "time": "22-09-14 18:31",
+            "timestamp": 1663151510
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "thinkkimthink",
+            "tweet id": "1570119389810393089",
+            "content": "i absolutely love it ! they are too cute ! ! !",
+            "time": "22-09-14 18:36",
+            "timestamp": 1663151808
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "cwalkersocal54",
+            "tweet id": "1570146464508301312",
+            "content": "that is beautiful !",
+            "time": "22-09-14 20:24",
+            "timestamp": 1663158263
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "JujunluluJudy",
+            "tweet id": "1570154507987976192",
+            "content": "i think -> awesome",
+            "time": "22-09-14 20:56",
+            "timestamp": 1663160181
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "Bish_Resists",
+            "tweet id": "1570229974824787970",
+            "content": "what beautiful cherubs .",
+            "time": "22-09-15 01:56",
+            "timestamp": 1663178174
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "ArtKameli",
+            "tweet id": "1572220557944557576",
+            "content": "thank you !",
+            "time": "22-09-20 13:46",
+            "timestamp": 1663652766
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905316840857267,
+            0.7071044445037842,
+            0.7071044445037842,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.004761904943734407,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

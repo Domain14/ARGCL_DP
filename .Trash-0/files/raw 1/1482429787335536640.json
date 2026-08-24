@@ -1,0 +1,259 @@
+{
+    "source": {
+        "content": "do n't stop looking for the light never stop doing it when you live in the dark without goals , without purposes where do you want to go ? when you can't find what to see or who to see do not forget who loves you comforts you if you walk away your soul will die",
+        "time": "22-01-15 19:09",
+        "timestamp": 1642244978,
+        "tweet url": "https://twitter.com/Yameelk/status/1482429787335536640",
+        "user id": "Yameelk",
+        "tweet id": "1482429787335536640",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "lunayessih",
+            "tweet id": "1498921568684187664",
+            "content": "⚘",
+            "time": "22-03-02 07:22",
+            "timestamp": 1646176925
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "DisperseStar1",
+            "tweet id": "1482505236585623555",
+            "content": "beautiful ... thank you",
+            "time": "22-01-16 00:09",
+            "timestamp": 1642262966
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "Ka_Elhk",
+            "tweet id": "1483093397103689729",
+            "content": "thank you very much happy week to you and your friends a hug",
+            "time": "22-01-17 15:06",
+            "timestamp": 1642403195
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "DisperseStar1",
+            "tweet id": "1483109146543202307",
+            "content": "welcome",
+            "time": "22-01-17 16:09",
+            "timestamp": 1642406950
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "mary_veas1",
+            "tweet id": "1482460412918464512",
+            "content": "beautiful message",
+            "time": "22-01-15 21:11",
+            "timestamp": 1642252279
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "Nicolle_11_11",
+            "tweet id": "1482689757561950211",
+            "content": "precioso .",
+            "time": "22-01-16 12:22",
+            "timestamp": 1642306959
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "EstebanBerista5",
+            "tweet id": "1482435418243035136",
+            "content": "muy bien ! ! bonito mensaje",
+            "time": "22-01-15 19:32",
+            "timestamp": 1642246320
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Margare30859635",
+            "tweet id": "1482431865697058819",
+            "content": "que lindo gracias",
+            "time": "22-01-15 19:17",
+            "timestamp": 1642245473
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "Cecyfnbrazilskr",
+            "tweet id": "1482437298746650624",
+            "content": "whoa",
+            "time": "22-01-15 19:39",
+            "timestamp": 1642246769
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "albamarinamessa",
+            "tweet id": "1482433599756513290",
+            "content": "lindoooooo",
+            "time": "22-01-15 19:24",
+            "timestamp": 1642245887
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "PhGalimba65",
+            "tweet id": "1518044540539740161",
+            "content": "wonderful",
+            "time": "22-04-24 01:49",
+            "timestamp": 1650736197
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "ernesi3809",
+            "tweet id": "1498895113765933056",
+            "content": "bonito mensaje",
+            "time": "22-03-02 05:36",
+            "timestamp": 1646170617
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "Maricar13753309",
+            "tweet id": "1482443563837308930",
+            "content": "rt",
+            "time": "22-01-15 20:04",
+            "timestamp": 1642248262
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "f_a_r_a_h_9",
+            "tweet id": "1482440900861120515",
+            "content": "beautiful",
+            "time": "22-01-15 19:53",
+            "timestamp": 1642247627
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [
+                15
+            ],
+            "user id": "Ka_Elhk",
+            "tweet id": "1482922978014806016",
+            "content": "thank you very much i know i 'm beautiful you do know dear friend <@user> happy week",
+            "time": "22-01-17 03:49",
+            "timestamp": 1642362563
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "f_a_r_a_h_9",
+            "tweet id": "1483098827536191495",
+            "content": "you are indeed my friend",
+            "time": "22-01-17 15:28",
+            "timestamp": 1642404489
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.3535516560077667,
+            0.4999983012676239,
+            0.3535516560077667,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.0008665482164360583,
+            0.3535516560077667,
+            0.4999983012676239,
+            0.3535516560077667
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.008333333767950535,
+            0.008333333767950535,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.008333333767950535,
+            0.008333333767950535,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,239 @@
+{
+    "source": {
+        "content": "i will save you",
+        "time": "22-06-27 20:37",
+        "timestamp": 1656333437,
+        "tweet url": "https://twitter.com/blackhatwizardd/status/1541521070041202697",
+        "user id": "blackhatwizardd",
+        "tweet id": "1541521070041202697",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "blackhatwizardd",
+            "tweet id": "1541521148004995072",
+            "content": "internet money",
+            "time": "22-06-27 20:37",
+            "timestamp": 1656333456
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "teaceoo",
+            "tweet id": "1541538649002631178",
+            "content": "saveeeeeeee me future voice",
+            "time": "22-06-27 21:47",
+            "timestamp": 1656337628
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "elliottaleksndr",
+            "tweet id": "1541528995367460866",
+            "content": "lmaoo brilliant",
+            "time": "22-06-27 21:08",
+            "timestamp": 1656335327
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "Nick_Bro22",
+            "tweet id": "1541530305919561734",
+            "content": "here i come ...",
+            "time": "22-06-27 21:13",
+            "timestamp": 1656335639
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "ColinDougherty_",
+            "tweet id": "1541587740256501761",
+            "content": "the fact that you have n't plugged internet money - lemonade",
+            "time": "22-06-28 01:02",
+            "timestamp": 1656349333
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "misteritter1",
+            "tweet id": "1541708741292310531",
+            "content": "it 's difficult to predict this , but how do you think a recession will affect the online market of entrepreneurs ?",
+            "time": "22-06-28 09:03",
+            "timestamp": 1656378182
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "sowmenroy",
+            "tweet id": "1542149978168369152",
+            "content": "do n't beg bruh",
+            "time": "22-06-29 14:16",
+            "timestamp": 1656483381
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Premier_Domains",
+            "tweet id": "1542754686167830529",
+            "content": "nice ! but wot about <url>",
+            "time": "22-07-01 06:19",
+            "timestamp": 1656627554
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "sulaiman_botha",
+            "tweet id": "1543473974809698306",
+            "content": "crazy times we 're living in where memes can be used for promotions and it actually works well .",
+            "time": "22-07-03 05:57",
+            "timestamp": 1656799046
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "toyeeb_0laitan",
+            "tweet id": "1543475762321412097",
+            "content": "bro am in your dm",
+            "time": "22-07-03 06:04",
+            "timestamp": 1656799472
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "SenorApache",
+            "tweet id": "1544295876159590400",
+            "content": "hahahahahahah",
+            "time": "22-07-05 12:23",
+            "timestamp": 1656995003
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "prvthvm",
+            "tweet id": "1544669178602278915",
+            "content": "gareebo ka jesus .",
+            "time": "22-07-06 13:06",
+            "timestamp": 1657084005
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "Joelverse123",
+            "tweet id": "1566821117129629697",
+            "content": "some value in there ...",
+            "time": "22-09-05 16:10",
+            "timestamp": 1662365439
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "modernstrategy_",
+            "tweet id": "1572830410068922368",
+            "content": "internet money should have already opened the eyes of many 2 years ago when we were confined . the only ones who saw their income explode were those who were generating money online . most resilient type of business .",
+            "time": "22-09-22 06:09",
+            "timestamp": 1663798166
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "joinnitink",
+            "tweet id": "1543873516595924993",
+            "content": "stop being poor",
+            "time": "22-07-04 08:25",
+            "timestamp": 1656894304
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.7071044445037842,
+            0.7071044445037842,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267,
+            0.0006905316840857267
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.004761904943734407,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

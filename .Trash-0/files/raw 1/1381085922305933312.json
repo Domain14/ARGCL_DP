@@ -1,0 +1,225 @@
+{
+    "source": {
+        "content": "my grandson lucas gabriel is 5 days old today i 'm completely in love",
+        "time": "21-04-11 03:25",
+        "timestamp": 1618082717,
+        "tweet url": "https://twitter.com/IslandGirlPRV/status/1381085922305933312",
+        "user id": "IslandGirlPRV",
+        "tweet id": "1381085922305933312",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1395061141861277696",
+            "content": "today i took care of my 1 month old grandson for 7 hours . i had forgotten how much energy & times it takes to care for a baby . i feel like a truck mac passed over me i 'm truly exhausted but it was worth it i simply love this little young man .",
+            "time": "21-05-19 16:57",
+            "timestamp": 1621414669
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1403458926398656520",
+            "content": "gracias he is two months now",
+            "time": "21-06-11 21:07",
+            "timestamp": 1623416857
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1408233073385349121",
+            "content": "today my daughter sent me these two pics of lucas who is now 2 1/2 months old . i simply love him ! ! !",
+            "time": "21-06-25 01:18",
+            "timestamp": 1624555103
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1416712981396721666",
+            "content": "gracias lucas is now 3 months old , he is a cutie",
+            "time": "21-07-18 10:54",
+            "timestamp": 1626576870
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "GovIssuedJoe",
+            "tweet id": "1381089981507072001",
+            "content": "you 're an abuelita ? ! ? ! ?",
+            "time": "21-04-11 03:41",
+            "timestamp": 1618083685
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "efero_patricia",
+            "tweet id": "1381189919775854593",
+            "content": "was she a prem baby ?",
+            "time": "21-04-11 10:18",
+            "timestamp": 1618107512
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [
+                7
+            ],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1381250187331518465",
+            "content": "no , he was born at 38 weeks . he is little thou , almost 6 pounds .",
+            "time": "21-04-11 14:18",
+            "timestamp": 1618121881
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "efero_patricia",
+            "tweet id": "1381333119752617987",
+            "content": "he has a fine pair of lungs . bless him , sweet child .",
+            "time": "21-04-11 19:47",
+            "timestamp": 1618141654
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "geraldinegirljp",
+            "tweet id": "1381245368252264448",
+            "content": "i get to meet my three day old granddaughter today . so much joy",
+            "time": "21-04-11 13:58",
+            "timestamp": 1618120732
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1381249310390632452",
+            "content": "bless her & congrats to you",
+            "time": "21-04-11 14:14",
+            "timestamp": 1618121672
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "geraldinegirljp",
+            "tweet id": "1381253643991613446",
+            "content": "thank you",
+            "time": "21-04-11 14:31",
+            "timestamp": 1618122705
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "sjcolberg",
+            "tweet id": "1381351456402460679",
+            "content": "how cute is he ? ! ? !",
+            "time": "21-04-11 21:00",
+            "timestamp": 1618146026
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "IslandGirlPRV",
+            "tweet id": "1381353353444212740",
+            "content": "way cute today lucas gabriel found his thumb",
+            "time": "21-04-11 21:07",
+            "timestamp": 1618146478
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.757245155602013e-16,
+            0.3710396885871887,
+            0.600354790687561,
+            0.600354790687561,
+            0.3710396885871887,
+            1.757245155602013e-16,
+            0.021815409883856773,
+            0.03085164912045002,
+            0.021815409883856773,
+            0.021815409883856773,
+            0.03085164912045002,
+            0.021815409883856773,
+            2.4151393517968245e-05,
+            2.4151393517968245e-05
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.01923076994717121,
+            0.025641025975346565,
+            0.01923076994717121,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.012820512987673283,
+            0.012820512987673283,
+            1.0000000168623835e-16,
+            0.012820512987673283,
+            0.012820512987673283,
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16
+        ]
+    }
+}

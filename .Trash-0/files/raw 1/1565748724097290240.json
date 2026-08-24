@@ -1,0 +1,237 @@
+{
+    "source": {
+        "content": ". <@user> <@user> <@user>",
+        "time": "22-09-02 17:09",
+        "timestamp": 1662109760,
+        "tweet url": "https://twitter.com/kodiak149/status/1565748724097290240",
+        "user id": "kodiak149",
+        "tweet id": "1565748724097290240",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "Jessiesuzie24",
+            "tweet id": "1576682135653867527",
+            "content": "how much money do you think you 'd owe everybody ?",
+            "time": "22-10-02 21:14",
+            "timestamp": 1664716489
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "VotingGOPOut",
+            "tweet id": "1565751159260061696",
+            "content": "#factsmatter",
+            "time": "22-09-02 17:19",
+            "timestamp": 1662110341
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "Mar21004850",
+            "tweet id": "1565763701784956930",
+            "content": "thank you . i 'll be laughing for days .",
+            "time": "22-09-02 18:08",
+            "timestamp": 1662113331
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "SandraABesser1",
+            "tweet id": "1565788457271644160",
+            "content": "hahaha !",
+            "time": "22-09-02 19:47",
+            "timestamp": 1662119233
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "jdsocci",
+            "tweet id": "1566029518975926272",
+            "content": "i still can't believe that these two and many others can obtain a seat in congress . we really must ask ourselves , \" what the hell is happening to this country ? \"",
+            "time": "22-09-03 11:45",
+            "timestamp": 1662176707
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "hulktengler",
+            "tweet id": "1566196508814221313",
+            "content": "more than that .",
+            "time": "22-09-03 22:48",
+            "timestamp": 1662216520
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "pjkool",
+            "tweet id": "1566199551081463812",
+            "content": "stay away from the pork sliders .",
+            "time": "22-09-03 23:00",
+            "timestamp": 1662217246
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "RolundDad",
+            "tweet id": "1566202093039493121",
+            "content": "gqp mascots . the tweeter twins",
+            "time": "22-09-03 23:10",
+            "timestamp": 1662217852
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "dnb1815",
+            "tweet id": "1566335191659909120",
+            "content": "still not donating",
+            "time": "22-09-04 07:59",
+            "timestamp": 1662249585
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "deerspirit1",
+            "tweet id": "1566454285348605953",
+            "content": "lollllllll",
+            "time": "22-09-04 15:52",
+            "timestamp": 1662277979
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "Barbara40385683",
+            "tweet id": "1566512809793527809",
+            "content": "hold the ketchup",
+            "time": "22-09-04 19:45",
+            "timestamp": 1662291932
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "JohnW30160236",
+            "tweet id": "1566551276875223040",
+            "content": "that 's being very generous .",
+            "time": "22-09-04 22:18",
+            "timestamp": 1662301104
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "TorontoMommie",
+            "tweet id": "1566551611819843585",
+            "content": "here in canada that would only get you fries",
+            "time": "22-09-04 22:19",
+            "timestamp": 1662301184
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "Laurasue81",
+            "tweet id": "1566781743482507265",
+            "content": "i will be so grateful when i can dump every meme of these two from my phone , and scrub my time-line . of course they need to be in prison first . and they are not . they are on the hill ! ! !",
+            "time": "22-09-05 13:34",
+            "timestamp": 1662356051
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "lizcoates",
+            "tweet id": "1566900837829451776",
+            "content": "now that 's funny",
+            "time": "22-09-05 21:27",
+            "timestamp": 1662384446
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

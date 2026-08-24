@@ -1,0 +1,470 @@
+{
+    "source": {
+        "content": "fini l'âge du rêve et perdu l'espoir d'atteindre celui de la sagesse , la disette du degré zéro michel leiris #poesie #photographie",
+        "time": "16-10-04 07:00",
+        "timestamp": 1475535616,
+        "tweet url": "https://twitter.com/o_franco_aleman/status/783200042899439616",
+        "user id": "o_franco_aleman",
+        "tweet id": "783200042899439616",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "913843956965953536",
+            "content": "merci beaucoup ! <@user> <@user> <@user> <@user>",
+            "time": "17-09-29 19:12",
+            "timestamp": 1506683552
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "913850198832635904",
+            "content": "merci ! <@user>",
+            "time": "17-09-29 19:37",
+            "timestamp": 1506685040
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "ercanagay",
+            "tweet id": "913850789784932352",
+            "content": "ebenfalls",
+            "time": "17-09-29 19:39",
+            "timestamp": 1506685181
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4,
+                7
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1595700932393799681",
+            "content": "thank you very much ! happy thursday ! <@user>",
+            "time": "22-11-24 08:48",
+            "timestamp": 1669250923
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "taniaST70",
+            "tweet id": "1595834940188393473",
+            "content": "good evening franck ! thank you",
+            "time": "22-11-24 17:41",
+            "timestamp": 1669282873
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1595837593802915842",
+            "content": "good evening !",
+            "time": "22-11-24 17:51",
+            "timestamp": 1669283506
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "taniaST70",
+            "tweet id": "1595837904726679553",
+            "content": "beautiful evening franck",
+            "time": "22-11-24 17:53",
+            "timestamp": 1669283580
+        },
+        {
+            "comment id": 7,
+            "parent": 3,
+            "children": [
+                8
+            ],
+            "user id": "taniaST70",
+            "tweet id": "1595837662950301703",
+            "content": "in relation to this post and elon musk 's comment . in bulgaria , people joke that he will visit belogradchik",
+            "time": "22-11-24 17:52",
+            "timestamp": 1669283522
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1595839291774697472",
+            "content": "what for ?",
+            "time": "22-11-24 17:58",
+            "timestamp": 1669283911
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "taniaST70",
+            "tweet id": "1595841296568123392",
+            "content": "a bulgarian photographer uploaded a photo of the belogradchik rocks and elon musk liked them , now in bulgaria people joke that musk would have come here to belogradchik",
+            "time": "22-11-24 18:06",
+            "timestamp": 1669284389
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "859126170889138176",
+            "content": "merci ! <@user>",
+            "time": "17-05-01 19:23",
+            "timestamp": 1493637815
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "967501506026098689",
+            "content": "merci beaucoup ! bon weekend ! <@user> <@user>",
+            "time": "18-02-24 20:48",
+            "timestamp": 1519476509
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [
+                13
+            ],
+            "user id": "Artudacamelot5",
+            "tweet id": "967520312999981057",
+            "content": "merci à toi ! ! bonne nuit ! !",
+            "time": "18-02-24 22:03",
+            "timestamp": 1519480992
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "967528446707544065",
+            "content": "bonne nuit !",
+            "time": "18-02-24 22:35",
+            "timestamp": 1519482932
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1595392394073186304",
+            "content": "thank you very much for retweet ! <@user> <@user> <@user> <@user>",
+            "time": "22-11-23 12:22",
+            "timestamp": 1669177362
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "pet_paux",
+            "tweet id": "1595403003653226498",
+            "content": "you are welcome !",
+            "time": "22-11-23 13:04",
+            "timestamp": 1669179891
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "784354216399740928",
+            "content": "vielen dank ! schönen freitag ! <@user>",
+            "time": "16-10-07 11:26",
+            "timestamp": 1475810792
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "user id": "Tasso2000",
+            "tweet id": "784355373524344832",
+            "content": "dir auch . tolles foto",
+            "time": "16-10-07 11:31",
+            "timestamp": 1475811068
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "784356405054758912",
+            "content": ";-)",
+            "time": "16-10-07 11:35",
+            "timestamp": 1475811314
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "783638945594744832",
+            "content": "michel leiris <url> ... #littérature #literature #france #photography #landscape #ethnologie",
+            "time": "16-10-05 12:04",
+            "timestamp": 1475640258
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "784081567576719360",
+            "content": "merci beaucoup ! <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "16-10-06 17:23",
+            "timestamp": 1475745787
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "784352187426168832",
+            "content": "thank you very much for rt ! <@user>",
+            "time": "16-10-07 11:18",
+            "timestamp": 1475810308
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "913849343857381376",
+            "content": "merci ! bon weekend ! <@user>",
+            "time": "17-09-29 19:33",
+            "timestamp": 1506684836
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "826110735520509953",
+            "content": "merci beaucoup ! <@user>",
+            "time": "17-01-30 16:52",
+            "timestamp": 1485766322
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "826156996814585857",
+            "content": "merci beaucoup ! bonne soirée ! <@user> <@user> <@user>",
+            "time": "17-01-30 19:55",
+            "timestamp": 1485777351
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "840244851505532930",
+            "content": "merci ! <@user>",
+            "time": "17-03-10 16:55",
+            "timestamp": 1489136158
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1054454540160897025",
+            "content": "thank you very much ! <@user>",
+            "time": "18-10-22 19:28",
+            "timestamp": 1540207727
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1054463137020329990",
+            "content": "merci beaucoup ! <@user>",
+            "time": "18-10-22 20:02",
+            "timestamp": 1540209777
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1059856127242919936",
+            "content": "thank you ! good evening ! <@user> <@user>",
+            "time": "18-11-06 17:12",
+            "timestamp": 1541495566
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1308812813943664640",
+            "content": "thank you ! good evening ! <@user>",
+            "time": "20-09-23 16:57",
+            "timestamp": 1600851466
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00026915426133200526,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            0.0009770517935976386,
+            0.0009770517935976386,
+            0.4991176128387451,
+            0.4611482620239258,
+            0.35299140214920044,
+            0.19106128811836243,
+            0.4611482620239258,
+            0.35299140214920044,
+            0.19106128811836243,
+            7.454313610821828e-09,
+            0.02045620232820511,
+            0.028929438441991806,
+            0.02045620232820511,
+            0.0009770517935976386,
+            0.0009770517935976386,
+            0.02045620232820511,
+            0.028929438441991806,
+            0.02045620232820511,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09,
+            7.454313610821828e-09
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.001149425283074379,
+            1.0000000168623835e-16,
+            0.006896551698446274,
+            0.004597701132297516,
+            0.003448275849223137,
+            1.0000000168623835e-16,
+            0.004597701132297516,
+            0.003448275849223137,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.002298850566148758,
+            0.002298850566148758,
+            1.0000000168623835e-16,
+            0.001149425283074379,
+            1.0000000168623835e-16,
+            0.002298850566148758,
+            0.002298850566148758,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "source": {
+        "content": "apparently maga republicans are emotionally incapable of caring about others my cat has more empathy than the entire tribe of gop maga fascists",
+        "time": "22-09-22 15:37",
+        "timestamp": 1663832239,
+        "tweet url": "https://twitter.com/EvolvingEmpathy/status/1572973324199931906",
+        "user id": "EvolvingEmpathy",
+        "tweet id": "1572973324199931906",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "EvolvingEmpathy",
+            "tweet id": "1572974287870636035",
+            "content": "<@user> <@user>",
+            "time": "22-09-22 15:41",
+            "timestamp": 1663832469
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "p0l6rb36r",
+            "tweet id": "1572994836655120384",
+            "content": "<@user>",
+            "time": "22-09-22 17:02",
+            "timestamp": 1663837368
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3,
+                4
+            ],
+            "user id": "Estratruth",
+            "tweet id": "1573001620534988800",
+            "content": "hate caused this teen 's death",
+            "time": "22-09-22 17:29",
+            "timestamp": 1663838985
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "EvolvingEmpathy",
+            "tweet id": "1573003238424846336",
+            "content": "maga",
+            "time": "22-09-22 17:36",
+            "timestamp": 1663839371
+        },
+        {
+            "comment id": 4,
+            "parent": 2,
+            "children": [],
+            "user id": "EvolvingEmpathy",
+            "tweet id": "1573003890479747072",
+            "content": "your messiah is the king of hate",
+            "time": "22-09-22 17:38",
+            "timestamp": 1663839527
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "RockyResistor",
+            "tweet id": "1572976268001579008",
+            "content": "mika spelled it out .",
+            "time": "22-09-22 15:49",
+            "timestamp": 1663832941
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "SojournerNow",
+            "tweet id": "1572988124799680520",
+            "content": "thank you <@user>",
+            "time": "22-09-22 16:36",
+            "timestamp": 1663835768
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "Kree14665038",
+            "tweet id": "1572993571392741376",
+            "content": "excellent , everyone can understand clearly .",
+            "time": "22-09-22 16:57",
+            "timestamp": 1663837066
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "big_catsf",
+            "tweet id": "1573069538962407425",
+            "content": "this needs to be rt over & over again .",
+            "time": "22-09-22 21:59",
+            "timestamp": 1663855178
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "BTrusty504ever",
+            "tweet id": "1572980310626766850",
+            "content": "maga republicans think everyone else is inferior to them , thus not worthy of respect or empathy .",
+            "time": "22-09-22 16:05",
+            "timestamp": 1663833905
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "Sandrab79431169",
+            "tweet id": "1573312003950747651",
+            "content": "screw republicans",
+            "time": "22-09-23 14:03",
+            "timestamp": 1663912987
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "IAmTheStorm__",
+            "tweet id": "1575151188814843905",
+            "content": "coming from a party that put the welcome mat out to the cartels at the border . priceless . biden needs to take responsibility and close the border .",
+            "time": "22-09-28 15:51",
+            "timestamp": 1664351482
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.395089661102247e-07,
+            0.028803659602999687,
+            0.028803659602999687,
+            0.7065199017524719,
+            0.49958500266075134,
+            0.49958500266075134,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07,
+            4.395089661102247e-07
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.007575757801532745,
+            1.0000000168623835e-16,
+            0.01515151560306549,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

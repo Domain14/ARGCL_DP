@@ -1,0 +1,255 @@
+{
+    "source": {
+        "content": "herschel walker releases photo proving he was an fbi agent .",
+        "time": "22-06-14 14:16",
+        "timestamp": 1655187419,
+        "tweet url": "https://twitter.com/TheLostGenXer/status/1536714319165005830",
+        "user id": "TheLostGenXer",
+        "tweet id": "1536714319165005830",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "gary_kline",
+            "tweet id": "1543729935071825921",
+            "content": "king friday , with snark & wit . i love it ! fred rogers would be proud .",
+            "time": "22-07-03 22:54",
+            "timestamp": 1656860072
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "TheLostGenXer",
+            "tweet id": "1543734088259014656",
+            "content": "thank you !",
+            "time": "22-07-03 23:11",
+            "timestamp": 1656861062
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "smokeyhounddog",
+            "tweet id": "1538875088467939328",
+            "content": "herschel could n't find quantico on a map or spell it either .",
+            "time": "22-06-20 13:23",
+            "timestamp": 1655702586
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "dotardiantrump",
+            "tweet id": "1552096167915163648",
+            "content": "was he skinner or the cigarette smoking man ? i thought he might say he was mr . x , but let 's ask him what he likes to do when investigating an alien case with mulder and skully",
+            "time": "22-07-27 00:58",
+            "timestamp": 1658854737
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "TheLostGenXer",
+            "tweet id": "1552147411325358080",
+            "content": "he was skinner , until photoshop took over .",
+            "time": "22-07-27 04:22",
+            "timestamp": 1658866955
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "Craden924",
+            "tweet id": "1550327505768382470",
+            "content": "lmao",
+            "time": "22-07-22 03:50",
+            "timestamp": 1658433055
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "marymattheyer5",
+            "tweet id": "1537177870447087622",
+            "content": "that 's bs",
+            "time": "22-06-15 20:58",
+            "timestamp": 1655297938
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "FreedomTVR",
+            "tweet id": "1536757181009342464",
+            "content": "<@user> #herschelwalkerclaims #warnock",
+            "time": "22-06-14 17:07",
+            "timestamp": 1655197638
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "JacquelineHesp2",
+            "tweet id": "1542365868268498944",
+            "content": "photo does n't prove herschel walker was a fbi agents and the republican is down in the polls",
+            "time": "22-06-30 04:34",
+            "timestamp": 1656534853
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "Resisted2TheEnd",
+            "tweet id": "1574523930836017153",
+            "content": "they made a great team . not we have pin all our nightmares in herschel",
+            "time": "22-09-26 22:18",
+            "timestamp": 1664201933
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "DoveStudio216",
+            "tweet id": "1564949147504873472",
+            "content": "subtle but good",
+            "time": "22-08-31 12:12",
+            "timestamp": 1661919126
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "RobertH74059888",
+            "tweet id": "1550676390403624961",
+            "content": "hahahaha x files .",
+            "time": "22-07-23 02:57",
+            "timestamp": 1658516236
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "WOLFwisdom58",
+            "tweet id": "1544073998669004800",
+            "content": "#voteblueorwearescrewed #warnock #gopdomesticterrorists #trumpcoupattempt",
+            "time": "22-07-04 21:41",
+            "timestamp": 1656942103
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "nklslick",
+            "tweet id": "1541728294277713921",
+            "content": "#lmao",
+            "time": "22-06-28 10:20",
+            "timestamp": 1656382843
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "CookKCEgyptian",
+            "tweet id": "1548757120807485440",
+            "content": "omg !",
+            "time": "22-07-17 19:50",
+            "timestamp": 1658058646
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "Mikey60614",
+            "tweet id": "1537628225425313794",
+            "content": "bahahahahahahahahahahaahaha !",
+            "time": "22-06-17 02:48",
+            "timestamp": 1655405311
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.000976556446403265,
+            0.4999969005584717,
+            0.4999969005584717,
+            0.000976556446403265,
+            0.4999969005584717,
+            0.4999969005584717,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265,
+            0.000976556446403265
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

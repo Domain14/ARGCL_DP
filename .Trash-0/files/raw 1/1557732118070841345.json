@@ -1,0 +1,372 @@
+{
+    "source": {
+        "content": "dear <@user> , this is my new favorite thing . dm me so i can send you a free copy of michael mann 's first novel , #heat2 .",
+        "time": "22-08-11 14:14",
+        "timestamp": 1660198452,
+        "tweet url": "https://twitter.com/donwinslow/status/1557732118070841345",
+        "user id": "donwinslow",
+        "tweet id": "1557732118070841345",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "snarky_op",
+            "tweet id": "1601171232631635968",
+            "content": "awesome ! !",
+            "time": "22-12-09 11:05",
+            "timestamp": 1670555144
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "Debbie_in_SC_FL",
+            "tweet id": "1557974356944371712",
+            "content": "i 'm impressed too ... he 's really , really good ! i hope he enjoys his free copy of michael mann 's first novel , #heat2 . that 's really nice of you to do this for him .",
+            "time": "22-08-12 06:16",
+            "timestamp": 1660256207
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "WestonJK",
+            "tweet id": "1557798238429712384",
+            "content": "brilliant !",
+            "time": "22-08-11 18:36",
+            "timestamp": 1660214217
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "APloetz",
+            "tweet id": "1557880452953919488",
+            "content": "i so need to watch that movie again , now .",
+            "time": "22-08-12 00:03",
+            "timestamp": 1660233818
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "slayerrob1701",
+            "tweet id": "1557827638433120274",
+            "content": "who wrote the first heat ? i 'd like to read them in order .",
+            "time": "22-08-11 20:33",
+            "timestamp": 1660221226
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "donwinslow",
+            "tweet id": "1557871655698853889",
+            "content": "the first heat was a movie written and directed by michael mann and starring al pacino and robert deniro .",
+            "time": "22-08-11 23:28",
+            "timestamp": 1660231721
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "NeilSpooner5",
+            "tweet id": "1557946613083291648",
+            "content": "not just “ a ” movie , the greatest crime drama ever conceived and out on film by the worlds greatest director .",
+            "time": "22-08-12 04:26",
+            "timestamp": 1660249592
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "wit_t",
+            "tweet id": "1601171854500065280",
+            "content": "just read the book . could n't put it down .",
+            "time": "22-12-09 11:08",
+            "timestamp": 1670555293
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "Durden112",
+            "tweet id": "1557911553856487424",
+            "content": "i 'm the same way with this movie and top gun .",
+            "time": "22-08-12 02:07",
+            "timestamp": 1660241233
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "EricArnold209",
+            "tweet id": "1557736937619726336",
+            "content": "that was awesome ! legit cold chills from that scene .",
+            "time": "22-08-11 14:33",
+            "timestamp": 1660199601
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "AdventureOtaku",
+            "tweet id": "1557876996805275648",
+            "content": "can we get this guy to do the whole movie ?",
+            "time": "22-08-11 23:49",
+            "timestamp": 1660232994
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "kalpha7",
+            "tweet id": "1557877312531603457",
+            "content": "dude , you 're the best . never change .",
+            "time": "22-08-11 23:51",
+            "timestamp": 1660233069
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "Jefiner68",
+            "tweet id": "1557733402367119360",
+            "content": "that 's awesome .",
+            "time": "22-08-11 14:19",
+            "timestamp": 1660198759
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "MsViaCaring",
+            "tweet id": "1557743346121990146",
+            "content": "he 's so good !",
+            "time": "22-08-11 14:58",
+            "timestamp": 1660201129
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "viequesdynamo",
+            "tweet id": "1557931646728421377",
+            "content": "that was one of many classic scenes from \" heat . \" simply awesome .",
+            "time": "22-08-12 03:27",
+            "timestamp": 1660246024
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "cm_harper",
+            "tweet id": "1557740027211567104",
+            "content": "he 's great !",
+            "time": "22-08-11 14:45",
+            "timestamp": 1660200338
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17,
+                19
+            ],
+            "user id": "Shamurai23",
+            "tweet id": "1557932417851469824",
+            "content": "there 's a heat 2 ? !",
+            "time": "22-08-12 03:30",
+            "timestamp": 1660246208
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "user id": "Shamurai23",
+            "tweet id": "1557932654498091009",
+            "content": "this is amazing btw , we need the diner scene",
+            "time": "22-08-12 03:31",
+            "timestamp": 1660246264
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "RobertPalacios2",
+            "tweet id": "1557934342193795075",
+            "content": "working on it",
+            "time": "22-08-12 03:37",
+            "timestamp": 1660246666
+        },
+        {
+            "comment id": 19,
+            "parent": 16,
+            "children": [],
+            "user id": "RobertPalacios2",
+            "tweet id": "1557934342193795075",
+            "content": "working on it",
+            "time": "22-08-12 03:37",
+            "timestamp": 1660246666
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "AndthenIsleep",
+            "tweet id": "1557871274931757056",
+            "content": "love it !",
+            "time": "22-08-11 23:27",
+            "timestamp": 1660231630
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "NeilSpooner5",
+            "tweet id": "1557946402394996741",
+            "content": "brilliant !",
+            "time": "22-08-12 04:25",
+            "timestamp": 1660249542
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "nowisthetim",
+            "tweet id": "1557754955427102720",
+            "content": "is it available for sale in europe too ? i need to get my hands on a copy asap . heat is still my fave movie of all time and trust me when i say i saw a lot of movies !",
+            "time": "22-08-11 15:44",
+            "timestamp": 1660203897
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "jhshark",
+            "tweet id": "1557931350283300864",
+            "content": "my friend <@user> would be a great character for the new film !",
+            "time": "22-08-12 03:25",
+            "timestamp": 1660245953
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            0.07293160259723663,
+            0.10314086079597473,
+            0.07293160259723663,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            0.5950677394866943,
+            0.5950677394866943,
+            0.36777210235595703,
+            0.36777210235595703,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10,
+            3.2405592098605496e-10
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0036231884732842445,
+            0.0036231884732842445,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005434782709926367,
+            0.0036231884732842445,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

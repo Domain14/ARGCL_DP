@@ -1,0 +1,191 @@
+{
+    "source": {
+        "content": "trump was on the home improvement set , once . nobody will ever forget that day",
+        "time": "22-09-20 05:57",
+        "timestamp": 1663624670,
+        "tweet url": "https://twitter.com/smc429/status/1572102714997481475",
+        "user id": "smc429",
+        "tweet id": "1572102714997481475",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "larrythefilmguy",
+            "tweet id": "1582748331087785986",
+            "content": "that photoshop job is horrible ...",
+            "time": "22-10-19 14:59",
+            "timestamp": 1666162782
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "dicklenhart",
+            "tweet id": "1587138067139174401",
+            "content": "the oranges , the little hands , diet coke , mega hats and top secret folders ... it 's the attention to even the smallest detail that makes this so good .",
+            "time": "22-10-31 17:42",
+            "timestamp": 1667209377
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "SpicyMonkey222",
+            "tweet id": "1587140898533556227",
+            "content": "so many perfect details . is that a voting machine in the corner too ?",
+            "time": "22-10-31 17:54",
+            "timestamp": 1667210052
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "MaryMorrisey14",
+            "tweet id": "1587977228553445378",
+            "content": "did you actually waste time on that ?",
+            "time": "22-11-03 01:17",
+            "timestamp": 1667409449
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5,
+                7,
+                9
+            ],
+            "user id": "taradublinrocks",
+            "tweet id": "1572104962779549696",
+            "content": "republicans are n't funny",
+            "time": "22-09-20 06:06",
+            "timestamp": 1663625206
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "KittyKatSes",
+            "tweet id": "1572218197851664389",
+            "content": "and democrats are murderers , ie hillary and her benghazi ordeal and ur presidents kabul ordeal ! i 'm sure there families would prefer a liar i know i would . they all lie but not all out right murder !",
+            "time": "22-09-20 13:36",
+            "timestamp": 1663652203
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "taradublinrocks",
+            "tweet id": "1572247567202910210",
+            "content": "tim allen sure has a lot of shitty fake maga followers , i wonder why",
+            "time": "22-09-20 15:33",
+            "timestamp": 1663659205
+        },
+        {
+            "comment id": 7,
+            "parent": 4,
+            "children": [
+                8
+            ],
+            "user id": "IrishPatty54",
+            "tweet id": "1572305652030242818",
+            "content": "he 's only doing this because he knows <@user> <@user> will never hire his #maga ass again . now that he 's not hirable he can be more vocal with his racism , misogyny and overall hatefulness . he can join kevin sorbo & the rest on the d-list #timallen",
+            "time": "22-09-20 19:24",
+            "timestamp": 1663673054
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "Angelsfan4life",
+            "tweet id": "1572306453008121857",
+            "content": "these guys .",
+            "time": "22-09-20 19:27",
+            "timestamp": 1663673245
+        },
+        {
+            "comment id": 9,
+            "parent": 4,
+            "children": [
+                10
+            ],
+            "user id": "Turtlekid_lol",
+            "tweet id": "1573971486758633472",
+            "content": "at least they do n't get offended by political jokes",
+            "time": "22-09-25 09:43",
+            "timestamp": 1664070220
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "jessica56927856",
+            "tweet id": "1574658756155097088",
+            "content": "bigly !",
+            "time": "22-09-27 07:14",
+            "timestamp": 1664234077
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            3.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            2.59838743659202e-05,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0005600108415819705,
+            0.0005600108415819705,
+            0.0005600108415819705,
+            0.0005600108415819705,
+            0.0005600108415819705,
+            0.6120918393135071,
+            0.4082479178905487,
+            0.20440395176410675,
+            0.4082479178905487,
+            0.20440395176410675,
+            0.4082479178905487,
+            0.20440395176410675
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.05454545468091965,
+            0.0181818176060915,
+            1.0000000168623835e-16,
+            0.0181818176060915,
+            1.0000000168623835e-16,
+            0.0181818176060915,
+            1.0000000168623835e-16
+        ]
+    }
+}

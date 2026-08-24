@@ -1,0 +1,405 @@
+{
+    "source": {
+        "content": "\" bitcoin wastes energy \" collection : 1 ) <url> ... ( <@user> ) 2 ) <url> ... ( <@user> ) 3 ) <url> ... ( <@user> ) 4 ) <url> ... ( <@user> ) 5 ) <url> ( <@user> ) 6 ) <url> ... ( <@user> )",
+        "time": "21-04-02 17:14",
+        "timestamp": 1617354847,
+        "tweet url": "https://twitter.com/giacomozucco/status/1378033014568054789",
+        "user id": "giacomozucco",
+        "tweet id": "1378033014568054789",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "giacomozucco",
+            "tweet id": "1378034311232954368",
+            "content": "some technical issues with <@user> ' s link , here it is : <url> ...",
+            "time": "21-04-02 17:19",
+            "timestamp": 1617355157
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "SINGERNAT",
+            "tweet id": "1392730135120523265",
+            "content": "one of the best and most well researched articles i have read on this matter . read it a while back , really great stuff . elon , while no slouch , should know better than to fud #btc ... wonder what his motives are . tank it a bunch to buy in super low again ?",
+            "time": "21-05-13 06:35",
+            "timestamp": 1620858914
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "mira_hurley",
+            "tweet id": "1378044145357496322",
+            "content": "<@user> ' s article should be in there too , if you 're trying to remain slighly unbiased .",
+            "time": "21-04-02 17:58",
+            "timestamp": 1617357501
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [
+                4
+            ],
+            "user id": "giacomozucco",
+            "tweet id": "1378129930551234561",
+            "content": "i care more about being right .",
+            "time": "21-04-02 23:39",
+            "timestamp": 1617377954
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "mira_hurley",
+            "tweet id": "1378242564726394880",
+            "content": "in that case , you should definitely add his article in there .",
+            "time": "21-04-03 07:06",
+            "timestamp": 1617404808
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "stefanwouldgo",
+            "tweet id": "1378045868054614018",
+            "content": "if you 're looking for a more neutral point of view , you might want to take a look at",
+            "time": "21-04-02 18:05",
+            "timestamp": 1617357912
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "giacomozucco",
+            "tweet id": "1378129562018717698",
+            "content": "missed this one . great job .",
+            "time": "21-04-02 23:37",
+            "timestamp": 1617377866
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "TomerStrolight",
+            "tweet id": "1378050135117156352",
+            "content": "also this three minute short piece i wrote on it : why bitcoin 's energy use is not environmentally harmful",
+            "time": "21-04-02 18:22",
+            "timestamp": 1617358929
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "bPGTill",
+            "tweet id": "1378035197145452549",
+            "content": "i summarized some of nic 's thoughts as well as the cambridge research and coinshares mining report . maybe you find it relevant :",
+            "time": "21-04-02 17:22",
+            "timestamp": 1617355368
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "AsILayHodling",
+            "tweet id": "1378035253923692547",
+            "content": "til : bitcoin miners in sichuan only account for like ~ 20 % of its excess energy output . drop in the bucket ( and that 's the most hash-heavy area in the world )",
+            "time": "21-04-02 17:23",
+            "timestamp": 1617355381
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "Rich_PlanE",
+            "tweet id": "1392736350227607554",
+            "content": "source ?",
+            "time": "21-05-13 06:59",
+            "timestamp": 1620860396
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "OrangeCoinGood4",
+            "tweet id": "1378041530619940864",
+            "content": "do italian hand gestures waste energy ?",
+            "time": "21-04-02 17:47",
+            "timestamp": 1617356878
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "SmileyGnome",
+            "tweet id": "1378167589210296320",
+            "content": "excellent list !",
+            "time": "21-04-03 02:08",
+            "timestamp": 1617386933
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "ZLOK",
+            "tweet id": "1378289108653633537",
+            "content": "something in french :",
+            "time": "21-04-03 10:11",
+            "timestamp": 1617415905
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "Goon_34",
+            "tweet id": "1378290974082875393",
+            "content": "something in german ;",
+            "time": "21-04-03 10:19",
+            "timestamp": 1617416350
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "ZLOK",
+            "tweet id": "1378300052125446146",
+            "content": "and also ,",
+            "time": "21-04-03 10:55",
+            "timestamp": 1617418514
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "potapac1",
+            "tweet id": "1378308798222372864",
+            "content": "there 's a bunch of articles on the same topic in this thread . i do n't think anyone linked it so far <url> ...",
+            "time": "21-04-03 11:29",
+            "timestamp": 1617420599
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "CristbalGuncke1",
+            "tweet id": "1378337367547871232",
+            "content": "i hope bitcoin would consume hopefully the whole centralized stock of energy one day , so it could transform it into a descentralized and perfect market",
+            "time": "21-04-03 13:23",
+            "timestamp": 1617427411
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "user id": "parsevalbtc",
+            "tweet id": "1379013739366785027",
+            "content": "+ <url> ... in particular : \" as all costs are fundamentally resolved in energy consumption , it follows that the money in use is the most energy efficient . \" <@user>",
+            "time": "21-04-05 10:11",
+            "timestamp": 1617588670
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "parsevalbtc",
+            "tweet id": "1392807446486388738",
+            "content": "probably <@user> and <@user> should give a read to cryptoeconomics , regarding resources consumption . regardless such a \" preference \" has been pushed or not , their opportunity cost of accepting bitcoin is lower . at least for now .",
+            "time": "21-05-13 11:42",
+            "timestamp": 1620877347
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "linasantlinijos",
+            "tweet id": "1392716337751920641",
+            "content": "one more :",
+            "time": "21-05-13 05:40",
+            "timestamp": 1620855624
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                22
+            ],
+            "user id": "laurentbenichou",
+            "tweet id": "1392724954668535810",
+            "content": "my contribution :",
+            "time": "21-05-13 06:14",
+            "timestamp": 1620857679
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "KeenwaAcai",
+            "tweet id": "1392731903820713985",
+            "content": "thank you sir !",
+            "time": "21-05-13 06:42",
+            "timestamp": 1620859336
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "profstonge",
+            "tweet id": "1393040327280365571",
+            "content": "just up today , taking it from the other angle : what 's the carbon footprint of fiat money ? <url> ...",
+            "time": "21-05-14 03:07",
+            "timestamp": 1620932870
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "efebitcoin",
+            "tweet id": "1392644633314922501",
+            "content": "that is all i was looking for to debunk energy fud on our turkish bitcoin-only podcast ! thanks .",
+            "time": "21-05-13 00:55",
+            "timestamp": 1620838529
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "Accuratetrade_",
+            "tweet id": "1593919389988016130",
+            "content": "join for binance futures trade calls and start making lots of profits on our telegram channel <url> ...",
+            "time": "22-11-19 10:49",
+            "timestamp": 1668826170
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            5.360130561626875e-09,
+            0.011241008527576923,
+            0.011241008527576923,
+            0.49968400597572327,
+            0.7066599130630493,
+            0.49968400597572327,
+            0.011241008527576923,
+            0.011241008527576923,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            0.011241008527576923,
+            0.011241008527576923,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            0.011241008527576923,
+            0.011241008527576923,
+            5.360130561626875e-09,
+            0.011241008527576923,
+            0.011241008527576923,
+            5.360130561626875e-09,
+            5.360130561626875e-09,
+            5.360130561626875e-09
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0015384615398943424,
+            1.0000000168623835e-16,
+            0.003076923079788685,
+            0.003076923079788685,
+            1.0000000168623835e-16,
+            0.0015384615398943424,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0015384615398943424,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0015384615398943424,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0015384615398943424,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

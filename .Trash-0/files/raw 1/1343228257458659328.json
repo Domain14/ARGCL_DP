@@ -1,0 +1,211 @@
+{
+    "source": {
+        "content": "la paix est de toutes les couleurs . comment pouvons-nous être des ennemis ? un lait du même blanc coule de nos seins . un sang du même rouge coule dans nos veines . virginia pésémapéo bordeleau #poesie #photographie #citation",
+        "time": "20-12-27 16:12",
+        "timestamp": 1609056747,
+        "tweet url": "https://twitter.com/o_franco_aleman/status/1343228257458659328",
+        "user id": "o_franco_aleman",
+        "tweet id": "1343228257458659328",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1359795057923137537",
+            "content": "virginia pésémapéo bordeleau <url> ... #littérature #québec #francophonie #premieresnations #firstnations #literature #poetry #photography #nature #naturephotography #flowers #roses",
+            "time": "21-02-11 09:23",
+            "timestamp": 1613006580
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1360887046513041410",
+            "content": "merci beaucoup ! <@user> <@user>",
+            "time": "21-02-14 09:42",
+            "timestamp": 1613266930
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1461983317893521408",
+            "content": "merci beaucoup ! <@user>",
+            "time": "21-11-20 09:02",
+            "timestamp": 1637370159
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1462035359882264587",
+            "content": "thanks for rt ! happy weekend ! <@user>",
+            "time": "21-11-20 12:29",
+            "timestamp": 1637382567
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1461721520347267076",
+            "content": "grazie ! buona serata ! <@user>",
+            "time": "21-11-19 15:42",
+            "timestamp": 1637307742
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1361724701010251778",
+            "content": "merci beaucoup ! <@user>",
+            "time": "21-02-16 17:10",
+            "timestamp": 1613466642
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1361639734632677376",
+            "content": "merci beaucoup à toutes les personnes qui ont aimé et partagé ce tweet ! bon #mardigras ! #poesie #photographie",
+            "time": "21-02-16 11:33",
+            "timestamp": 1613446385
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1361650569383976963",
+            "content": "merci beaucoup ! <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "21-02-16 12:16",
+            "timestamp": 1613448968
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1459486788888715272",
+            "content": "thank you very much ! happy weekend ! <@user>",
+            "time": "21-11-13 11:42",
+            "timestamp": 1636774941
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1461722933370445825",
+            "content": "thanks for rt ! <@user>",
+            "time": "21-11-19 15:47",
+            "timestamp": 1637308079
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1462091128551976964",
+            "content": "thank you very much for rt ! <@user>",
+            "time": "21-11-20 16:11",
+            "timestamp": 1637395864
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "AfarKnowing",
+            "tweet id": "1343244485384290305",
+            "content": "vrai et beau .",
+            "time": "20-12-27 17:16",
+            "timestamp": 1609060616
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "MarshalSandhu",
+            "tweet id": "1343315977044418562",
+            "content": "nice pic",
+            "time": "20-12-27 22:01",
+            "timestamp": 1609077661
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905319751240313,
+            0.7071047425270081,
+            0.7071047425270081,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313,
+            0.0006905319751240313
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.006410256493836641,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

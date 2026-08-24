@@ -1,0 +1,183 @@
+{
+    "source": {
+        "content": "\" so you just abandoned everything you learned from 10 years of college and 9-5 , bought a $ 99 pdf from an anon on twitter that you follow religiously and now you make more money than ever before ? \"",
+        "time": "22-05-17 12:52",
+        "timestamp": 1652763123,
+        "tweet url": "https://twitter.com/waronweakness/status/1526546086151741440",
+        "user id": "waronweakness",
+        "tweet id": "1526546086151741440",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "copyage",
+            "tweet id": "1526546959170936835",
+            "content": "the dude asking :",
+            "time": "22-05-17 12:55",
+            "timestamp": 1652763331
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "copyage",
+            "tweet id": "1526547323370844163",
+            "content": "it 's crazy when you think about it most people are just one piece of information away from changing their lives just crazy",
+            "time": "22-05-17 12:56",
+            "timestamp": 1652763418
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "theFIFemale",
+            "tweet id": "1526547590241832960",
+            "content": "which pdf ? asking for a friend .",
+            "time": "22-05-17 12:58",
+            "timestamp": 1652763482
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "drewrush",
+            "tweet id": "1526548377965674496",
+            "content": "bump",
+            "time": "22-05-17 13:01",
+            "timestamp": 1652763669
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "HerculeanStren1",
+            "tweet id": "1526621236763164675",
+            "content": "i 've learned / made several times more by following the advice of anons on bird app than 7 years of college .",
+            "time": "22-05-17 17:50",
+            "timestamp": 1652781040
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "CryptoAmazigh",
+            "tweet id": "1526621715475873795",
+            "content": "which pdf if i may ask my man ?",
+            "time": "22-05-17 17:52",
+            "timestamp": 1652781154
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "HotCuddles1010",
+            "tweet id": "1526668051902394368",
+            "content": "int-eresting where can i find this pdf of which you speak ?",
+            "time": "22-05-17 20:56",
+            "timestamp": 1652792202
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "AlfredStockell",
+            "tweet id": "1526682895066210304",
+            "content": "where can i purchase this pdf may i ask ?",
+            "time": "22-05-17 21:55",
+            "timestamp": 1652795741
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "MPeytonCox",
+            "tweet id": "1526694701994283016",
+            "content": "crazy world we live in !",
+            "time": "22-05-17 22:42",
+            "timestamp": 1652798556
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "ekwoschinedu",
+            "tweet id": "1526796440437153794",
+            "content": "yeap ... read it like your life depends on it .",
+            "time": "22-05-18 05:26",
+            "timestamp": 1652822812
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "marleysevo",
+            "tweet id": "1556704730398834690",
+            "content": "yes",
+            "time": "22-08-08 18:11",
+            "timestamp": 1659953504
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.7071051001548767,
+            0.7071051001548767,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00909090880304575,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

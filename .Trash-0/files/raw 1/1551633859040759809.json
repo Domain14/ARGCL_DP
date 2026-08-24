@@ -1,0 +1,437 @@
+{
+    "source": {
+        "content": "most self-proclaimed * blockchain * games are actually games that utilise nfts ( collectibles ) . the game is n't on-chain . the utility of the item is n't on-chain . and that 's fine . but let 's transition the word and start to just call them games ! \" blockchain \" is n't a core part",
+        "time": "22-07-25 18:21",
+        "timestamp": 1658744514,
+        "tweet url": "https://twitter.com/Loopifyyy/status/1551633859040759809",
+        "user id": "Loopifyyy",
+        "tweet id": "1551633859040759809",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2,
+                3
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1551634053106917377",
+            "content": "as much as this helps to not scare traditional gamers , it 's just common sense . it 's like how crypto art is n't a form of art , but just art tokenised . would love to see more games make this push",
+            "time": "22-07-25 18:22",
+            "timestamp": 1658744560
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "RobertoCoccia4",
+            "tweet id": "1551658357353811968",
+            "content": "i think there is no nft artist . just artists .",
+            "time": "22-07-25 19:59",
+            "timestamp": 1658750355
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [],
+            "user id": "metaenforcer",
+            "tweet id": "1551634964059459584",
+            "content": "look into if you have n't heard of them before <@user>",
+            "time": "22-07-25 18:26",
+            "timestamp": 1658744778
+        },
+        {
+            "comment id": 3,
+            "parent": 0,
+            "children": [],
+            "user id": "salolrac",
+            "tweet id": "1551653648605888515",
+            "content": "if epic games enters the nft space with games , we might see a domino effect in the industry",
+            "time": "22-07-25 19:40",
+            "timestamp": 1658749232
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "0xghosty",
+            "tweet id": "1551635511017476096",
+            "content": "blockchain should n't be the identity of the game , like ray tracing never became the identity of games like red dead redemption 2",
+            "time": "22-07-25 18:28",
+            "timestamp": 1658744908
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "Loopifyyy",
+            "tweet id": "1551636618070695937",
+            "content": "exactly that ser",
+            "time": "22-07-25 18:32",
+            "timestamp": 1658745172
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "CryptoLeagueORG",
+            "tweet id": "1551635304523735043",
+            "content": "shocker !",
+            "time": "22-07-25 18:27",
+            "timestamp": 1658744859
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "ToshiMon_",
+            "tweet id": "1551638644737310720",
+            "content": "we wrote an entire article on this , and how we 're building the tech to justify the label * blockchain * game !",
+            "time": "22-07-25 18:40",
+            "timestamp": 1658745655
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "OneEyeape",
+            "tweet id": "1551635004072923137",
+            "content": "just like <@user> first social media on chain",
+            "time": "22-07-25 18:26",
+            "timestamp": 1658744787
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "0xNeroo",
+            "tweet id": "1551852480870457347",
+            "content": "“ first social media on chain ” are you sure ?",
+            "time": "22-07-26 08:50",
+            "timestamp": 1658796638
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "OneEyeape",
+            "tweet id": "1551908132523229184",
+            "content": "yes",
+            "time": "22-07-26 12:31",
+            "timestamp": 1658809906
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "0xNeroo",
+            "tweet id": "1551912329503195139",
+            "content": "what 's the url ? want to check it out . heard of steemit ?",
+            "time": "22-07-26 12:48",
+            "timestamp": 1658810907
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "MaxCallisto",
+            "tweet id": "1551737089749700608",
+            "content": "there should never be a need for “ blockchain for ... ” to start any business . blockchain opens up a whole host of new business models that previous tech was n't able to accommodate . p2p payments via a privacy chain was n't possible in the past since the tx history was centralised .",
+            "time": "22-07-26 01:12",
+            "timestamp": 1658769126
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "cobble",
+            "tweet id": "1551699503958335489",
+            "content": "this is such an important distinction . whilst \" blockchain game \" might get you some vc funding , it 'll confuse both players and developers into making something that is n't first and foremost a fun game .",
+            "time": "22-07-25 22:42",
+            "timestamp": 1658760165
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "AntsInYourMouth",
+            "tweet id": "1551645994756050945",
+            "content": "\" a game with player-owned assets \"",
+            "time": "22-07-25 19:10",
+            "timestamp": 1658747407
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "andyboyan",
+            "tweet id": "1551726921486147586",
+            "content": "ok",
+            "time": "22-07-26 00:31",
+            "timestamp": 1658766702
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "0xKeef",
+            "tweet id": "1551646375024009216",
+            "content": "nft games can be successful . i do n't think blockchain games ( atleast 100 % on chain ) can be widely",
+            "time": "22-07-25 19:11",
+            "timestamp": 1658747498
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "OneEyeape",
+            "tweet id": "1551634909508186112",
+            "content": "so treevers will be the first one on chain ?",
+            "time": "22-07-25 18:26",
+            "timestamp": 1658744765
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "user id": "Loopifyyy",
+            "tweet id": "1551635091289526272",
+            "content": "nope , we 've ditched the term \" blockchain gaming \" ( lmk if you see it anywhere so we can remove it haha ! ) as we 've said from day one we are a centralised game utilising aspects of the blockchain ^ _ ^",
+            "time": "22-07-25 18:26",
+            "timestamp": 1658744808
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "OneEyeape",
+            "tweet id": "1551635279559110656",
+            "content": "ok cool",
+            "time": "22-07-25 18:27",
+            "timestamp": 1658744853
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "rAIph_4_real",
+            "tweet id": "1551641791580995584",
+            "content": "fully on-chain game by <@user> & <@user> lfg : <url> ... regardless , we need to ditch the blockchain notion , similar to the fact that we do n't call them \" unity-based games \" or \" unreal engine games \" .",
+            "time": "22-07-25 18:53",
+            "timestamp": 1658746405
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [
+                22
+            ],
+            "user id": "truewu",
+            "tweet id": "1551634692394438659",
+            "content": "more of us need to understand the branding issues on hat come with the space . we need to be more flexible in quickly changing our vocabulary .",
+            "time": "22-07-25 18:25",
+            "timestamp": 1658744713
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "Loopifyyy",
+            "tweet id": "1551634864201400323",
+            "content": "i think there is a limit to how many times you can change the vocabulary before making more important moves and educating , however i do agree ( as op suggests ) that we do need to make some changes :)",
+            "time": "22-07-25 18:25",
+            "timestamp": 1658744754
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "Gar4848",
+            "tweet id": "1551675240559759361",
+            "content": "is using the words crypto or nft in talking about games a red flag ?",
+            "time": "22-07-25 21:06",
+            "timestamp": 1658754380
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "hassantsyed",
+            "tweet id": "1551637648959324161",
+            "content": "be a game first . if people want to use the nft functionality to offboad , that should be an option , not a requirement .",
+            "time": "22-07-25 18:36",
+            "timestamp": 1658745418
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "0xflorido",
+            "tweet id": "1551637778315837440",
+            "content": "everything does not need to be on chain . for example a mmo could start with having the auction house + characters on chain . the rest a normal game",
+            "time": "22-07-25 18:37",
+            "timestamp": 1658745449
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "Aniketnft01",
+            "tweet id": "1551634398126419969",
+            "content": "<url> ... here 's one great thread i find on overall p2e gaming nft project",
+            "time": "22-07-25 18:24",
+            "timestamp": 1658744643
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "GameColonia",
+            "tweet id": "1551887440817840129",
+            "content": "hello come and check out our pages on our social medias .",
+            "time": "22-07-26 11:09",
+            "timestamp": 1658804973
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            3.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            9.860725640464807e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            5.399854944020425e-15,
+            0.6846703886985779,
+            0.3952946364879608,
+            0.3952946364879608,
+            0.3952946364879608,
+            2.3192200387711637e-05,
+            2.3192200387711637e-05,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            0.09270297735929489,
+            0.1499965786933899,
+            0.1499965786933899,
+            0.09270297735929489,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            0.00817400123924017,
+            0.011559783481061459,
+            0.00817400123924017,
+            5.399854944020425e-15,
+            2.3192200387711637e-05,
+            2.3192200387711637e-05,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            5.399854944020425e-15,
+            5.399854944020425e-15
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.003968254197388887,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0013227512827143073,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.003968254197388887,
+            0.005291005130857229,
+            0.003968254197388887,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0026455025654286146,
+            0.0026455025654286146,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0013227512827143073,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,402 @@
+{
+    "source": {
+        "content": "my dog has said this for four years",
+        "time": "21-05-15 13:30",
+        "timestamp": 1621056607,
+        "tweet url": "https://twitter.com/joqween/status/1393559319883436032",
+        "user id": "joqween",
+        "tweet id": "1393559319883436032",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1396129615870144514",
+            "content": "<@user>",
+            "time": "21-05-22 15:43",
+            "timestamp": 1621669413
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "GerualA",
+            "tweet id": "1393927406092800002",
+            "content": "thanks , what better way to start the day than with a hearty laugh ! !",
+            "time": "21-05-16 13:52",
+            "timestamp": 1621144366
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1394239228482097155",
+            "content": "hahaha",
+            "time": "21-05-17 10:31",
+            "timestamp": 1621218710
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "jpogolds",
+            "tweet id": "1397161479397416961",
+            "content": "i never get tired of looking at that doggo giving the side eye",
+            "time": "21-05-25 12:03",
+            "timestamp": 1621915429
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1397161839100932103",
+            "content": "i know ! too funny",
+            "time": "21-05-25 12:05",
+            "timestamp": 1621915515
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "janadegrand",
+            "tweet id": "1400932251806965760",
+            "content": "when your emotional support dog needs emotional support",
+            "time": "21-06-04 21:47",
+            "timestamp": 1622814451
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1401129147020230656",
+            "content": "lol",
+            "time": "21-06-05 10:49",
+            "timestamp": 1622861395
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                9
+            ],
+            "user id": "CDodsonPCBeach",
+            "tweet id": "1418517067989504000",
+            "content": "my old beagle , also named ralph , was nothing but a love bug . my current beagle is a hot water bottle with fur .",
+            "time": "21-07-23 10:23",
+            "timestamp": 1627006998
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1418518631609257985",
+            "content": "awwww",
+            "time": "21-07-23 10:29",
+            "timestamp": 1627007371
+        },
+        {
+            "comment id": 9,
+            "parent": 7,
+            "children": [
+                10
+            ],
+            "user id": "joqween",
+            "tweet id": "1418608962610491393",
+            "content": "love this face",
+            "time": "21-07-23 16:28",
+            "timestamp": 1627028907
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "CDodsonPCBeach",
+            "tweet id": "1418637997831081984",
+            "content": "thank you .",
+            "time": "21-07-23 18:23",
+            "timestamp": 1627035830
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "PeopleDied2Vote",
+            "tweet id": "1419909528657612803",
+            "content": "same",
+            "time": "21-07-27 06:36",
+            "timestamp": 1627338986
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1420017728245616644",
+            "content": "awwww",
+            "time": "21-07-27 13:46",
+            "timestamp": 1627364783
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "ChiukiAmsterdam",
+            "tweet id": "1426856401771679748",
+            "content": "oh , that all-telling side eye .",
+            "time": "21-08-15 10:40",
+            "timestamp": 1628995250
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1426856745389940739",
+            "content": "hahaha",
+            "time": "21-08-15 10:42",
+            "timestamp": 1628995332
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "VenetiaVen",
+            "tweet id": "1446572208424292352",
+            "content": "cute puppy",
+            "time": "21-10-08 20:24",
+            "timestamp": 1633695865
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1446576830836772865",
+            "content": "thank you",
+            "time": "21-10-08 20:42",
+            "timestamp": 1633696967
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "FolseLa",
+            "tweet id": "1487851183159103491",
+            "content": "! too funny ! my “ the baby tasmanian devil ” said “ yes , it 's so tiring ! ”",
+            "time": "22-01-30 18:12",
+            "timestamp": 1643537539
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1487882130445287426",
+            "content": "hahaha",
+            "time": "22-01-30 20:15",
+            "timestamp": 1643544918
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "solaranoir",
+            "tweet id": "1490458905347903488",
+            "content": "i think my dog would concur .",
+            "time": "22-02-06 22:54",
+            "timestamp": 1644159269
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21
+            ],
+            "user id": "joqween",
+            "tweet id": "1490759362926817286",
+            "content": "hahaha",
+            "time": "22-02-07 18:48",
+            "timestamp": 1644230903
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "solaranoir",
+            "tweet id": "1493443412237832193",
+            "content": "i love this so much ! so clever !",
+            "time": "22-02-15 04:33",
+            "timestamp": 1644870830
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [
+                23
+            ],
+            "user id": "RobynEvansinCal",
+            "tweet id": "1507366418613878785",
+            "content": "i have one that is and one that is n't . sunny says stop the drama & colton says “ i 'll hug you mom ”",
+            "time": "22-03-25 14:38",
+            "timestamp": 1648190334
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [],
+            "user id": "joqween",
+            "tweet id": "1507522521389834241",
+            "content": "awwww",
+            "time": "22-03-26 00:59",
+            "timestamp": 1648227552
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "Janicep85915230",
+            "tweet id": "1513546579646451713",
+            "content": "lol",
+            "time": "22-04-11 15:56",
+            "timestamp": 1649663799
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.741876682978763e-11,
+            4.741876682978763e-11,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.596825361251831,
+            0.36885836720466614,
+            0.596825361251831,
+            0.36885836720466614,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            0.06220100447535515,
+            0.08796550333499908,
+            0.06220100447535515,
+            0.0007955548935569823,
+            0.0007955548935569823,
+            4.741876682978763e-11
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.004999999888241291,
+            1.0000000168623835e-16,
+            0.0033333334140479565,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            0.0033333334140479565,
+            0.0033333334140479565,
+            1.0000000168623835e-16,
+            0.0016666667070239782,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

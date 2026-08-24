@@ -1,0 +1,766 @@
+{
+    "source": {
+        "content": "here 's how simple your emails should be : hi john , if i can increase the revenue you generate through email by 30 % within 30 days , would you say that 's worth 15 min of your time ? thanks , sean tweak it to your offer and run with it it works",
+        "time": "22-01-04 19:02",
+        "timestamp": 1641294136,
+        "tweet url": "https://twitter.com/sean0to10k/status/1478441669599051778",
+        "user id": "sean0to10k",
+        "tweet id": "1478441669599051778",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                2
+            ],
+            "user id": "sean0to10k",
+            "tweet id": "1478442069739909122",
+            "content": "you could add a p . s at the end too p . s if the answer is yes , does monday at 10am suit you ?",
+            "time": "22-01-04 19:03",
+            "timestamp": 1641294232
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "AvgDigital",
+            "tweet id": "1478454110894669827",
+            "content": "interesting",
+            "time": "22-01-04 19:51",
+            "timestamp": 1641297103
+        },
+        {
+            "comment id": 2,
+            "parent": 0,
+            "children": [
+                3
+            ],
+            "user id": "Jimmad13",
+            "tweet id": "1532686572336074752",
+            "content": "<@user> #thread",
+            "time": "22-06-03 11:32",
+            "timestamp": 1654227129
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "SaveToNotion",
+            "tweet id": "1532686716384968705",
+            "content": "this thread is saved to your notion database . by the way , you can add tags to the saved threads by writing them as hashtags in your mention .",
+            "time": "22-06-03 11:32",
+            "timestamp": 1654227163
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1478452495269736448",
+            "content": "discover what 's working in the lead-gen space right now from a $ 40k / month lead gen agency owner",
+            "time": "22-01-04 19:45",
+            "timestamp": 1641296717
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "DogeBrogan",
+            "tweet id": "1478442189961121793",
+            "content": "no first line ser ?",
+            "time": "22-01-04 19:04",
+            "timestamp": 1641294260
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1478442721522110467",
+            "content": "no ser",
+            "time": "22-01-04 19:06",
+            "timestamp": 1641294387
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "NovusBasileus",
+            "tweet id": "1478443892873695233",
+            "content": "sean , could you give your take on personalized first lines ? you do n't seem to include them , yet twitter believes they are absolutely crucial . thoughts ?",
+            "time": "22-01-04 19:11",
+            "timestamp": 1641294666
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9,
+                11
+            ],
+            "user id": "sean0to10k",
+            "tweet id": "1478458019105198082",
+            "content": "they 're not crucial but can help dependant upon the prospect ( small biz owner is a good one that first lines work well on ) if you test using first lines vs not you 'll see there 's very little difference to justify cost or work",
+            "time": "22-01-04 20:07",
+            "timestamp": 1641298034
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "the__Mentro",
+            "tweet id": "1485362109936717825",
+            "content": "what about e-com ?",
+            "time": "22-01-23 21:21",
+            "timestamp": 1642944098
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1485362296016842752",
+            "content": "same applies . test it",
+            "time": "22-01-23 21:22",
+            "timestamp": 1642944142
+        },
+        {
+            "comment id": 11,
+            "parent": 8,
+            "children": [],
+            "user id": "NovusBasileus",
+            "tweet id": "1478459304311091202",
+            "content": "super interesting - thanks i will be doing my own tests for with them and without first lines .",
+            "time": "22-01-04 20:12",
+            "timestamp": 1641298341
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "AvgDigital",
+            "tweet id": "1478453880816033794",
+            "content": "loving the simplicity and power of this email . just getting stuck into cold emailing now - will be using this . thanks , sean",
+            "time": "22-01-04 19:50",
+            "timestamp": 1641297048
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1478457638312628224",
+            "content": "good luck",
+            "time": "22-01-04 20:05",
+            "timestamp": 1641297944
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "cantfaizme",
+            "tweet id": "1478892870048399363",
+            "content": "literally just used this in my clients sequence and booked a meeting already . thanks bro",
+            "time": "22-01-06 00:55",
+            "timestamp": 1641401711
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1478989014023741443",
+            "content": "this is dope ! nice work",
+            "time": "22-01-06 07:17",
+            "timestamp": 1641424633
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "jackdcoulson",
+            "tweet id": "1479084342626471940",
+            "content": "using this thanks sean",
+            "time": "22-01-06 13:36",
+            "timestamp": 1641447361
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [
+                18
+            ],
+            "user id": "Kostanky",
+            "tweet id": "1479663930561552384",
+            "content": "dude . just booked a call with this . op .",
+            "time": "22-01-08 03:59",
+            "timestamp": 1641585546
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1479714525540761602",
+            "content": "nice ! it works",
+            "time": "22-01-08 07:20",
+            "timestamp": 1641597609
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "pravit1905",
+            "tweet id": "1479915535563321344",
+            "content": "will this work for ecom too ?",
+            "time": "22-01-08 20:38",
+            "timestamp": 1641645533
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [
+                21,
+                23
+            ],
+            "user id": "sean0to10k",
+            "tweet id": "1479922182763524098",
+            "content": "swap out the offer and it works for anything",
+            "time": "22-01-08 21:05",
+            "timestamp": 1641647118
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "user id": "D_Routliffe",
+            "tweet id": "1484728040768913409",
+            "content": "what niches does email marketing work for besides ecom and info products ?",
+            "time": "22-01-22 03:22",
+            "timestamp": 1642792924
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1484774041198206979",
+            "content": "any biz that use email marketing",
+            "time": "22-01-22 06:24",
+            "timestamp": 1642803891
+        },
+        {
+            "comment id": 23,
+            "parent": 20,
+            "children": [],
+            "user id": "pravit1905",
+            "tweet id": "1479928976801820672",
+            "content": "thanks sean , i will get back to you once i book the meeting",
+            "time": "22-01-08 21:32",
+            "timestamp": 1641648738
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "cscheidy",
+            "tweet id": "1489722103276310528",
+            "content": "fire ! ! i bookmarked this , and this just works ! !",
+            "time": "22-02-04 22:06",
+            "timestamp": 1643983601
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "GPcopywriting",
+            "tweet id": "1501833812262674438",
+            "content": "perfect , straight forward , clear , short , catchy ... great job <@user> and the p . s . is the end of story , brilliant .",
+            "time": "22-03-10 08:14",
+            "timestamp": 1646871258
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [
+                27
+            ],
+            "user id": "iamshubh0396",
+            "tweet id": "1521210665624428545",
+            "content": "hey i have seen your past email script also . you 're brilliant in these . can you make list of all email scripts in your mind that works . you seems expert in making short and target emails just superb .",
+            "time": "22-05-02 19:31",
+            "timestamp": 1651491060
+        },
+        {
+            "comment id": 27,
+            "parent": 26,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1521219688889348096",
+            "content": "appreciate it ! good idea",
+            "time": "22-05-02 20:06",
+            "timestamp": 1651493211
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [
+                29
+            ],
+            "user id": "theaffanshaikh",
+            "tweet id": "1588829736549355520",
+            "content": "what are thoughts on one-line question emails ?",
+            "time": "22-11-05 09:45",
+            "timestamp": 1667612702
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1588849857783296001",
+            "content": "fan",
+            "time": "22-11-05 11:05",
+            "timestamp": 1667617500
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "riteeshatri",
+            "tweet id": "1478442937583210499",
+            "content": "gonna try it right now !",
+            "time": "22-01-04 19:07",
+            "timestamp": 1641294439
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "josephwrite10",
+            "tweet id": "1478460683729649665",
+            "content": "love it",
+            "time": "22-01-04 20:17",
+            "timestamp": 1641298670
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [],
+            "user id": "biancamonro",
+            "tweet id": "1478463439530045442",
+            "content": "love this , sean !",
+            "time": "22-01-04 20:28",
+            "timestamp": 1641299327
+        },
+        {
+            "comment id": 33,
+            "parent": -1,
+            "children": [],
+            "user id": "socialmmidas",
+            "tweet id": "1478480184789639169",
+            "content": "nice bro ! testing this script for sure .",
+            "time": "22-01-04 21:35",
+            "timestamp": 1641303319
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "RealWyattPowers",
+            "tweet id": "1485589468878880771",
+            "content": "unironically , these shorter emails work 10x better than long form copy does to convert .",
+            "time": "22-01-24 12:25",
+            "timestamp": 1642998304
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [],
+            "user id": "MartinMessier",
+            "tweet id": "1500837918507773956",
+            "content": "sean , do you find it 's better to send emails without a standard company signature or it does n't matter ?",
+            "time": "22-03-07 14:16",
+            "timestamp": 1646633818
+        },
+        {
+            "comment id": 36,
+            "parent": -1,
+            "children": [],
+            "user id": "Folagbade91",
+            "tweet id": "1501564842460815363",
+            "content": "love this",
+            "time": "22-03-09 14:25",
+            "timestamp": 1646807130
+        },
+        {
+            "comment id": 37,
+            "parent": -1,
+            "children": [],
+            "user id": "HannahWalkleyy",
+            "tweet id": "1522022531162595329",
+            "content": "valuable !",
+            "time": "22-05-05 01:17",
+            "timestamp": 1651684623
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [],
+            "user id": "FungMedia",
+            "tweet id": "1523661385762471939",
+            "content": "split-testing this and will let you know how it goes ...",
+            "time": "22-05-09 13:49",
+            "timestamp": 1652075357
+        },
+        {
+            "comment id": 39,
+            "parent": -1,
+            "children": [],
+            "user id": "RevenueIncome",
+            "tweet id": "1524665401614995457",
+            "content": "seems like its something that would work in dms , after restructuring it a bit",
+            "time": "22-05-12 08:18",
+            "timestamp": 1652314733
+        },
+        {
+            "comment id": 40,
+            "parent": -1,
+            "children": [],
+            "user id": "dotcommarco",
+            "tweet id": "1575784743828074498",
+            "content": "and if you can back down that offer with a guarantee ... that 's a win",
+            "time": "22-09-30 09:48",
+            "timestamp": 1664502534
+        },
+        {
+            "comment id": 41,
+            "parent": -1,
+            "children": [],
+            "user id": "DevanshTomar_",
+            "tweet id": "1588607074971553792",
+            "content": "<@user>",
+            "time": "22-11-04 19:00",
+            "timestamp": 1667559616
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                43
+            ],
+            "user id": "cristof_s",
+            "tweet id": "1480112509625450497",
+            "content": "<@user> #tweet",
+            "time": "22-01-09 09:41",
+            "timestamp": 1641692496
+        },
+        {
+            "comment id": 43,
+            "parent": 42,
+            "children": [],
+            "user id": "SaveToNotion",
+            "tweet id": "1480112848009408515",
+            "content": "saved to your notion workspace .",
+            "time": "22-01-09 09:42",
+            "timestamp": 1641692576
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [
+                45
+            ],
+            "user id": "Jimmad13",
+            "tweet id": "1532171619510239233",
+            "content": "<@user> #thread",
+            "time": "22-06-02 01:25",
+            "timestamp": 1654104355
+        },
+        {
+            "comment id": 45,
+            "parent": 44,
+            "children": [],
+            "user id": "SaveToNotion",
+            "tweet id": "1532171680507998208",
+            "content": "this thread is probably too old , you have to mention me in a reply to the last tweet of it , not the first one .",
+            "time": "22-06-02 01:26",
+            "timestamp": 1654104369
+        },
+        {
+            "comment id": 46,
+            "parent": -1,
+            "children": [
+                47
+            ],
+            "user id": "RickMedalle",
+            "tweet id": "1557023208036896769",
+            "content": "<@user> #tweet",
+            "time": "22-08-09 15:17",
+            "timestamp": 1660029435
+        },
+        {
+            "comment id": 47,
+            "parent": 46,
+            "children": [],
+            "user id": "SaveToNotion",
+            "tweet id": "1557028883400167426",
+            "content": "saved this tweet to your notion database . tags : [ ]",
+            "time": "22-08-09 15:39",
+            "timestamp": 1660030788
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [
+                49
+            ],
+            "user id": "opussolutions1",
+            "tweet id": "1524885859937443863",
+            "content": "<@user> #tweet",
+            "time": "22-05-12 22:54",
+            "timestamp": 1652367294
+        },
+        {
+            "comment id": 49,
+            "parent": 48,
+            "children": [],
+            "user id": "SaveToNotion",
+            "tweet id": "1524885939591471151",
+            "content": "saved to your notion workspace . btw , you can add tags to the saved tweets and threads by typing them in the mention as hashtags , e . g : #web3 #self_development ...",
+            "time": "22-05-12 22:55",
+            "timestamp": 1652367313
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00014291261322796345,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00014291261322796345,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.749008227136528e-08,
+            0.09974396228790283,
+            0.061645157635211945,
+            0.09974396228790283,
+            0.061645157635211945,
+            1.749008227136528e-08,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.24652579426765442,
+            0.45553073287010193,
+            0.3486674726009369,
+            0.18870793282985687,
+            0.24652579426765442,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            1.749008227136528e-08,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.24652579426765442,
+            0.45553073287010193,
+            0.3486674726009369,
+            0.18870793282985687,
+            0.24652579426765442,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            1.749008227136528e-08,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195,
+            0.001146230031736195
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0012244897661730647,
+            1.0000000168623835e-16,
+            0.0008163265301845968,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0016326530603691936,
+            0.0024489795323461294,
+            0.0012244897661730647,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0016326530603691936,
+            0.0024489795323461294,
+            0.0012244897661730647,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16,
+            0.0004081632650922984,
+            1.0000000168623835e-16
+        ]
+    }
+}

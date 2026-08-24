@@ -1,0 +1,257 @@
+{
+    "source": {
+        "content": "i 'm going to bring candles back . they 're cool as fuck . not enough people have good smells in their life . ( think about it ) . can create impeccably elite ambiance .",
+        "time": "22-08-13 06:26",
+        "timestamp": 1660343192,
+        "tweet url": "https://twitter.com/DejaRu22/status/1558339200981774337",
+        "user id": "DejaRu22",
+        "tweet id": "1558339200981774337",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "KarlVincere",
+            "tweet id": "1558416706829275136",
+            "content": "is there a \" seed oil \" version of candles that one should avoid",
+            "time": "22-08-13 11:34",
+            "timestamp": 1660361671
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "DejaRu22",
+            "tweet id": "1558418959514292225",
+            "content": "soy candles",
+            "time": "22-08-13 11:43",
+            "timestamp": 1660362208
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "Private55441631",
+            "tweet id": "1558339854076989441",
+            "content": "stew-nod",
+            "time": "22-08-13 06:29",
+            "timestamp": 1660343348
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "oooctober_",
+            "tweet id": "1558340210219290625",
+            "content": "you need to be clipping wicks",
+            "time": "22-08-13 06:30",
+            "timestamp": 1660343433
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "HeyJimBurgess",
+            "tweet id": "1558341546176659457",
+            "content": "medieval chandelier would be a flex",
+            "time": "22-08-13 06:35",
+            "timestamp": 1660343751
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [
+                6
+            ],
+            "user id": "TranscendCEO",
+            "tweet id": "1558347635156975616",
+            "content": "badass",
+            "time": "22-08-13 07:00",
+            "timestamp": 1660345203
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "HeyJimBurgess",
+            "tweet id": "1558371222479577088",
+            "content": "one of those in a stone hall over a long wooden table for a feast would be",
+            "time": "22-08-13 08:33",
+            "timestamp": 1660350827
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "shell_0010110",
+            "tweet id": "1558341851148521472",
+            "content": "le labo santal 26 for nighttime and jo malone wood sage and sea salt for daytime thank me later",
+            "time": "22-08-13 06:37",
+            "timestamp": 1660343824
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "IndraHimself",
+            "tweet id": "1558344553622638592",
+            "content": "thank you beloved for another beautiful ecom business idea , \" how can we not win \"",
+            "time": "22-08-13 06:47",
+            "timestamp": 1660344468
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "earthbasedsol",
+            "tweet id": "1558350492157087744",
+            "content": "just burned one so relaxing so heavenly",
+            "time": "22-08-13 07:11",
+            "timestamp": 1660345884
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "YungBenedictC",
+            "tweet id": "1558383669781331968",
+            "content": "fair point didnt do in a while godbless",
+            "time": "22-08-13 09:23",
+            "timestamp": 1660353794
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "Nashrimpy",
+            "tweet id": "1558488574919598081",
+            "content": "parks lemongrass and mint best candle",
+            "time": "22-08-13 16:20",
+            "timestamp": 1660378806
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "IPhantomLordI",
+            "tweet id": "1558512072224256001",
+            "content": "beeswax",
+            "time": "22-08-13 17:53",
+            "timestamp": 1660384408
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "D_sonof_thesea",
+            "tweet id": "1558524632575213569",
+            "content": "based and aroma pilled people seriously underrate proper scent and lighting in their homes . makes a huge difference .",
+            "time": "22-08-13 18:43",
+            "timestamp": 1660387403
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "DestructorJan",
+            "tweet id": "1558533065307312130",
+            "content": "careful with the microplastics though",
+            "time": "22-08-13 19:16",
+            "timestamp": 1660389413
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "CharlieTrader69",
+            "tweet id": "1593195395181514752",
+            "content": "these artificial smells are ve are very toxic to your lungs",
+            "time": "22-11-17 10:52",
+            "timestamp": 1668653557
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.0606663636281155e-06,
+            0.03475591540336609,
+            0.03475591540336609,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            0.4993956387042999,
+            0.7062520980834961,
+            0.4993956387042999,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.008333333767950535,
+            0.008333333767950535,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

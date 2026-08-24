@@ -1,0 +1,393 @@
+{
+    "source": {
+        "content": "i 'm writing now , with a heavy and broken heart , asking myself is this the world that i once loved ? or is it just a bad dream , and soon i 'll wake up and all the madness i see will be only sad memories . only the dead have seen the end of war , peace be upon us all . #iranusa #nowar",
+        "time": "20-01-06 05:17",
+        "timestamp": 1578259020,
+        "tweet url": "https://twitter.com/NayvethVizcaya/status/1214053230893649921",
+        "user id": "NayvethVizcaya",
+        "tweet id": "1214053230893649921",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "joan_zelehoski",
+            "tweet id": "1214728654342758400",
+            "content": "beautiful",
+            "time": "20-01-08 02:00",
+            "timestamp": 1578420054
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "originalsurfmor",
+            "tweet id": "1217181689279123457",
+            "content": "peace",
+            "time": "20-01-14 20:28",
+            "timestamp": 1579004903
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "kittyhawk311",
+            "tweet id": "1219687586203144197",
+            "content": "god be with you my friend . look to him .",
+            "time": "20-01-21 18:25",
+            "timestamp": 1579602355
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "OjaiParanormal",
+            "tweet id": "1216520045771161600",
+            "content": "this is the world in regrowth like a phoenix the good shall inherit the earth . evil is flushing itself out but it puffs itself up to look like it is larger than what it is preying upon our fears . have faith as god has set in place a peacemaker , a maverick who protects our freedom",
+            "time": "20-01-13 00:39",
+            "timestamp": 1578847155
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "LadyWiseWorld",
+            "tweet id": "1214898094522949634",
+            "content": "may i urge you to connect with #coretruths & at a higher level understand that the light is winning . do not buy into a 3d perception of what is happening at this time . energetically this sad situation is happening as a part of a wonderful transition & shift of energies of 2020",
+            "time": "20-01-08 13:14",
+            "timestamp": 1578460452
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "jaghuara",
+            "tweet id": "1214906569009352705",
+            "content": "i am glad that some people eloquently channel their pain & heaviness unburdening their heart thru dynamic , healing meditation . 1 can not embrace the #light unless the #darkness within has been fully embraced.transcendence over all dualities .",
+            "time": "20-01-08 13:47",
+            "timestamp": 1578462472
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "szulc_jim",
+            "tweet id": "1214890369818726400",
+            "content": "it 's the only world that we 've got . i feel the exact same way , and from here on out , the tv is off and i 'm just focusing on my inner circle of family & friends .",
+            "time": "20-01-08 12:43",
+            "timestamp": 1578458610
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "amans25",
+            "tweet id": "1537966393642999809",
+            "content": "nothing , i mean nothing in this world worth one man killing another .",
+            "time": "22-06-18 01:12",
+            "timestamp": 1655485936
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "higuera2866",
+            "tweet id": "1214688024476430337",
+            "content": "perdón por mi atrevimiento ... no sé si será bueno o malo , pero cada vez que te veo mis silencios tartamudean .",
+            "time": "20-01-07 23:19",
+            "timestamp": 1578410367
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "gillradcliffe",
+            "tweet id": "1224442832816967681",
+            "content": "your prayer was answered . there is no war .",
+            "time": "20-02-03 21:21",
+            "timestamp": 1580736095
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "Lisa_7725",
+            "tweet id": "1556744069312823296",
+            "content": "these words are so profound it 's how we all feel sometimes ... it 's a search and a question , but this restlessness is part of us here on earth ... not everything will have answers . peace in your heart dear friend .. big hug .",
+            "time": "22-08-08 20:48",
+            "timestamp": 1659962883
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "GoMtnBiking",
+            "tweet id": "1214652374645706753",
+            "content": "the illusion is thinking people will ever change . humans are human , capable of doing terrible things to others , always have been and always will . it is important to protect the innocent , and protect the rights of all to live peaceably , and not give in to the mob .",
+            "time": "20-01-07 20:57",
+            "timestamp": 1578401867
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.7071049213409424,
+            0.7071049213409424,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.007575757801532745,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}{
+    "source": {
+        "content": "i 'm writing now , with a heavy and broken heart , asking myself is this the world that i once loved ? or is it just a bad dream , and soon i 'll wake up and all the madness i see will be only sad memories . only the dead have seen the end of war , peace be upon us all . #iranusa #nowar",
+        "time": "20-01-06 05:17",
+        "timestamp": 1578259020,
+        "tweet url": "https://twitter.com/NayvethVizcaya/status/1214053230893649921",
+        "user id": "NayvethVizcaya",
+        "tweet id": "1214053230893649921",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "joan_zelehoski",
+            "tweet id": "1214728654342758400",
+            "content": "beautiful",
+            "time": "20-01-08 02:00",
+            "timestamp": 1578420054
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "originalsurfmor",
+            "tweet id": "1217181689279123457",
+            "content": "peace",
+            "time": "20-01-14 20:28",
+            "timestamp": 1579004903
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "kittyhawk311",
+            "tweet id": "1219687586203144197",
+            "content": "god be with you my friend . look to him .",
+            "time": "20-01-21 18:25",
+            "timestamp": 1579602355
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "OjaiParanormal",
+            "tweet id": "1216520045771161600",
+            "content": "this is the world in regrowth like a phoenix the good shall inherit the earth . evil is flushing itself out but it puffs itself up to look like it is larger than what it is preying upon our fears . have faith as god has set in place a peacemaker , a maverick who protects our freedom",
+            "time": "20-01-13 00:39",
+            "timestamp": 1578847155
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "LadyWiseWorld",
+            "tweet id": "1214898094522949634",
+            "content": "may i urge you to connect with #coretruths & at a higher level understand that the light is winning . do not buy into a 3d perception of what is happening at this time . energetically this sad situation is happening as a part of a wonderful transition & shift of energies of 2020",
+            "time": "20-01-08 13:14",
+            "timestamp": 1578460452
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "jaghuara",
+            "tweet id": "1214906569009352705",
+            "content": "i am glad that some people eloquently channel their pain & heaviness unburdening their heart thru dynamic , healing meditation . 1 can not embrace the #light unless the #darkness within has been fully embraced.transcendence over all dualities .",
+            "time": "20-01-08 13:47",
+            "timestamp": 1578462472
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "szulc_jim",
+            "tweet id": "1214890369818726400",
+            "content": "it 's the only world that we 've got . i feel the exact same way , and from here on out , the tv is off and i 'm just focusing on my inner circle of family & friends .",
+            "time": "20-01-08 12:43",
+            "timestamp": 1578458610
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "amans25",
+            "tweet id": "1537966393642999809",
+            "content": "nothing , i mean nothing in this world worth one man killing another .",
+            "time": "22-06-18 01:12",
+            "timestamp": 1655485936
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "higuera2866",
+            "tweet id": "1214688024476430337",
+            "content": "perdón por mi atrevimiento ... no sé si será bueno o malo , pero cada vez que te veo mis silencios tartamudean .",
+            "time": "20-01-07 23:19",
+            "timestamp": 1578410367
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "gillradcliffe",
+            "tweet id": "1224442832816967681",
+            "content": "your prayer was answered . there is no war .",
+            "time": "20-02-03 21:21",
+            "timestamp": 1580736095
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "Lisa_7725",
+            "tweet id": "1556744069312823296",
+            "content": "these words are so profound it 's how we all feel sometimes ... it 's a search and a question , but this restlessness is part of us here on earth ... not everything will have answers . peace in your heart dear friend .. big hug .",
+            "time": "22-08-08 20:48",
+            "timestamp": 1659962883
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "GoMtnBiking",
+            "tweet id": "1214652374645706753",
+            "content": "the illusion is thinking people will ever change . humans are human , capable of doing terrible things to others , always have been and always will . it is important to protect the innocent , and protect the rights of all to live peaceably , and not give in to the mob .",
+            "time": "20-01-07 20:57",
+            "timestamp": 1578401867
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.7071049213409424,
+            0.7071049213409424,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014,
+            0.000690532149747014
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.007575757801532745,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "source": {
+        "content": "my people of color damn , we 're beautiful people !",
+        "time": "21-10-28 20:01",
+        "timestamp": 1635422507,
+        "tweet url": "https://twitter.com/AMPMTALK/status/1453814272224636931",
+        "user id": "AMPMTALK",
+        "tweet id": "1453814272224636931",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "PaulDereume",
+            "tweet id": "1453820213539979264",
+            "content": "gorgeous ! let 's clean up",
+            "time": "21-10-28 20:25",
+            "timestamp": 1635423924
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "Wtfagain5",
+            "tweet id": "1453817095196602370",
+            "content": "indeed we are ! !",
+            "time": "21-10-28 20:13",
+            "timestamp": 1635423180
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "LqLana",
+            "tweet id": "1453822820753055744",
+            "content": "yeah we are .",
+            "time": "21-10-28 20:35",
+            "timestamp": 1635424545
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "sergeivote",
+            "tweet id": "1453829208862560256",
+            "content": "yes you are . , ms lana quest",
+            "time": "21-10-28 21:01",
+            "timestamp": 1635426068
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "BlueGME",
+            "tweet id": "1453832350920499200",
+            "content": "this is incredible !",
+            "time": "21-10-28 21:13",
+            "timestamp": 1635426818
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "AMPMTALK",
+            "tweet id": "1453833082314715141",
+            "content": "thank you",
+            "time": "21-10-28 21:16",
+            "timestamp": 1635426992
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "liz40497",
+            "tweet id": "1473895453372649476",
+            "content": "beautiful picture . thank you for sharing .",
+            "time": "21-12-23 05:57",
+            "timestamp": 1640210234
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "johndav60304165",
+            "tweet id": "1481090808233148416",
+            "content": "looks like one of my paintings",
+            "time": "22-01-12 02:29",
+            "timestamp": 1641925740
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "AMPMTALK",
+            "tweet id": "1481113856953008130",
+            "content": "this ! and your avi is beautiful",
+            "time": "22-01-12 04:00",
+            "timestamp": 1641931235
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "ALOVEFarmer",
+            "tweet id": "1481117099237916672",
+            "content": "it is ! ! truly magical !",
+            "time": "22-01-12 04:13",
+            "timestamp": 1641932008
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "Atticus733",
+            "tweet id": "1532036945211162625",
+            "content": "love this post drea",
+            "time": "22-06-01 16:30",
+            "timestamp": 1654072246
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.294391172024234e-08,
+            1.294391172024234e-08,
+            1.294391172024234e-08,
+            0.013572675175964832,
+            0.013572675175964832,
+            0.013572675175964832,
+            0.013572675175964832,
+            1.294391172024234e-08,
+            0.49981576204299927,
+            0.7068462371826172,
+            0.49981576204299927,
+            1.294391172024234e-08
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00909090880304575,
+            1.0000000168623835e-16,
+            0.00909090880304575,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0181818176060915,
+            0.0181818176060915,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

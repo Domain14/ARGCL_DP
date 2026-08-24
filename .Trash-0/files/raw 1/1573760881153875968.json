@@ -1,0 +1,185 @@
+{
+    "source": {
+        "content": "lighting candles instead of using fluorescent cancerous lightbulbs is lowkey based af makes everything 100x more romantic you feel like you 're in a movie soft on the eyes cozy .",
+        "time": "22-09-24 19:46",
+        "timestamp": 1664020007,
+        "tweet url": "https://twitter.com/DejaRu22/status/1573760881153875968",
+        "user id": "DejaRu22",
+        "tweet id": "1573760881153875968",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "ArtsyDaizies",
+            "tweet id": "1573761893629657088",
+            "content": "barry lyndon",
+            "time": "22-09-24 19:50",
+            "timestamp": 1664020249
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "Anarchrist5",
+            "tweet id": "1573761290081865728",
+            "content": "extra points for religious candles",
+            "time": "22-09-24 19:48",
+            "timestamp": 1664020105
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "yungtoxii",
+            "tweet id": "1573762157921157121",
+            "content": "cinnamon scent the things on the right are 2 candles as well that i bought today . based af .",
+            "time": "22-09-24 19:51",
+            "timestamp": 1664020312
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "DanieIValverd3",
+            "tweet id": "1573763732265656320",
+            "content": "or one of these bad boys",
+            "time": "22-09-24 19:58",
+            "timestamp": 1664020687
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "DaurenNope",
+            "tweet id": "1573774090707550209",
+            "content": "will work perfectly for europe commercials right now . you forgot one element , candles are also bring the warm :)",
+            "time": "22-09-24 20:39",
+            "timestamp": 1664023157
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "ascension867",
+            "tweet id": "1573774874786631680",
+            "content": "candles are super based but if bulbs are a must highly recommend to go with ‘ warm ' style leds to mimic the color temperature",
+            "time": "22-09-24 20:42",
+            "timestamp": 1664023344
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "HODLshrooms",
+            "tweet id": "1573780755796398082",
+            "content": "no soy",
+            "time": "22-09-24 21:05",
+            "timestamp": 1664024746
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "BillUpInnawoods",
+            "tweet id": "1573788534137290752",
+            "content": "like sunlight , light should make heat .",
+            "time": "22-09-24 21:36",
+            "timestamp": 1664026600
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "bowtiedlamb",
+            "tweet id": "1573791406656835584",
+            "content": "funny you say that . i 'm big on using candles . today i added an oil lamp for every room . having a couple in the living room with the wood stove roaring and theirs nothing better .",
+            "time": "22-09-24 21:48",
+            "timestamp": 1664027285
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "BowTiedBombay",
+            "tweet id": "1573797948126806016",
+            "content": "bruh i just bought a couple kerosene lamps and an olive oil lamp too . you can make oil lamps out of a mason jar , a wire and a rag . it 's so cool ! my husband thinks i 'm hilarious",
+            "time": "22-09-24 22:14",
+            "timestamp": 1664028845
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "bowtiedlamb",
+            "tweet id": "1573803531655602181",
+            "content": "he 'll love the ambience . just make it romantic ;)",
+            "time": "22-09-24 22:36",
+            "timestamp": 1664030176
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.000507613702211529,
+            0.4999994933605194,
+            0.7071058750152588,
+            0.4999994933605194
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0181818176060915,
+            0.0181818176060915,
+            1.0000000168623835e-16
+        ]
+    }
+}

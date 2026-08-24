@@ -1,0 +1,259 @@
+{
+    "source": {
+        "content": "to those who cross my life ... this page .. and offer a portion of their time ... because the present is so imperfect .. only makes sense to others ... i wish you only good times ... yes ... not just for today .. but every single day ... and with courage ... to move on ... #life #courage",
+        "time": "22-03-02 19:28",
+        "timestamp": 1646220521,
+        "tweet url": "https://twitter.com/ellinidata/status/1499104424471535619",
+        "user id": "ellinidata",
+        "tweet id": "1499104424471535619",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "rebecca_boubel",
+            "tweet id": "1564699642746609664",
+            "content": "love your pinned tweet <@user>",
+            "time": "22-08-30 19:40",
+            "timestamp": 1661859640
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "ellinidata",
+            "tweet id": "1564699797696782341",
+            "content": "thanks , rebecca !",
+            "time": "22-08-30 19:41",
+            "timestamp": 1661859677
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "rebecca_boubel",
+            "tweet id": "1564699907616808964",
+            "content": "absolutely",
+            "time": "22-08-30 19:41",
+            "timestamp": 1661859703
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "VintageRockCafe",
+            "tweet id": "1616309330797641728",
+            "content": "r b",
+            "time": "23-01-20 05:39",
+            "timestamp": 1674164348
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "ellinidata",
+            "tweet id": "1616309715855622144",
+            "content": "beautiful ! good night , rob !",
+            "time": "23-01-20 05:40",
+            "timestamp": 1674164440
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "auberon135",
+            "tweet id": "1520859429499019264",
+            "content": "happy birthday",
+            "time": "22-05-01 20:15",
+            "timestamp": 1651407318
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "Cantdecide2022",
+            "tweet id": "1559678285226835970",
+            "content": "oh wow",
+            "time": "22-08-16 23:07",
+            "timestamp": 1660662455
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "FinderGrailII",
+            "tweet id": "1612990038404468736",
+            "content": "i rmm you . eidetics and elephants . also a polyglot philomath . galahad of yale rebuilding , frb , pls .",
+            "time": "23-01-11 01:49",
+            "timestamp": 1673372967
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "HeyCanceled",
+            "tweet id": "1587201049894461440",
+            "content": "that 's beautiful !",
+            "time": "22-10-31 21:53",
+            "timestamp": 1667224393
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "IrinAngles",
+            "tweet id": "1615721524987568128",
+            "content": "wow so beautiful",
+            "time": "23-01-18 14:43",
+            "timestamp": 1674024204
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "JCassid69022617",
+            "tweet id": "1560129075364016128",
+            "content": "beautiful .",
+            "time": "22-08-18 04:58",
+            "timestamp": 1660769932
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "Llouieneon",
+            "tweet id": "1564826240837730305",
+            "content": "followed",
+            "time": "22-08-31 04:03",
+            "timestamp": 1661889823
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "P00PMASTER",
+            "tweet id": "1542459740290224128",
+            "content": "my dream .",
+            "time": "22-06-30 10:47",
+            "timestamp": 1656557234
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "MannyRVelez64",
+            "tweet id": "1542460105660272645",
+            "content": "good morning my friend .",
+            "time": "22-06-30 10:48",
+            "timestamp": 1656557321
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "Here4LeftyNews",
+            "tweet id": "1534172457778700288",
+            "content": "i 'm following because we 're on <@user> #fbr list . we 're stronger together .",
+            "time": "22-06-07 13:56",
+            "timestamp": 1654581392
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "knucklehead_joe",
+            "tweet id": "1619392763187056641",
+            "content": ", thank you !",
+            "time": "23-01-28 17:51",
+            "timestamp": 1674899496
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            7.541144242395603e-08,
+            0.4996090531349182,
+            0.7065538763999939,
+            0.4996090531349182,
+            0.01976865716278553,
+            0.01976865716278553,
+            7.541144242395603e-08,
+            7.541144242395603e-08,
+            7.541144242395603e-08,
+            7.541144242395603e-08,
+            7.541144242395603e-08,
+            7.541144242395603e-08,
+            7.541144242395603e-08,
+            0.01976865716278553,
+            0.01976865716278553,
+            7.541144242395603e-08,
+            7.541144242395603e-08
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.008333333767950535,
+            0.008333333767950535,
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,225 @@
+{
+    "source": {
+        "content": "yesterday i wanted to speak of it , that #sense above the others to me important because all that i know derives from what it teaches me . robert creeley #poetry #photography",
+        "time": "18-01-23 14:06",
+        "timestamp": 1516687586,
+        "tweet url": "https://twitter.com/o_franco_aleman/status/955803915987095553",
+        "user id": "o_franco_aleman",
+        "tweet id": "955803915987095553",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "960419908533280768",
+            "content": "robert creeley <url> ... #literature #poetry #usa #poesie #photographie #nature #naturephotography #flowers",
+            "time": "18-02-05 07:48",
+            "timestamp": 1517788124
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1013490944442855425",
+            "content": "thank you ! <@user> <@user>",
+            "time": "18-07-01 18:34",
+            "timestamp": 1530441245
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1590769511300567040",
+            "content": "thank you very much for retweet ! <@user> <@user>",
+            "time": "22-11-10 18:13",
+            "timestamp": 1668075181
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "jacobhills173",
+            "tweet id": "1590776855258599425",
+            "content": "should have been light pinky flowers leaves with shinny yellow petales alongside <url> of light blue #flowers bt let 's say that 's wat #nature offered at a time of taking the shot by the wou",
+            "time": "22-11-10 18:42",
+            "timestamp": 1668076932
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1013487907242414081",
+            "content": "thank you ! <@user> <@user>",
+            "time": "18-07-01 18:22",
+            "timestamp": 1530440521
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "963175948785987584",
+            "content": "thank you very much for all retweets and likes ! happy new week ! #poetry #photography",
+            "time": "18-02-12 22:20",
+            "timestamp": 1518445215
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1013421831246753797",
+            "content": "thanks for rt ! happy sunday ! <@user>",
+            "time": "18-07-01 13:59",
+            "timestamp": 1530424767
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1013424600695427072",
+            "content": "gracias ! feliz domingo ! <@user>",
+            "time": "18-07-01 14:10",
+            "timestamp": 1530425427
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1038351682638422016",
+            "content": "thanks for rt ! <@user>",
+            "time": "18-09-08 09:01",
+            "timestamp": 1536368507
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1502336419267846150",
+            "content": "merci ! bon weekend ! <@user>",
+            "time": "22-03-11 17:31",
+            "timestamp": 1646991089
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1502337206714880001",
+            "content": "thank you ! have a great weekend ! <@user>",
+            "time": "22-03-11 17:34",
+            "timestamp": 1646991276
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1553066280521011200",
+            "content": "thank you ! have a wonderful weekend ! <@user>",
+            "time": "22-07-29 17:13",
+            "timestamp": 1659086030
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1590768873443586048",
+            "content": "gracias ! muy buenas tardes ! <@user>",
+            "time": "22-11-10 18:10",
+            "timestamp": 1668075029
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1603702569679093761",
+            "content": "thanks a lot for retweet ! <@user>",
+            "time": "22-12-16 10:44",
+            "timestamp": 1671158662
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.7071045637130737,
+            0.7071045637130737,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486,
+            0.0006905318005010486
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005494505632668734,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

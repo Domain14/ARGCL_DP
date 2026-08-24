@@ -1,0 +1,237 @@
+{
+    "source": {
+        "content": "i can't believe this was a year ago !",
+        "time": "21-07-16 19:31",
+        "timestamp": 1626435107,
+        "tweet url": "https://twitter.com/Babygravy9/status/1549377165384458240",
+        "user id": "Babygravy9",
+        "tweet id": "1549377165384458240",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "implosionenergy",
+            "tweet id": "1549380860981420035",
+            "content": "still not available in uk ?",
+            "time": "22-07-19 13:09",
+            "timestamp": 1658207358
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [],
+            "user id": "Easeman_EWO",
+            "tweet id": "1549737162773495810",
+            "content": "did alex jones dox you ?",
+            "time": "22-07-20 12:45",
+            "timestamp": 1658292306
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "realdanlyman",
+            "tweet id": "1549384704658382849",
+            "content": "it 's already been a year ? ?",
+            "time": "22-07-19 13:24",
+            "timestamp": 1658208274
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "femcelgirlfren",
+            "tweet id": "1574861643472945154",
+            "content": "wait is that u in the pic ?",
+            "time": "22-09-27 20:40",
+            "timestamp": 1664282449
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "real_lord_miles",
+            "tweet id": "1550238618228228097",
+            "content": "very few know this anicent knowledge",
+            "time": "22-07-21 21:57",
+            "timestamp": 1658411863
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "Jess3Livermore",
+            "tweet id": "1555637607811334144",
+            "content": "the man 's a legend !",
+            "time": "22-08-05 19:31",
+            "timestamp": 1659699082
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "LongSchlongSil8",
+            "tweet id": "1550239184174125056",
+            "content": "that you ?",
+            "time": "22-07-21 21:59",
+            "timestamp": 1658411998
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "TheGaleShow",
+            "tweet id": "1567912734154424320",
+            "content": "omg , that 's you ? dude you 're ugly as sin haha",
+            "time": "22-09-08 16:28",
+            "timestamp": 1662625700
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "flapgreen",
+            "tweet id": "1580185306678329345",
+            "content": "stud !",
+            "time": "22-10-12 13:15",
+            "timestamp": 1665551710
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "genzocide",
+            "tweet id": "1600511207311822848",
+            "content": "gotta love aj",
+            "time": "22-12-07 15:23",
+            "timestamp": 1670397782
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "promocodepepe",
+            "tweet id": "1554921514063069186",
+            "content": "i mean , does it get any better than this ?",
+            "time": "22-08-03 20:05",
+            "timestamp": 1659528352
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "NorthSox1312",
+            "tweet id": "1560442279671861254",
+            "content": "of course , shit attracts flies",
+            "time": "22-08-19 01:43",
+            "timestamp": 1660844605
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "LakeDaniel11",
+            "tweet id": "1580203759388413952",
+            "content": "tell me about antelope hill publishing house ? are you a nazi like them ?",
+            "time": "22-10-12 14:28",
+            "timestamp": 1665556109
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "ahms1995",
+            "tweet id": "1550235425767411712",
+            "content": "make it available in the uk you cuck",
+            "time": "22-07-21 21:45",
+            "timestamp": 1658411102
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "Reese51428446",
+            "tweet id": "1551755752435597312",
+            "content": "that man on the ( non photo ) right is a 10 w no but",
+            "time": "22-07-26 02:26",
+            "timestamp": 1658773576
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25,
+            0.25
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

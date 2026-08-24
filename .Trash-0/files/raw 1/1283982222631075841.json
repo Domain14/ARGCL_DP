@@ -1,0 +1,513 @@
+{
+    "source": {
+        "content": "i am the big guy in the back reacting to everything that is 2020 .",
+        "time": "20-07-17 04:29",
+        "timestamp": 1594931391,
+        "tweet url": "https://twitter.com/CaseyJ_516/status/1283982222631075841",
+        "user id": "CaseyJ_516",
+        "tweet id": "1283982222631075841",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "CaseyJ_516",
+            "tweet id": "1621984481971159040",
+            "content": "follow me if youre a mma fan !",
+            "time": "23-02-04 21:30",
+            "timestamp": 1675517410
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "GilbertDurinho",
+            "tweet id": "1284112327089029126",
+            "content": "that 's my guy <@user>",
+            "time": "20-07-17 13:06",
+            "timestamp": 1594962411
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "CaseyJ_516",
+            "tweet id": "1284112433309679616",
+            "content": "is he still a cut man ?",
+            "time": "20-07-17 13:07",
+            "timestamp": 1594962436
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "GilbertDurinho",
+            "tweet id": "1284112513483898892",
+            "content": "yes the best !",
+            "time": "20-07-17 13:07",
+            "timestamp": 1594962455
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "CutmanCasey",
+            "tweet id": "1283982813482545152",
+            "content": "we are all brad tate now .",
+            "time": "20-07-17 04:32",
+            "timestamp": 1594931532
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "CaseyJ_516",
+            "tweet id": "1283982915681095680",
+            "content": "amen to that . his reaction is priceless",
+            "time": "20-07-17 04:32",
+            "timestamp": 1594931557
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "RTR_austin",
+            "tweet id": "1284199171101274112",
+            "content": "<@user>",
+            "time": "20-07-17 18:51",
+            "timestamp": 1594983116
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "fabecooks",
+            "tweet id": "1284217150404689924",
+            "content": "classic ! !",
+            "time": "20-07-17 20:03",
+            "timestamp": 1594987402
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "jlsegarra",
+            "tweet id": "1284204413796716544",
+            "content": "i like how he looks around after she gets slapped . he flinches and then looks around like . , “ whaaa . is n't this some wild-ass shit ? ” . great facial expressions .",
+            "time": "20-07-17 19:12",
+            "timestamp": 1594984366
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "wtntndhdhn",
+            "tweet id": "1576167672823549952",
+            "content": "man i love this dude",
+            "time": "22-10-01 11:10",
+            "timestamp": 1664593831
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "siddTyagi13",
+            "tweet id": "1284208187193753600",
+            "content": "he was like",
+            "time": "20-07-17 19:27",
+            "timestamp": 1594985265
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "DanielJNimmo",
+            "tweet id": "1284202206820995072",
+            "content": "recon he farted and shit himself .",
+            "time": "20-07-17 19:04",
+            "timestamp": 1594983840
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "iswalshy",
+            "tweet id": "1284128699999236097",
+            "content": "<@user>",
+            "time": "20-07-17 14:11",
+            "timestamp": 1594966314
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "BongMuayThai",
+            "tweet id": "1284114231290400768",
+            "content": "brad tate ! the awesome medic who was mercilessly bullied by koscheck on the gsp tuf season ! glad to see him going viral lololol seemed like a great guy",
+            "time": "20-07-17 13:14",
+            "timestamp": 1594962865
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "Steevoo0",
+            "tweet id": "1284195129490898944",
+            "content": "<@user> prett sure i tagged you in this already but it 's great",
+            "time": "20-07-17 18:35",
+            "timestamp": 1594982152
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "Trunk_Muzik",
+            "tweet id": "1284221276303904770",
+            "content": "<@user>",
+            "time": "20-07-17 20:19",
+            "timestamp": 1594988386
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            0.4993956387042999,
+            0.7062520980834961,
+            0.4993956387042999,
+            0.03475591540336609,
+            0.03475591540336609,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.008333333767950535,
+            0.008333333767950535,
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}{
+    "source": {
+        "content": "i am the big guy in the back reacting to everything that is 2020 .",
+        "time": "20-07-17 04:29",
+        "timestamp": 1594931391,
+        "tweet url": "https://twitter.com/CaseyJ_516/status/1283982222631075841",
+        "user id": "CaseyJ_516",
+        "tweet id": "1283982222631075841",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "CaseyJ_516",
+            "tweet id": "1621984481971159040",
+            "content": "follow me if youre a mma fan !",
+            "time": "23-02-04 21:30",
+            "timestamp": 1675517410
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "GilbertDurinho",
+            "tweet id": "1284112327089029126",
+            "content": "that 's my guy <@user>",
+            "time": "20-07-17 13:06",
+            "timestamp": 1594962411
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "CaseyJ_516",
+            "tweet id": "1284112433309679616",
+            "content": "is he still a cut man ?",
+            "time": "20-07-17 13:07",
+            "timestamp": 1594962436
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "GilbertDurinho",
+            "tweet id": "1284112513483898892",
+            "content": "yes the best !",
+            "time": "20-07-17 13:07",
+            "timestamp": 1594962455
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "CutmanCasey",
+            "tweet id": "1283982813482545152",
+            "content": "we are all brad tate now .",
+            "time": "20-07-17 04:32",
+            "timestamp": 1594931532
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "CaseyJ_516",
+            "tweet id": "1283982915681095680",
+            "content": "amen to that . his reaction is priceless",
+            "time": "20-07-17 04:32",
+            "timestamp": 1594931557
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "RTR_austin",
+            "tweet id": "1284199171101274112",
+            "content": "<@user>",
+            "time": "20-07-17 18:51",
+            "timestamp": 1594983116
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "fabecooks",
+            "tweet id": "1284217150404689924",
+            "content": "classic ! !",
+            "time": "20-07-17 20:03",
+            "timestamp": 1594987402
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "jlsegarra",
+            "tweet id": "1284204413796716544",
+            "content": "i like how he looks around after she gets slapped . he flinches and then looks around like . , “ whaaa . is n't this some wild-ass shit ? ” . great facial expressions .",
+            "time": "20-07-17 19:12",
+            "timestamp": 1594984366
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "wtntndhdhn",
+            "tweet id": "1576167672823549952",
+            "content": "man i love this dude",
+            "time": "22-10-01 11:10",
+            "timestamp": 1664593831
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "siddTyagi13",
+            "tweet id": "1284208187193753600",
+            "content": "he was like",
+            "time": "20-07-17 19:27",
+            "timestamp": 1594985265
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [],
+            "user id": "DanielJNimmo",
+            "tweet id": "1284202206820995072",
+            "content": "recon he farted and shit himself .",
+            "time": "20-07-17 19:04",
+            "timestamp": 1594983840
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [],
+            "user id": "iswalshy",
+            "tweet id": "1284128699999236097",
+            "content": "<@user>",
+            "time": "20-07-17 14:11",
+            "timestamp": 1594966314
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "BongMuayThai",
+            "tweet id": "1284114231290400768",
+            "content": "brad tate ! the awesome medic who was mercilessly bullied by koscheck on the gsp tuf season ! glad to see him going viral lololol seemed like a great guy",
+            "time": "20-07-17 13:14",
+            "timestamp": 1594962865
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "Steevoo0",
+            "tweet id": "1284195129490898944",
+            "content": "<@user> prett sure i tagged you in this already but it 's great",
+            "time": "20-07-17 18:35",
+            "timestamp": 1594982152
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "Trunk_Muzik",
+            "tweet id": "1284221276303904770",
+            "content": "<@user>",
+            "time": "20-07-17 20:19",
+            "timestamp": 1594988386
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            0.4993956387042999,
+            0.7062520980834961,
+            0.4993956387042999,
+            0.03475591540336609,
+            0.03475591540336609,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06,
+            1.0606663636281155e-06
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.008333333767950535,
+            0.008333333767950535,
+            1.0000000168623835e-16,
+            0.004166666883975267,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

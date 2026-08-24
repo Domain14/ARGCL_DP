@@ -1,0 +1,324 @@
+{
+    "source": {
+        "content": "the $ 1billion email sequence that got samsung on the phone [ thread ]",
+        "time": "21-09-11 11:32",
+        "timestamp": 1631331134,
+        "tweet url": "https://twitter.com/sean0to10k/status/1436653810731073545",
+        "user id": "sean0to10k",
+        "tweet id": "1436653810731073545",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1,
+                4
+            ],
+            "user id": "sean0to10k",
+            "tweet id": "1436653818343743490",
+            "content": "1 . subject line \" { your company name } + { their company name } \"",
+            "time": "21-09-11 11:32",
+            "timestamp": 1631331136
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "sean0to10k",
+            "tweet id": "1436653825478234116",
+            "content": "2 . intro email \" hi { { contact . first_name } } , my name 's { name } from { company } . we help { target industry } { your value proposition } as an example : { provide a clear example of what you would do for them , specifically . mention their specific services or products }",
+            "time": "21-09-11 11:32",
+            "timestamp": 1631331138
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [
+                3
+            ],
+            "user id": "sean0to10k",
+            "tweet id": "1436653831778099209",
+            "content": "we recently { social proof of results you recently got } do you have 15 minutes this week or next for a call ? \"",
+            "time": "21-09-11 11:32",
+            "timestamp": 1631331139
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1436653833371914247",
+            "content": "3 . follow up # 1 \" hi { { contact . first_name } } , i 'm sure you 're busy and hope you do n't mind me bumping this up to the top of your inbox ! \"",
+            "time": "21-09-11 11:32",
+            "timestamp": 1631331140
+        },
+        {
+            "comment id": 4,
+            "parent": 0,
+            "children": [],
+            "user id": "zerocodes_",
+            "tweet id": "1553734371194343425",
+            "content": "<@user> #thread",
+            "time": "22-07-31 13:28",
+            "timestamp": 1659245315
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "Forque23",
+            "tweet id": "1436657376837443585",
+            "content": "what the fuck bro this shit fire",
+            "time": "21-09-11 11:46",
+            "timestamp": 1631331985
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "adriantheboz",
+            "tweet id": "1436661335694069764",
+            "content": "this is gold broooo",
+            "time": "21-09-11 12:02",
+            "timestamp": 1631332928
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1436662831143919616",
+            "content": "glad you like it g",
+            "time": "21-09-11 12:08",
+            "timestamp": 1631333285
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "michaelannobil",
+            "tweet id": "1436712594832863234",
+            "content": "this is a game changer , sean . a perfect thread for anyone looking to make $ $ $ through email marketing .",
+            "time": "21-09-11 15:25",
+            "timestamp": 1631345150
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "sean0to10k",
+            "tweet id": "1436720311953678340",
+            "content": "thanks my man",
+            "time": "21-09-11 15:56",
+            "timestamp": 1631346989
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "satyamanojv",
+            "tweet id": "1436655579422920705",
+            "content": "<@user> unroll",
+            "time": "21-09-11 11:39",
+            "timestamp": 1631331556
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "DevTantia",
+            "tweet id": "1436718516703399936",
+            "content": "<@user> unroll",
+            "time": "21-09-11 15:49",
+            "timestamp": 1631346561
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "threadreaderapp",
+            "tweet id": "1436718519006244866",
+            "content": "namaste , here is your unroll : the $ 1billion email sequence that got samsung on the phone [ thread ] ... <url> ... enjoy :)",
+            "time": "21-09-11 15:49",
+            "timestamp": 1631346562
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "dhruv_meshram",
+            "tweet id": "1437071448611323906",
+            "content": "this is it ...",
+            "time": "21-09-12 15:11",
+            "timestamp": 1631430707
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "denniskaraoke",
+            "tweet id": "1447553485982081028",
+            "content": "nice , thanks for sharing this . what 's the frequency between your follow up emails ?",
+            "time": "21-10-11 13:23",
+            "timestamp": 1633929819
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "Kaizen52472547",
+            "tweet id": "1501525330061893635",
+            "content": "do they close ?",
+            "time": "22-03-09 11:48",
+            "timestamp": 1646797710
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "ultimate__sigma",
+            "tweet id": "1483837433888542720",
+            "content": "<@user>",
+            "time": "22-01-19 16:23",
+            "timestamp": 1642580587
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "rattibha",
+            "tweet id": "1483837544630734848",
+            "content": "hi , your thread is ready to read . the $ 1billion email sequence that got samsung on the phone [ thread ] <url> ... have a good day !",
+            "time": "22-01-19 16:23",
+            "timestamp": 1642580613
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "user id": "opussolutions1",
+            "tweet id": "1569310888066154496",
+            "content": "<@user> #thread",
+            "time": "22-09-12 13:04",
+            "timestamp": 1662959046
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "SaveToNotion",
+            "tweet id": "1569311097886310400",
+            "content": "this thread is saved to your notion database . tags : [ ]",
+            "time": "22-09-12 13:04",
+            "timestamp": 1662959096
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            0.0001349067606497556,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.3159552736397018e-07,
+            0.4999535083770752,
+            0.5772965550422668,
+            0.4999535083770752,
+            0.2886483371257782,
+            0.2886483371257782,
+            1.3159552736397018e-07,
+            0.004312122240662575,
+            0.004312122240662575,
+            0.004312122240662575,
+            0.004312122240662575,
+            1.3159552736397018e-07,
+            0.004312122240662575,
+            0.004312122240662575,
+            1.3159552736397018e-07,
+            1.3159552736397018e-07,
+            1.3159552736397018e-07,
+            0.004312122240662575,
+            0.004312122240662575,
+            0.004312122240662575,
+            0.004312122240662575
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.010526316240429878,
+            0.010526316240429878,
+            0.007894736714661121,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16,
+            0.0026315790601074696,
+            1.0000000168623835e-16
+        ]
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "source": {
+        "content": "i aspire to be like ichiro in all things .",
+        "time": "18-05-09 17:28",
+        "timestamp": 1525858131,
+        "tweet url": "https://twitter.com/GemmaKaneko/status/994267970036813828",
+        "user id": "GemmaKaneko",
+        "tweet id": "994267970036813828",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "meanadone",
+            "tweet id": "994393326127337479",
+            "content": "gemma i am making a poster out of every single one of these u make",
+            "time": "18-05-10 01:46",
+            "timestamp": 1525888018
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "GemmaKaneko",
+            "tweet id": "994396131290468354",
+            "content": "that 's all i ever wanted honestly",
+            "time": "18-05-10 01:58",
+            "timestamp": 1525888687
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "JackedSkipper",
+            "tweet id": "994619120564912129",
+            "content": "cool article . made my day",
+            "time": "18-05-10 16:44",
+            "timestamp": 1525941852
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "CodyG1711",
+            "tweet id": "994640311300259841",
+            "content": "c",
+            "time": "18-05-10 18:08",
+            "timestamp": 1525946904
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "AsukeSIR",
+            "tweet id": "1002414163254054912",
+            "content": "me too . every time i make decisions , i feel ichiro push my back .",
+            "time": "18-06-01 04:58",
+            "timestamp": 1527800335
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "HumandChuck",
+            "tweet id": "994269621904707584",
+            "content": "is it weird i 'm impressed ichiro says , \" fuck \" ?",
+            "time": "18-05-09 17:35",
+            "timestamp": 1525858525
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "Annabal_Lecter",
+            "tweet id": "1199511122124181505",
+            "content": "omg , same .",
+            "time": "19-11-27 02:11",
+            "timestamp": 1574791912
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "depstein1983",
+            "tweet id": "994377358630060032",
+            "content": "what do we have to do to get this quote on his hof plaque ?",
+            "time": "18-05-10 00:43",
+            "timestamp": 1525884211
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "Hookem214",
+            "tweet id": "994396466310397953",
+            "content": "hes the for that",
+            "time": "18-05-10 01:59",
+            "timestamp": 1525888767
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [],
+            "user id": "thesageRR3",
+            "tweet id": "1199497842898997248",
+            "content": "cc : <@user>",
+            "time": "19-11-27 01:19",
+            "timestamp": 1574788745
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [],
+            "user id": "mdeluciabooks",
+            "tweet id": "1469703762537332748",
+            "content": "hi gemma , just wanted to let you know about my book , born for the game , a novel about ryan stone , the trailblazing , badass , 1st female in mlb . for readers 17 + <url> ( you 'll love this book )",
+            "time": "21-12-11 16:20",
+            "timestamp": 1639210857
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.0006905323243699968,
+            0.7071051001548767,
+            0.7071051001548767,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968,
+            0.0006905323243699968
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.00909090880304575,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

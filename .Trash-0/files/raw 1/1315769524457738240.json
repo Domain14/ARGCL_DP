@@ -1,0 +1,487 @@
+{
+    "source": {
+        "content": "я люблю тебя . даже если у меня нет настроения . даже если на дворе осень . даже если за окнами разные города . я люблю тебя ... н . спаркс",
+        "time": "20-10-12 21:41",
+        "timestamp": 1602510075,
+        "tweet url": "https://twitter.com/irina3529/status/1315769524457738240",
+        "user id": "irina3529",
+        "tweet id": "1315769524457738240",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "duoniayl",
+            "tweet id": "1495301058750558208",
+            "content": "这是什么语言",
+            "time": "22-02-20 07:35",
+            "timestamp": 1645313728
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "irina3529",
+            "tweet id": "1495301470580883456",
+            "content": "russian",
+            "time": "22-02-20 07:37",
+            "timestamp": 1645313826
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "duoniayl",
+            "tweet id": "1495302609313447936",
+            "content": "ok",
+            "time": "22-02-20 07:41",
+            "timestamp": 1645314098
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "GiVxx7N5NvqrXqD",
+            "tweet id": "1390023623113682950",
+            "content": "ирина , я помню и тебя ! ) рад видеть ! ты всегда отличалась тонким видением мира ! ) отличного настроения , уюта , тепла и побольше мгновений счастья ! )",
+            "time": "21-05-05 19:20",
+            "timestamp": 1620213631
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "irina3529",
+            "tweet id": "1390024440411574280",
+            "content": "спасибо ! чудесного вечера )",
+            "time": "21-05-05 19:23",
+            "timestamp": 1620213826
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "GiVxx7N5NvqrXqD",
+            "tweet id": "1390025589738905601",
+            "content": "и тебе , ирина , спасибо ! взаимно чудесного вечера )",
+            "time": "21-05-05 19:28",
+            "timestamp": 1620214100
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "palacios928",
+            "tweet id": "1318746977442713600",
+            "content": "hello friend , wrote to you and maybe you did not see it , un another i did in spanish i remenbered that i preferred in english and i deleted it have . a nice night",
+            "time": "20-10-21 02:52",
+            "timestamp": 1603219955
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "irina3529",
+            "tweet id": "1318935468470358018",
+            "content": "thank you juan , very beautiful ! have a happy day , friend",
+            "time": "20-10-21 15:21",
+            "timestamp": 1603264894
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "palacios928",
+            "tweet id": "1453451488173379584",
+            "content": "good afternoo dear friend irina . , have a beautiful and happy weknesday",
+            "time": "21-10-27 20:00",
+            "timestamp": 1635336013
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "irina3529",
+            "tweet id": "1453462322110939137",
+            "content": "thank you , juan . have a happy day",
+            "time": "21-10-27 20:43",
+            "timestamp": 1635338596
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "palacios928",
+            "tweet id": "1341923589977739264",
+            "content": "dear friend wished you a merry chistmas and a prósperos new year with tour family",
+            "time": "20-12-24 01:48",
+            "timestamp": 1608745690
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "irina3529",
+            "tweet id": "1341998342306463745",
+            "content": "thank you juan ! merry christmas and happy new year",
+            "time": "20-12-24 06:45",
+            "timestamp": 1608763512
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "palacios928",
+            "tweet id": "1344822173320544257",
+            "content": "happy new year 2021",
+            "time": "21-01-01 01:46",
+            "timestamp": 1609436766
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "irina3529",
+            "tweet id": "1345019587352539138",
+            "content": "happy new year",
+            "time": "21-01-01 14:50",
+            "timestamp": 1609483833
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "palacios928",
+            "tweet id": "1414063310505447428",
+            "content": "good night irina , have a beautiful nigh and sweet dreams",
+            "time": "21-07-11 03:25",
+            "timestamp": 1625945139
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "irina3529",
+            "tweet id": "1414284061166690314",
+            "content": "thank you juan , have a happy new week",
+            "time": "21-07-11 18:02",
+            "timestamp": 1625997770
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "palacios928",
+            "tweet id": "1416715275202961414",
+            "content": "good morning irina , have a beautiful sunday",
+            "time": "21-07-18 11:03",
+            "timestamp": 1626577417
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [
+                18
+            ],
+            "user id": "irina3529",
+            "tweet id": "1416848470489583619",
+            "content": "thank you , juan . have a happy new week",
+            "time": "21-07-18 19:52",
+            "timestamp": 1626609173
+        },
+        {
+            "comment id": 18,
+            "parent": 17,
+            "children": [
+                19
+            ],
+            "user id": "palacios928",
+            "tweet id": "1418189292413898757",
+            "content": "good morning irina , happy thursday friend",
+            "time": "21-07-22 12:40",
+            "timestamp": 1626928850
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "irina3529",
+            "tweet id": "1418276421760344070",
+            "content": "thank you juan , have a happy day",
+            "time": "21-07-22 18:27",
+            "timestamp": 1626949623
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "palacios928",
+            "tweet id": "1477256901855436802",
+            "content": "amiga querida tanto tiempo sin verte , dios quiera que siempre té encuentre bien y que este año té traiga en abundancia salud , paz , éxito y prosperidad en todo lo que emprendas",
+            "time": "22-01-01 12:34",
+            "timestamp": 1641011666
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [
+                22
+            ],
+            "user id": "irina3529",
+            "tweet id": "1477274736774324225",
+            "content": "thank you very much juan happy new year ! my best wishes to you",
+            "time": "22-01-01 13:45",
+            "timestamp": 1641015918
+        },
+        {
+            "comment id": 22,
+            "parent": 21,
+            "children": [],
+            "user id": "palacios928",
+            "tweet id": "1477393717996576772",
+            "content": "muchísima gracias querida amiga por qué sos inolvidable",
+            "time": "22-01-01 21:38",
+            "timestamp": 1641044285
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [
+                24
+            ],
+            "user id": "palacios928",
+            "tweet id": "1477677980012974087",
+            "content": "muchísima gracias querida amiga por seguir en mi página , té deseó un hermoso domingo junto a tú familia",
+            "time": "22-01-02 16:27",
+            "timestamp": 1641112059
+        },
+        {
+            "comment id": 24,
+            "parent": 23,
+            "children": [
+                25
+            ],
+            "user id": "irina3529",
+            "tweet id": "1477682305036603396",
+            "content": "thank you , juan . happy sunday and great new week",
+            "time": "22-01-02 16:44",
+            "timestamp": 1641113090
+        },
+        {
+            "comment id": 25,
+            "parent": 24,
+            "children": [
+                26
+            ],
+            "user id": "palacios928",
+            "tweet id": "1479672884662517760",
+            "content": "hola querida amiga irina 3 & 29 , no te contesté por tener grave a mi hermano y ayer a las 20,56 pm fsllecio",
+            "time": "22-01-08 04:34",
+            "timestamp": 1641587681
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "irina3529",
+            "tweet id": "1479722297871192064",
+            "content": "hello juan , i am so sorry about your brother",
+            "time": "22-01-08 07:51",
+            "timestamp": 1641599462
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [
+                28
+            ],
+            "user id": "palacios928",
+            "tweet id": "1502594721541197824",
+            "content": "buenos días querida irina 3529 , hace unos días me confundí y por escribirte a vos , lo hacía a otra irina ella creó que es cheff , al ver tú perfil me di cuenta de mi error , por qué no cuántos años que no te veo en mi página . tqm amiga qué tengas un hermoso fin de semana",
+            "time": "22-03-12 10:37",
+            "timestamp": 1647052673
+        },
+        {
+            "comment id": 28,
+            "parent": 27,
+            "children": [
+                29
+            ],
+            "user id": "irina3529",
+            "tweet id": "1502595296739614722",
+            "content": "thank you , juan . i wish you happy weekend",
+            "time": "22-03-12 10:40",
+            "timestamp": 1647052810
+        },
+        {
+            "comment id": 29,
+            "parent": 28,
+            "children": [],
+            "user id": "palacios928",
+            "tweet id": "1502599971996110851",
+            "content": "por nada querida amiga",
+            "time": "22-03-12 10:58",
+            "timestamp": 1647053924
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            2.2329963670231906e-13,
+            0.024022243916988373,
+            0.03397258371114731,
+            0.024022243916988373,
+            0.024022243916988373,
+            0.03397258371114731,
+            0.024022243916988373,
+            0.21363568305969238,
+            0.34566977620124817,
+            0.34566977620124817,
+            0.21363568305969238,
+            0.0001198830796056427,
+            0.0001198830796056427,
+            0.0001198830796056427,
+            0.0001198830796056427,
+            0.0001198830796056427,
+            0.0001198830796056427,
+            0.21363568305969238,
+            0.34566977620124817,
+            0.34566977620124817,
+            0.21363568305969238,
+            0.024022243916988373,
+            0.03397258371114731,
+            0.024022243916988373,
+            0.21363568305969238,
+            0.34566977620124817,
+            0.34566977620124817,
+            0.21363568305969238,
+            0.024022243916988373,
+            0.03397258371114731,
+            0.024022243916988373
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.002298850566148758,
+            0.002298850566148758,
+            1.0000000168623835e-16,
+            0.002298850566148758,
+            0.002298850566148758,
+            1.0000000168623835e-16,
+            0.003448275849223137,
+            0.004597701132297516,
+            0.003448275849223137,
+            1.0000000168623835e-16,
+            0.001149425283074379,
+            1.0000000168623835e-16,
+            0.001149425283074379,
+            1.0000000168623835e-16,
+            0.001149425283074379,
+            1.0000000168623835e-16,
+            0.003448275849223137,
+            0.004597701132297516,
+            0.003448275849223137,
+            1.0000000168623835e-16,
+            0.002298850566148758,
+            0.002298850566148758,
+            1.0000000168623835e-16,
+            0.003448275849223137,
+            0.004597701132297516,
+            0.003448275849223137,
+            1.0000000168623835e-16,
+            0.002298850566148758,
+            0.002298850566148758,
+            1.0000000168623835e-16
+        ]
+    }
+}

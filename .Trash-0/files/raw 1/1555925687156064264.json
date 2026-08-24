@@ -1,0 +1,373 @@
+{
+    "source": {
+        "content": "this is me today , tweet , follow back and repeat ! #bluecrew #strongertogether",
+        "time": "22-08-06 14:36",
+        "timestamp": 1659767766,
+        "tweet url": "https://twitter.com/RoRay1010/status/1555925687156064264",
+        "user id": "RoRay1010",
+        "tweet id": "1555925687156064264",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579086645181419520",
+            "content": "heyoooooooo ms o canada have a great morning",
+            "time": "22-10-09 12:29",
+            "timestamp": 1665289768
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [
+                2
+            ],
+            "user id": "RoRay1010",
+            "tweet id": "1579091775603425281",
+            "content": "helloooo tony",
+            "time": "22-10-09 12:49",
+            "timestamp": 1665290992
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579092614531645440",
+            "content": "hi",
+            "time": "22-10-09 12:53",
+            "timestamp": 1665291192
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579087065035440130",
+            "content": "ty and bless you",
+            "time": "22-10-09 12:31",
+            "timestamp": 1665289868
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [
+                5
+            ],
+            "user id": "RoRay1010",
+            "tweet id": "1579091637091053569",
+            "content": "thank you as well tony",
+            "time": "22-10-09 12:49",
+            "timestamp": 1665290959
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579091834495983617",
+            "content": "yw",
+            "time": "22-10-09 12:50",
+            "timestamp": 1665291006
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579091755559161857",
+            "content": "what part of canada ?",
+            "time": "22-10-09 12:49",
+            "timestamp": 1665290987
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [
+                8
+            ],
+            "user id": "RoRay1010",
+            "tweet id": "1579093012130705410",
+            "content": "quebec but i 've lived in many provinces !",
+            "time": "22-10-09 12:54",
+            "timestamp": 1665291286
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1579093576822423553",
+            "content": "ok cos i was in the service and trained in ontario years ago with joint forces of canadian army people were always nice to us also food was great ! ! !",
+            "time": "22-10-09 12:57",
+            "timestamp": 1665291421
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "RoRay1010",
+            "tweet id": "1579094163097886720",
+            "content": "that 's really nice ! yes i 've lived in ontario-oshawa , barrie , alliston and toronto",
+            "time": "22-10-09 12:59",
+            "timestamp": 1665291561
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "Tonyc67806241",
+            "tweet id": "1580167095559413766",
+            "content": "good morning",
+            "time": "22-10-12 12:02",
+            "timestamp": 1665547368
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "RoRay1010",
+            "tweet id": "1580202915268292614",
+            "content": "g'morning tony",
+            "time": "22-10-12 14:25",
+            "timestamp": 1665555908
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "Tonyc67806241",
+            "tweet id": "1580203330449481728",
+            "content": "hi",
+            "time": "22-10-12 14:26",
+            "timestamp": 1665556007
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "Lou__ize",
+            "tweet id": "1581421106439028736",
+            "content": "gotcha rosanne",
+            "time": "22-10-15 23:05",
+            "timestamp": 1665846347
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "RoRay1010",
+            "tweet id": "1581421486568796160",
+            "content": "thank you",
+            "time": "22-10-15 23:07",
+            "timestamp": 1665846438
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "Emilio63973825",
+            "tweet id": "1555926076504899588",
+            "content": "i love it !",
+            "time": "22-08-06 14:37",
+            "timestamp": 1659767859
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "mo45055896",
+            "tweet id": "1571636401237823488",
+            "content": "what a beautiful human",
+            "time": "22-09-18 23:04",
+            "timestamp": 1663513492
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "lovemoz1",
+            "tweet id": "1578819897802444802",
+            "content": "always #voteblueforsomanyreasons . father taught #history & a published #writers . i created 2 #naturepreserves most tweets are #abruptclimatechange & #covid19 & owned a #scuba facility #artgallery int'l #travelling before #pandemic lived in fp . #gsdlover #humor is critical !",
+            "time": "22-10-08 18:49",
+            "timestamp": 1665226171
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [
+                19
+            ],
+            "user id": "OBrienTBIS",
+            "tweet id": "1574120784469131266",
+            "content": "followed , fb ?",
+            "time": "22-09-25 19:36",
+            "timestamp": 1664105815
+        },
+        {
+            "comment id": 19,
+            "parent": 18,
+            "children": [],
+            "user id": "RoRay1010",
+            "tweet id": "1578174575556165633",
+            "content": "hi meg <@user> now following you",
+            "time": "22-10-07 00:05",
+            "timestamp": 1665072314
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "VoteBlue25",
+            "tweet id": "1581345173984153601",
+            "content": "rosanne ( ro ) <@user> i just followed you blue friend . i would really appreciate a follow back . let 's all unite to defeat the trump maga republicons .",
+            "time": "22-10-15 18:04",
+            "timestamp": 1665828244
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "RoRay1010",
+            "tweet id": "1581370931129495552",
+            "content": "gotcha",
+            "time": "22-10-15 19:46",
+            "timestamp": 1665834385
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "thomastime04",
+            "tweet id": "1571157485242978305",
+            "content": "make a plan to vote . help other do the same . pick one house race that is winnable outside your district , and support it . vote blue up and down the ticket . thanks for the follow . enjoy your day . an ounce of action is worth a pound of intention !",
+            "time": "22-09-17 15:21",
+            "timestamp": 1663399309
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.2019778686364786e-15,
+            0.025602132081985474,
+            0.03620688244700432,
+            0.025602132081985474,
+            0.025602132081985474,
+            0.03620688244700432,
+            0.025602132081985474,
+            0.3702831268310547,
+            0.5991306900978088,
+            0.5991306900978088,
+            0.3702831268310547,
+            0.025602132081985474,
+            0.03620688244700432,
+            0.025602132081985474,
+            4.129964509047568e-05,
+            4.129964509047568e-05,
+            1.2019778686364786e-15,
+            1.2019778686364786e-15,
+            1.2019778686364786e-15,
+            4.129964509047568e-05,
+            4.129964509047568e-05,
+            4.129964509047568e-05,
+            4.129964509047568e-05,
+            1.2019778686364786e-15
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.003952569328248501,
+            0.003952569328248501,
+            1.0000000168623835e-16,
+            0.003952569328248501,
+            0.003952569328248501,
+            1.0000000168623835e-16,
+            0.005928853526711464,
+            0.007905138656497002,
+            0.005928853526711464,
+            1.0000000168623835e-16,
+            0.003952569328248501,
+            0.003952569328248501,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

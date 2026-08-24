@@ -1,0 +1,297 @@
+{
+    "source": {
+        "content": "ve düşlerin sonsuz bir boşluktayken , bir sigara yakıyorsun , tutuşuyor sular ... __ahmet telli ..",
+        "time": "22-07-30 16:08",
+        "timestamp": 1659168539,
+        "tweet url": "https://twitter.com/Smyrna_Dnz/status/1553412348169297921",
+        "user id": "Smyrna_Dnz",
+        "tweet id": "1553412348169297921",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "Che_guevara_3",
+            "tweet id": "1553412678747652099",
+            "content": "akşamın esen olsun deniz",
+            "time": "22-07-30 16:10",
+            "timestamp": 1659168618
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553413238943006722",
+            "content": "mutlu akşamlar emir",
+            "time": "22-07-30 16:12",
+            "timestamp": 1659168751
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "Zuhalim_Yrn",
+            "tweet id": "1553474931551264770",
+            "content": "huzurlu geceler canım",
+            "time": "22-07-30 20:17",
+            "timestamp": 1659183460
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553476648883953664",
+            "content": "huzurlu geceler canım",
+            "time": "22-07-30 20:24",
+            "timestamp": 1659183869
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "SerdarAtacn",
+            "tweet id": "1553508567893917697",
+            "content": "i̇yi geceler deniz",
+            "time": "22-07-30 22:31",
+            "timestamp": 1659191480
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553509518109298695",
+            "content": "i̇yi geceler serdar",
+            "time": "22-07-30 22:35",
+            "timestamp": 1659191706
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "Suat3572",
+            "tweet id": "1553438049886945281",
+            "content": "huzurlu akşamlar deni̇z hanım",
+            "time": "22-07-30 17:51",
+            "timestamp": 1659174667
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553440965410656259",
+            "content": "mutlu akşamlar suat bey",
+            "time": "22-07-30 18:02",
+            "timestamp": 1659175362
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "Tolga_Ksk_Ask",
+            "tweet id": "1553421545921548288",
+            "content": "keyifle olsun akşamın denizcim",
+            "time": "22-07-30 16:45",
+            "timestamp": 1659170732
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553427160572071937",
+            "content": "i̇yi akşamlar tolga",
+            "time": "22-07-30 17:07",
+            "timestamp": 1659172071
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11
+            ],
+            "user id": "Tlysybr",
+            "tweet id": "1553449680637464580",
+            "content": "güzel bir akşam olsun deniz'cim",
+            "time": "22-07-30 18:37",
+            "timestamp": 1659177440
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553450454713094144",
+            "content": "güzel geçsin akşamın tülaycım",
+            "time": "22-07-30 18:40",
+            "timestamp": 1659177624
+        },
+        {
+            "comment id": 12,
+            "parent": -1,
+            "children": [
+                13
+            ],
+            "user id": "Alii_babaa_24",
+            "tweet id": "1553436023962615808",
+            "content": "mutlu akşamlar",
+            "time": "22-07-30 17:43",
+            "timestamp": 1659174184
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553437208022986752",
+            "content": "mutlu akşamlar",
+            "time": "22-07-30 17:47",
+            "timestamp": 1659174466
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [
+                15
+            ],
+            "user id": "hafizecesur3551",
+            "tweet id": "1553416739421126657",
+            "content": "i̇yi akşamlar",
+            "time": "22-07-30 16:26",
+            "timestamp": 1659169586
+        },
+        {
+            "comment id": 15,
+            "parent": 14,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553416930790440960",
+            "content": "i̇yi akşamlar hafize",
+            "time": "22-07-30 16:27",
+            "timestamp": 1659169632
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [
+                17
+            ],
+            "user id": "Dulaaay1881__",
+            "tweet id": "1553413297805967363",
+            "content": "mutlu akşamlar denizcim",
+            "time": "22-07-30 16:12",
+            "timestamp": 1659168765
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "Smyrna_Dnz",
+            "tweet id": "1553413754083328003",
+            "content": "mutlu akşamlar tülaycım",
+            "time": "22-07-30 16:14",
+            "timestamp": 1659168874
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            0.014729793183505535,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856,
+            0.23567669093608856
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16,
+            0.003267973894253373,
+            1.0000000168623835e-16
+        ]
+    }
+}

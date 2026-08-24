@@ -1,0 +1,340 @@
+{
+    "source": {
+        "content": "no add-ons <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+        "time": "22-04-16 09:55",
+        "timestamp": 1650074146,
+        "tweet url": "https://twitter.com/DJ_Bman_/status/1515267699001208833",
+        "user id": "DJ_Bman_",
+        "tweet id": "1515267699001208833",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "yoksig",
+            "tweet id": "1515271541029687298",
+            "content": "/ thank you for including me ! #strongertogether",
+            "time": "22-04-16 10:11",
+            "timestamp": 1650075062
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "DJ_Bman_",
+            "tweet id": "1515272128014209027",
+            "content": "you 're very welcome my friend !",
+            "time": "22-04-16 10:13",
+            "timestamp": 1650075202
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [
+                3
+            ],
+            "user id": "SugarDonaghy",
+            "tweet id": "1515283892244291588",
+            "content": "good morning , bman <@user> thank you bro",
+            "time": "22-04-16 11:00",
+            "timestamp": 1650078007
+        },
+        {
+            "comment id": 3,
+            "parent": 2,
+            "children": [],
+            "user id": "DJ_Bman_",
+            "tweet id": "1515313959749967875",
+            "content": "you 're very welcome sb !",
+            "time": "22-04-16 12:59",
+            "timestamp": 1650085175
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [
+                5
+            ],
+            "user id": "yoksig",
+            "tweet id": "1515300314001272834",
+            "content": "/ thank you for including me ! #strongertogether",
+            "time": "22-04-16 12:05",
+            "timestamp": 1650081922
+        },
+        {
+            "comment id": 5,
+            "parent": 4,
+            "children": [],
+            "user id": "DJ_Bman_",
+            "tweet id": "1515349646562021377",
+            "content": "you 're very welcome my friend !",
+            "time": "22-04-16 15:21",
+            "timestamp": 1650093684
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [
+                7
+            ],
+            "user id": "BourgeoisCath13",
+            "tweet id": "1515310395174662150",
+            "content": "thank you bman have a nice day",
+            "time": "22-04-16 12:45",
+            "timestamp": 1650084325
+        },
+        {
+            "comment id": 7,
+            "parent": 6,
+            "children": [],
+            "user id": "DJ_Bman_",
+            "tweet id": "1515313873452208131",
+            "content": "you 're welcome cat !",
+            "time": "22-04-16 12:59",
+            "timestamp": 1650085155
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [
+                9
+            ],
+            "user id": "GizmosSpace",
+            "tweet id": "1515311409537507332",
+            "content": "thank you for including me with all these awesome people . i hope everyone has an enjoyable weekend .",
+            "time": "22-04-16 12:49",
+            "timestamp": 1650084567
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "DJ_Bman_",
+            "tweet id": "1515313369833746436",
+            "content": "you 're welcome jason !",
+            "time": "22-04-16 12:57",
+            "timestamp": 1650085035
+        },
+        {
+            "comment id": 10,
+            "parent": -1,
+            "children": [
+                11,
+                12
+            ],
+            "user id": "BrenSumner",
+            "tweet id": "1515318199264362502",
+            "content": "thanks so much my sweet brother . happy weekend everyone !",
+            "time": "22-04-16 13:16",
+            "timestamp": 1650086186
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [],
+            "user id": "DJ_Bman_",
+            "tweet id": "1515336809793961984",
+            "content": "you 're welcome sis !",
+            "time": "22-04-16 14:30",
+            "timestamp": 1650090623
+        },
+        {
+            "comment id": 12,
+            "parent": 10,
+            "children": [
+                13
+            ],
+            "user id": "JstnGreen1",
+            "tweet id": "1515527605948088331",
+            "content": "hi bren . miss you . doing ok ?",
+            "time": "22-04-17 03:08",
+            "timestamp": 1650136113
+        },
+        {
+            "comment id": 13,
+            "parent": 12,
+            "children": [
+                14
+            ],
+            "user id": "BrenSumner",
+            "tweet id": "1515539106369089537",
+            "content": "jstn ! hey there . miss seeing you too . i know you 're busy though . i 'm doing great . been busy as well , and not on as much . always good seeing you .",
+            "time": "22-04-17 03:54",
+            "timestamp": 1650138854
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "JstnGreen1",
+            "tweet id": "1515542523032211462",
+            "content": "we did another rally last week . local media is really dropping the ball , though . i did one of my best interviews yet , but they did n't air it because it was in english and it was telemundo ( the only one who showed up )",
+            "time": "22-04-17 04:07",
+            "timestamp": 1650139669
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [],
+            "user id": "jensdad4biden",
+            "tweet id": "1559554508853854210",
+            "content": "good morning bman , thanks for your kind mention . have a great day my friend .",
+            "time": "22-08-16 14:55",
+            "timestamp": 1660632944
+        },
+        {
+            "comment id": 16,
+            "parent": -1,
+            "children": [],
+            "user id": "jensdad4biden",
+            "tweet id": "1588892428726984704",
+            "content": "good saturday morming dbman and thank you for including me in this fine list . have a lovely weekend .",
+            "time": "22-11-05 13:54",
+            "timestamp": 1667627649
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "jensdad4biden",
+            "tweet id": "1592384066049179648",
+            "content": "thank you bman for the kind mention . i appreciate you including me .",
+            "time": "22-11-15 05:08",
+            "timestamp": 1668460121
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "yoksig",
+            "tweet id": "1533063785610481664",
+            "content": "/ june 4th remember #tiananmen ! ! /",
+            "time": "22-06-04 12:31",
+            "timestamp": 1654317064
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "yoksig",
+            "tweet id": "1541919591453995008",
+            "content": "/ should the united states indict donald #trump ? to charge or not to charge , that is the question . #votebluetosavedemocracy #strongertogether !",
+            "time": "22-06-28 23:00",
+            "timestamp": 1656428452
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "jensdad4biden",
+            "tweet id": "1541979503412510720",
+            "content": "he should absolutely be charged . he needs to be locked away for good !",
+            "time": "22-06-29 02:58",
+            "timestamp": 1656442736
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.0001349067606497556,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.3159308309695916e-07,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.004312042146921158,
+            0.49994421005249023,
+            0.2886429727077484,
+            0.5772858262062073,
+            0.49994421005249023,
+            0.2886429727077484,
+            1.3159308309695916e-07,
+            1.3159308309695916e-07,
+            1.3159308309695916e-07,
+            1.3159308309695916e-07,
+            0.004312042146921158,
+            0.004312042146921158
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16,
+            0.009523809887468815,
+            1.0000000168623835e-16,
+            0.009523809887468815,
+            0.0071428571827709675,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0023809524718672037,
+            1.0000000168623835e-16
+        ]
+    }
+}

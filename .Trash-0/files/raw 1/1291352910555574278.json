@@ -1,0 +1,727 @@
+{
+    "source": {
+        "content": "note that we 're locked up over the next year",
+        "time": "20-08-06 12:38",
+        "timestamp": 1596688700,
+        "tweet url": "https://twitter.com/SBF_FTX/status/1291352910555574278",
+        "user id": "SBF_FTX",
+        "tweet id": "1291352910555574278",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "0xClandestine",
+            "tweet id": "1602497650997305344",
+            "content": "this aged well",
+            "time": "22-12-13 02:56",
+            "timestamp": 1670871387
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "user id": "alex_valaitis",
+            "tweet id": "1602496623015239680",
+            "content": "noted .",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871142
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "failcoin",
+            "tweet id": "1602499685717266432",
+            "content": "i think he meant 100 years",
+            "time": "22-12-13 03:04",
+            "timestamp": 1670871872
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "user id": "Screech_Power",
+            "tweet id": "1602501382908649473",
+            "content": "lol savage",
+            "time": "22-12-13 03:11",
+            "timestamp": 1670872277
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "UnterseeS",
+            "tweet id": "1602497362601332736",
+            "content": "<@user>",
+            "time": "22-12-13 02:55",
+            "timestamp": 1670871318
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "FadedAlpha_",
+            "tweet id": "1602497547414773760",
+            "content": "banger",
+            "time": "22-12-13 02:56",
+            "timestamp": 1670871362
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "SincereDoge",
+            "tweet id": "1602498121548075010",
+            "content": "hehe",
+            "time": "22-12-13 02:58",
+            "timestamp": 1670871499
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "ekrii3",
+            "tweet id": "1602498158281441280",
+            "content": "grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy",
+            "time": "22-12-13 02:58",
+            "timestamp": 1670871508
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "DA19800",
+            "tweet id": "1602496630569070592",
+            "content": "only one",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871144
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "VickWowo",
+            "tweet id": "1602496656616087552",
+            "content": "lol , chill foobar",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871150
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "Loxley_eth",
+            "tweet id": "1602498216896958465",
+            "content": "lmao <@user> killing it",
+            "time": "22-12-13 02:58",
+            "timestamp": 1670871522
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "VickWowo",
+            "tweet id": "1602498694288666625",
+            "content": "digging into the archives",
+            "time": "22-12-13 03:00",
+            "timestamp": 1670871636
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "Loxley_eth",
+            "tweet id": "1602498835783327744",
+            "content": "it 's a level of ingenuity and dedication that i simply do not have",
+            "time": "22-12-13 03:01",
+            "timestamp": 1670871670
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "TylerLittlejo12",
+            "tweet id": "1602496791555223552",
+            "content": "if it was me it 'd be done long ago man .",
+            "time": "22-12-13 02:53",
+            "timestamp": 1670871182
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "SDwSniper",
+            "tweet id": "1602496683031629825",
+            "content": "<@user> new",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871156
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "skrari4",
+            "tweet id": "1602497011886231555",
+            "content": "lololololololollll",
+            "time": "22-12-13 02:53",
+            "timestamp": 1670871235
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "AsianPaulRevere",
+            "tweet id": "1602499954777690112",
+            "content": "aged like some good cheese",
+            "time": "22-12-13 03:05",
+            "timestamp": 1670871936
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "totdgbtagb",
+            "tweet id": "1602496758520627203",
+            "content": "a year and some months off , but you were close !",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871174
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "cryptoitalia_io",
+            "tweet id": "1602497873563815937",
+            "content": "at least on it he was right",
+            "time": "22-12-13 02:57",
+            "timestamp": 1670871440
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "CryptoJamesG",
+            "tweet id": "1602497006408196097",
+            "content": "lmao .",
+            "time": "22-12-13 02:53",
+            "timestamp": 1670871233
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "spyflips",
+            "tweet id": "1602496732583153666",
+            "content": "1 like = 1 year in jail",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871168
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "CManny72_",
+            "tweet id": "1602497831415451649",
+            "content": "how do we send letters to him in jail ? ! ? !",
+            "time": "22-12-13 02:57",
+            "timestamp": 1670871430
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "Mizkif2",
+            "tweet id": "1602496723926016000",
+            "content": "just two and half years early",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871166
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.08796578645706177,
+            0.06220120191574097,
+            0.06220120191574097,
+            4.741891601600656e-11,
+            0.0007955573964864016,
+            0.0007955573964864016,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.36885952949523926,
+            0.5968272686004639,
+            0.5968272686004639,
+            0.36885952949523926,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.0007955573964864016,
+            0.0007955573964864016,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.0007955573964864016,
+            0.0007955573964864016,
+            4.741891601600656e-11
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.003952569328248501,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005928853526711464,
+            0.007905138656497002,
+            0.005928853526711464,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}{
+    "source": {
+        "content": "note that we 're locked up over the next year",
+        "time": "20-08-06 12:38",
+        "timestamp": 1596688700,
+        "tweet url": "https://twitter.com/SBF_FTX/status/1291352910555574278",
+        "user id": "SBF_FTX",
+        "tweet id": "1291352910555574278",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "0xClandestine",
+            "tweet id": "1602497650997305344",
+            "content": "this aged well",
+            "time": "22-12-13 02:56",
+            "timestamp": 1670871387
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2,
+                3
+            ],
+            "user id": "alex_valaitis",
+            "tweet id": "1602496623015239680",
+            "content": "noted .",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871142
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "failcoin",
+            "tweet id": "1602499685717266432",
+            "content": "i think he meant 100 years",
+            "time": "22-12-13 03:04",
+            "timestamp": 1670871872
+        },
+        {
+            "comment id": 3,
+            "parent": 1,
+            "children": [],
+            "user id": "Screech_Power",
+            "tweet id": "1602501382908649473",
+            "content": "lol savage",
+            "time": "22-12-13 03:11",
+            "timestamp": 1670872277
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "UnterseeS",
+            "tweet id": "1602497362601332736",
+            "content": "<@user>",
+            "time": "22-12-13 02:55",
+            "timestamp": 1670871318
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "FadedAlpha_",
+            "tweet id": "1602497547414773760",
+            "content": "banger",
+            "time": "22-12-13 02:56",
+            "timestamp": 1670871362
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "SincereDoge",
+            "tweet id": "1602498121548075010",
+            "content": "hehe",
+            "time": "22-12-13 02:58",
+            "timestamp": 1670871499
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [],
+            "user id": "ekrii3",
+            "tweet id": "1602498158281441280",
+            "content": "grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy grippy",
+            "time": "22-12-13 02:58",
+            "timestamp": 1670871508
+        },
+        {
+            "comment id": 8,
+            "parent": -1,
+            "children": [],
+            "user id": "DA19800",
+            "tweet id": "1602496630569070592",
+            "content": "only one",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871144
+        },
+        {
+            "comment id": 9,
+            "parent": -1,
+            "children": [
+                10
+            ],
+            "user id": "VickWowo",
+            "tweet id": "1602496656616087552",
+            "content": "lol , chill foobar",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871150
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [
+                11
+            ],
+            "user id": "Loxley_eth",
+            "tweet id": "1602498216896958465",
+            "content": "lmao <@user> killing it",
+            "time": "22-12-13 02:58",
+            "timestamp": 1670871522
+        },
+        {
+            "comment id": 11,
+            "parent": 10,
+            "children": [
+                12
+            ],
+            "user id": "VickWowo",
+            "tweet id": "1602498694288666625",
+            "content": "digging into the archives",
+            "time": "22-12-13 03:00",
+            "timestamp": 1670871636
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "Loxley_eth",
+            "tweet id": "1602498835783327744",
+            "content": "it 's a level of ingenuity and dedication that i simply do not have",
+            "time": "22-12-13 03:01",
+            "timestamp": 1670871670
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [],
+            "user id": "TylerLittlejo12",
+            "tweet id": "1602496791555223552",
+            "content": "if it was me it 'd be done long ago man .",
+            "time": "22-12-13 02:53",
+            "timestamp": 1670871182
+        },
+        {
+            "comment id": 14,
+            "parent": -1,
+            "children": [],
+            "user id": "SDwSniper",
+            "tweet id": "1602496683031629825",
+            "content": "<@user> new",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871156
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "skrari4",
+            "tweet id": "1602497011886231555",
+            "content": "lololololololollll",
+            "time": "22-12-13 02:53",
+            "timestamp": 1670871235
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "AsianPaulRevere",
+            "tweet id": "1602499954777690112",
+            "content": "aged like some good cheese",
+            "time": "22-12-13 03:05",
+            "timestamp": 1670871936
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "totdgbtagb",
+            "tweet id": "1602496758520627203",
+            "content": "a year and some months off , but you were close !",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871174
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "cryptoitalia_io",
+            "tweet id": "1602497873563815937",
+            "content": "at least on it he was right",
+            "time": "22-12-13 02:57",
+            "timestamp": 1670871440
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "CryptoJamesG",
+            "tweet id": "1602497006408196097",
+            "content": "lmao .",
+            "time": "22-12-13 02:53",
+            "timestamp": 1670871233
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [
+                21
+            ],
+            "user id": "spyflips",
+            "tweet id": "1602496732583153666",
+            "content": "1 like = 1 year in jail",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871168
+        },
+        {
+            "comment id": 21,
+            "parent": 20,
+            "children": [],
+            "user id": "CManny72_",
+            "tweet id": "1602497831415451649",
+            "content": "how do we send letters to him in jail ? ! ? !",
+            "time": "22-12-13 02:57",
+            "timestamp": 1670871430
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "Mizkif2",
+            "tweet id": "1602496723926016000",
+            "content": "just two and half years early",
+            "time": "22-12-13 02:52",
+            "timestamp": 1670871166
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            6.593037937818735e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.08796578645706177,
+            0.06220120191574097,
+            0.06220120191574097,
+            4.741891601600656e-11,
+            0.0007955573964864016,
+            0.0007955573964864016,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.36885952949523926,
+            0.5968272686004639,
+            0.5968272686004639,
+            0.36885952949523926,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.0007955573964864016,
+            0.0007955573964864016,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            4.741891601600656e-11,
+            0.0007955573964864016,
+            0.0007955573964864016,
+            4.741891601600656e-11
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.003952569328248501,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.005928853526711464,
+            0.007905138656497002,
+            0.005928853526711464,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0019762846641242504,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

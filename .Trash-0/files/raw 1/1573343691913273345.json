@@ -1,0 +1,751 @@
+{
+    "source": {
+        "content": "every cat has at least 6 names , dems da rules",
+        "time": "22-09-23 16:09",
+        "timestamp": 1663920542,
+        "tweet url": "https://twitter.com/English_Channel/status/1573343691913273345",
+        "user id": "English_Channel",
+        "tweet id": "1573343691913273345",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573660865508827140",
+            "content": "#caturday #catsontwitter #catsoftwittter",
+            "time": "22-09-24 13:09",
+            "timestamp": 1663996162
+        },
+        {
+            "comment id": 1,
+            "parent": -1,
+            "children": [
+                2
+            ],
+            "user id": "laitie315",
+            "tweet id": "1573413895057948679",
+            "content": "let 's see ... sampson , sam , sammy , sambo , sambo nation , sweet boy , oh my god you 're right .",
+            "time": "22-09-23 20:47",
+            "timestamp": 1663937279
+        },
+        {
+            "comment id": 2,
+            "parent": 1,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573414149018861585",
+            "content": "sometimes more",
+            "time": "22-09-23 20:49",
+            "timestamp": 1663937340
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [
+                4
+            ],
+            "user id": "ForsettisCreed",
+            "tweet id": "1573426668538302465",
+            "content": "chitty , chitty chitty bang bang , wheez , chedda , po chi min , scampi , scampagawea ...",
+            "time": "22-09-23 21:38",
+            "timestamp": 1663940325
+        },
+        {
+            "comment id": 4,
+            "parent": 3,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573427581608955904",
+            "content": "whoa",
+            "time": "22-09-23 21:42",
+            "timestamp": 1663940542
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [
+                6
+            ],
+            "user id": "CarlaRbhscarla",
+            "tweet id": "1573657307111739392",
+            "content": "roxie , roxie-doo , roxanne , sweet gray , ms fish , fishstick .",
+            "time": "22-09-24 12:55",
+            "timestamp": 1663995313
+        },
+        {
+            "comment id": 6,
+            "parent": 5,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573659086373150722",
+            "content": "yep",
+            "time": "22-09-24 13:02",
+            "timestamp": 1663995738
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8
+            ],
+            "user id": "eleniZarro",
+            "tweet id": "1573812095962972174",
+            "content": "so do you english eh ec , wait that 's only 3",
+            "time": "22-09-24 23:10",
+            "timestamp": 1664032218
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "English_Channel",
+            "tweet id": "1573814007777067008",
+            "content": "english eh ec engy human hooman ( only used by <@user> )",
+            "time": "22-09-24 23:17",
+            "timestamp": 1664032674
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [
+                10
+            ],
+            "user id": "pantless_papple",
+            "tweet id": "1573815240319549440",
+            "content": "is true",
+            "time": "22-09-24 23:22",
+            "timestamp": 1664032968
+        },
+        {
+            "comment id": 10,
+            "parent": 9,
+            "children": [],
+            "user id": "eleniZarro",
+            "tweet id": "1573815582046265344",
+            "content": "who man",
+            "time": "22-09-24 23:24",
+            "timestamp": 1664033049
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "baby_maumau",
+            "tweet id": "1579134541759156225",
+            "content": "baby mau mau , mommy 's baby , little miss murder mittens , the mau , spoiled baby , miss meowington , queen of the “ mause . ”",
+            "time": "22-10-09 15:39",
+            "timestamp": 1665301188
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1579136247057944576",
+            "content": "told ya",
+            "time": "22-10-09 15:46",
+            "timestamp": 1665301594
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "WillowDarksong",
+            "tweet id": "1579137800774959104",
+            "content": "billy ; billy quattro ; biwwy ; baby man ; smooshie man ; what are you eating",
+            "time": "22-10-09 15:52",
+            "timestamp": 1665301965
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1579140332641718272",
+            "content": "told ya",
+            "time": "22-10-09 16:02",
+            "timestamp": 1665302568
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16
+            ],
+            "user id": "chargen",
+            "tweet id": "1573344699188146178",
+            "content": "savitri devi",
+            "time": "22-09-23 16:13",
+            "timestamp": 1663920782
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [],
+            "user id": "chargen",
+            "tweet id": "1575630921172389889",
+            "content": "not a fan",
+            "time": "22-09-29 23:37",
+            "timestamp": 1664465860
+        },
+        {
+            "comment id": 17,
+            "parent": -1,
+            "children": [],
+            "user id": "BretZar",
+            "tweet id": "1573345067884220417",
+            "content": "t s eliot wrote about that in the book of practical cats ( i think ) .",
+            "time": "22-09-23 16:14",
+            "timestamp": 1663920870
+        },
+        {
+            "comment id": 18,
+            "parent": -1,
+            "children": [],
+            "user id": "paminski",
+            "tweet id": "1573348191969640449",
+            "content": "checks out for baby girl / princess tinycat / x23 / vicious killer / dafne",
+            "time": "22-09-23 16:26",
+            "timestamp": 1663921615
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [],
+            "user id": "HadleyGenevieve",
+            "tweet id": "1573349387572596739",
+            "content": "my friends recently started calling my cat “ sheriff ” cuz they said he acts like he 's always on the night watch ...",
+            "time": "22-09-23 16:31",
+            "timestamp": 1663921900
+        },
+        {
+            "comment id": 20,
+            "parent": -1,
+            "children": [],
+            "user id": "MrDarcyDog",
+            "tweet id": "1573351588151844865",
+            "content": "i can't even remember the original name we gave ours",
+            "time": "22-09-23 16:40",
+            "timestamp": 1663922424
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "Jennygrads",
+            "tweet id": "1573377837066747906",
+            "content": "let 's see kevin is also called doorstop , bub , bubers , the boy , nope can only think of 5 right now . it kind of does n't matter what we call him though because he 's deaf",
+            "time": "22-09-23 18:24",
+            "timestamp": 1663928682
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [
+                23
+            ],
+            "user id": "EarthConcepts",
+            "tweet id": "1573384467280166912",
+            "content": "tsunami , sumi , sumi-beast , murder-cat , chicken-head , get-the-fuck-off-the-table totally agrees with you .",
+            "time": "22-09-23 18:51",
+            "timestamp": 1663930263
+        },
+        {
+            "comment id": 23,
+            "parent": 22,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573384802601996290",
+            "content": "lol",
+            "time": "22-09-23 18:52",
+            "timestamp": 1663930343
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "katSam93",
+            "tweet id": "1573415470715506690",
+            "content": "paunch de leon , senor deux treats , slim , cranky pants , pantaloonies .",
+            "time": "22-09-23 20:54",
+            "timestamp": 1663937655
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [
+                26
+            ],
+            "user id": "AuthorRKK",
+            "tweet id": "1573422049489735681",
+            "content": "u underestimate my cat naming abilities . solid dozen or gtfo !",
+            "time": "22-09-23 21:20",
+            "timestamp": 1663939224
+        },
+        {
+            "comment id": 26,
+            "parent": 25,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573422163235065857",
+            "content": "* name amounts may vary",
+            "time": "22-09-23 21:20",
+            "timestamp": 1663939251
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "2Clever4Clogs",
+            "tweet id": "1573432290688245760",
+            "content": "how many people have just unknowingly divulged their passwords ?",
+            "time": "22-09-23 22:01",
+            "timestamp": 1663941665
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "japecake",
+            "tweet id": "1573481786935545856",
+            "content": "two short , but still pretty good",
+            "time": "22-09-24 01:17",
+            "timestamp": 1663953466
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "Sprinkles_091",
+            "tweet id": "1573504420893138954",
+            "content": "pumpkin is her name . my pumpkin roll fuzzy ! kitty cranky old woman & baby girl .",
+            "time": "22-09-24 02:47",
+            "timestamp": 1663958862
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "MichaelLaRocca0",
+            "tweet id": "1573509724154347520",
+            "content": "sam big sam baby sam ( a throwback ) sweet sam ( a lie ) sammy sam tiger kitty khun mao ( it 's thai ) squirt leo boris ( a james herriot reference ) big silky lion kitty big sweet boy khun mao big handsome ( and god forbid i call one cat by the other cat 's name . they know ... )",
+            "time": "22-09-24 03:08",
+            "timestamp": 1663960127
+        },
+        {
+            "comment id": 31,
+            "parent": -1,
+            "children": [],
+            "user id": "napalmgod",
+            "tweet id": "1573638039141761026",
+            "content": "every cat has the same name .. it 's pronounced exactly the same as the sound a can opener makes when opening a can of tuna .",
+            "time": "22-09-24 11:38",
+            "timestamp": 1663990719
+        },
+        {
+            "comment id": 32,
+            "parent": -1,
+            "children": [
+                33
+            ],
+            "user id": "INSMNC2",
+            "tweet id": "1573660140343025665",
+            "content": "meet junior kittens mittens paws muffins maersk hoagie jr .",
+            "time": "22-09-24 13:06",
+            "timestamp": 1663995989
+        },
+        {
+            "comment id": 33,
+            "parent": 32,
+            "children": [],
+            "user id": "INSMNC2",
+            "tweet id": "1573660599514447878",
+            "content": "aka june bug , rj , the handsome prince , junie and mister kittens",
+            "time": "22-09-24 13:08",
+            "timestamp": 1663996098
+        },
+        {
+            "comment id": 34,
+            "parent": -1,
+            "children": [],
+            "user id": "CroneWitch_51",
+            "tweet id": "1573660720666918913",
+            "content": "can you imagine each of them having at least six names ? well imagine it , because they do !",
+            "time": "22-09-24 13:08",
+            "timestamp": 1663996127
+        },
+        {
+            "comment id": 35,
+            "parent": -1,
+            "children": [
+                36
+            ],
+            "user id": "KrummyKitty",
+            "tweet id": "1585079359320518656",
+            "content": "lenny leonard assface * dat boi * good boi * fuckerrrrrr",
+            "time": "22-10-26 01:22",
+            "timestamp": 1666718543
+        },
+        {
+            "comment id": 36,
+            "parent": 35,
+            "children": [
+                37
+            ],
+            "user id": "Mary1Kathy",
+            "tweet id": "1585080082074591234",
+            "content": "handsome no matter the name ! ! !",
+            "time": "22-10-26 01:25",
+            "timestamp": 1666718715
+        },
+        {
+            "comment id": 37,
+            "parent": 36,
+            "children": [],
+            "user id": "KrummyKitty",
+            "tweet id": "1585080348438065152",
+            "content": "yes he is ! <@user>",
+            "time": "22-10-26 01:26",
+            "timestamp": 1666718779
+        },
+        {
+            "comment id": 38,
+            "parent": -1,
+            "children": [
+                39
+            ],
+            "user id": "HUW1967",
+            "tweet id": "1573345809038544898",
+            "content": "ours are deprived ! one has only 2 - real name misty , only called kitten ! other one - real name jerry , called geraldine !",
+            "time": "22-09-23 16:17",
+            "timestamp": 1663921046
+        },
+        {
+            "comment id": 39,
+            "parent": 38,
+            "children": [
+                40
+            ],
+            "user id": "gingerrtwit",
+            "tweet id": "1573472900849758208",
+            "content": "what a psychopath !",
+            "time": "22-09-24 00:42",
+            "timestamp": 1663951347
+        },
+        {
+            "comment id": 40,
+            "parent": 39,
+            "children": [
+                41
+            ],
+            "user id": "English_Channel",
+            "tweet id": "1573474967848718336",
+            "content": "i know , i need 4 more by noon",
+            "time": "22-09-24 00:50",
+            "timestamp": 1663951840
+        },
+        {
+            "comment id": 41,
+            "parent": 40,
+            "children": [],
+            "user id": "gingerrtwit",
+            "tweet id": "1573493943224143872",
+            "content": "you tell her !",
+            "time": "22-09-24 02:06",
+            "timestamp": 1663956364
+        },
+        {
+            "comment id": 42,
+            "parent": -1,
+            "children": [
+                43
+            ],
+            "user id": "lesleyeagan",
+            "tweet id": "1573356121737547776",
+            "content": "ha ha <@user> this is so true . brian is lardo , chonkalonk , gutso & bonny lad . lizzie is mrs pump & slinky mallinky .",
+            "time": "22-09-23 16:58",
+            "timestamp": 1663923505
+        },
+        {
+            "comment id": 43,
+            "parent": 42,
+            "children": [],
+            "user id": "lorrers",
+            "tweet id": "1573398436371918848",
+            "content": "dolly is chonky , dolly six boobs , smelly belly and boo boo",
+            "time": "22-09-23 19:46",
+            "timestamp": 1663933594
+        },
+        {
+            "comment id": 44,
+            "parent": -1,
+            "children": [],
+            "user id": "Leo86933732",
+            "tweet id": "1573358063511535616",
+            "content": "devils food ...",
+            "time": "22-09-23 17:06",
+            "timestamp": 1663923968
+        },
+        {
+            "comment id": 45,
+            "parent": -1,
+            "children": [
+                46
+            ],
+            "user id": "RayyyychAgainra",
+            "tweet id": "1573660024127488001",
+            "content": "max aka maxine , maxi taxi , maximus , old dog , good boy ..",
+            "time": "22-09-24 13:06",
+            "timestamp": 1663995961
+        },
+        {
+            "comment id": 46,
+            "parent": 45,
+            "children": [],
+            "user id": "English_Channel",
+            "tweet id": "1573660466978738177",
+            "content": "prime example",
+            "time": "22-09-24 13:07",
+            "timestamp": 1663996067
+        },
+        {
+            "comment id": 47,
+            "parent": -1,
+            "children": [],
+            "user id": "PeterDo92485262",
+            "tweet id": "1573347845356265472",
+            "content": "puss puss puss c # # ty t * ^ # t fluck",
+            "time": "22-09-23 16:25",
+            "timestamp": 1663921532
+        },
+        {
+            "comment id": 48,
+            "parent": -1,
+            "children": [],
+            "user id": "TheVoodooQueen",
+            "tweet id": "1573424519108231168",
+            "content": "does that include the secret ones us hooms have no knowledge of ? i think not .",
+            "time": "22-09-23 21:30",
+            "timestamp": 1663939812
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            1.0,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            0.00013458001194521785,
+            8.665136192576028e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.2601524889469147,
+            0.42093557119369507,
+            0.42093557119369507,
+            0.2601524889469147,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            0.002822995651513338,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            0.002822995651513338,
+            0.002822995651513338,
+            1.0768873792699196e-08,
+            0.002822995651513338,
+            0.002822995651513338,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08,
+            0.002822995651513338,
+            0.002822995651513338,
+            1.0768873792699196e-08,
+            0.07134496420621872,
+            0.10089701414108276,
+            0.07134496420621872,
+            0.2601524889469147,
+            0.42093557119369507,
+            0.42093557119369507,
+            0.2601524889469147,
+            0.002822995651513338,
+            0.002822995651513338,
+            1.0768873792699196e-08,
+            0.002822995651513338,
+            0.002822995651513338,
+            1.0768873792699196e-08,
+            1.0768873792699196e-08
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            0.0012755101779475808,
+            0.001700680237263441,
+            0.0012755101779475808,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0008503401186317205,
+            0.0008503401186317205,
+            1.0000000168623835e-16,
+            0.0012755101779475808,
+            0.001700680237263441,
+            0.0012755101779475808,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.00042517005931586027,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}

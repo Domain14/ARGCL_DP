@@ -1,0 +1,479 @@
+{
+    "source": {
+        "content": "happy tuesday , dear friends ! i hope you are fine ! bonne journée ! #tuesdaymotivation #mardi #dienstag #felizmartes",
+        "time": "18-09-25 08:15",
+        "timestamp": 1537834520,
+        "tweet url": "https://twitter.com/o_franco_aleman/status/1044500586861916160",
+        "user id": "o_franco_aleman",
+        "tweet id": "1044500586861916160",
+        "theme": "No theme"
+    },
+    "comment": [
+        {
+            "comment id": 0,
+            "parent": -1,
+            "children": [
+                1
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1044856119456346112",
+            "content": "thank you ! <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "18-09-26 07:48",
+            "timestamp": 1537919286
+        },
+        {
+            "comment id": 1,
+            "parent": 0,
+            "children": [],
+            "user id": "hoda_hodazsaleh",
+            "tweet id": "1044899084975439873",
+            "content": "bonne journée tout le monde",
+            "time": "18-09-26 10:38",
+            "timestamp": 1537929529
+        },
+        {
+            "comment id": 2,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1044857371066060802",
+            "content": "thank you very much ! <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "18-09-26 07:53",
+            "timestamp": 1537919584
+        },
+        {
+            "comment id": 3,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1059727730403655682",
+            "content": "thank you ! <@user>",
+            "time": "18-11-06 08:42",
+            "timestamp": 1541464954
+        },
+        {
+            "comment id": 4,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1064809624593997824",
+            "content": "thank you ! have a great day ! <@user>",
+            "time": "18-11-20 09:16",
+            "timestamp": 1542676572
+        },
+        {
+            "comment id": 5,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1064810135477002240",
+            "content": "thank you ! <@user>",
+            "time": "18-11-20 09:18",
+            "timestamp": 1542676694
+        },
+        {
+            "comment id": 6,
+            "parent": -1,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1064909636992737281",
+            "content": "<@user>",
+            "time": "18-11-20 15:53",
+            "timestamp": 1542700417
+        },
+        {
+            "comment id": 7,
+            "parent": -1,
+            "children": [
+                8,
+                10
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1045713379560751104",
+            "content": "thank you very much ! <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "18-09-28 16:34",
+            "timestamp": 1538123672
+        },
+        {
+            "comment id": 8,
+            "parent": 7,
+            "children": [
+                9
+            ],
+            "user id": "KandutschP",
+            "tweet id": "1045715154980286465",
+            "content": "happy weekend franck and all",
+            "time": "18-09-28 16:41",
+            "timestamp": 1538124096
+        },
+        {
+            "comment id": 9,
+            "parent": 8,
+            "children": [],
+            "user id": "L_AQUARELLISTE",
+            "tweet id": "1045718653956751360",
+            "content": "and to you",
+            "time": "18-09-28 16:55",
+            "timestamp": 1538124930
+        },
+        {
+            "comment id": 10,
+            "parent": 7,
+            "children": [],
+            "user id": "L_AQUARELLISTE",
+            "tweet id": "1045718812547592193",
+            "content": "thank you , and also to you",
+            "time": "18-09-28 16:56",
+            "timestamp": 1538124968
+        },
+        {
+            "comment id": 11,
+            "parent": -1,
+            "children": [
+                12
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1044857452167143426",
+            "content": "thank you ! have a great day ! <@user> <@user>",
+            "time": "18-09-26 07:53",
+            "timestamp": 1537919603
+        },
+        {
+            "comment id": 12,
+            "parent": 11,
+            "children": [],
+            "user id": "Rivin84452214",
+            "tweet id": "1044878025542782976",
+            "content": "you too",
+            "time": "18-09-26 09:15",
+            "timestamp": 1537924508
+        },
+        {
+            "comment id": 13,
+            "parent": -1,
+            "children": [
+                14
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1044856413355474946",
+            "content": "thank you ! happy wednesday ! <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user> <@user>",
+            "time": "18-09-26 07:49",
+            "timestamp": 1537919356
+        },
+        {
+            "comment id": 14,
+            "parent": 13,
+            "children": [],
+            "user id": "TimoBeil_",
+            "tweet id": "1044941768804978690",
+            "content": "happy wednesday , franck . you are always welcome .",
+            "time": "18-09-26 13:28",
+            "timestamp": 1537939706
+        },
+        {
+            "comment id": 15,
+            "parent": -1,
+            "children": [
+                16,
+                18
+            ],
+            "user id": "o_franco_aleman",
+            "tweet id": "1064802646215798785",
+            "content": "thank you ! have a great day ! <@user> <@user> <@user>",
+            "time": "18-11-20 08:48",
+            "timestamp": 1542674908
+        },
+        {
+            "comment id": 16,
+            "parent": 15,
+            "children": [
+                17
+            ],
+            "user id": "normawright43",
+            "tweet id": "1064817747006291968",
+            "content": "good morning franck .. hope your tuesday is happy . ! !",
+            "time": "18-11-20 09:48",
+            "timestamp": 1542678508
+        },
+        {
+            "comment id": 17,
+            "parent": 16,
+            "children": [],
+            "user id": "taliartwork",
+            "tweet id": "1065096668276760577",
+            "content": "you are very welcome ! ! ! great to share ! ! after rainy tuesday i hope wednesday be sunny tali",
+            "time": "18-11-21 04:16",
+            "timestamp": 1542745008
+        },
+        {
+            "comment id": 18,
+            "parent": 15,
+            "children": [],
+            "user id": "taliartwork",
+            "tweet id": "1065097614499168258",
+            "content": "you too mark ! ! !",
+            "time": "18-11-21 04:20",
+            "timestamp": 1542745234
+        },
+        {
+            "comment id": 19,
+            "parent": -1,
+            "children": [
+                20
+            ],
+            "user id": "normawright43",
+            "tweet id": "1059729570449014784",
+            "content": "good morning franck .. happy tuesday to you .. hope you enjoy you 're day . x",
+            "time": "18-11-06 08:49",
+            "timestamp": 1541465393
+        },
+        {
+            "comment id": 20,
+            "parent": 19,
+            "children": [],
+            "user id": "o_franco_aleman",
+            "tweet id": "1059732351339638784",
+            "content": "good morning ! happy tuesday to you too !",
+            "time": "18-11-06 09:00",
+            "timestamp": 1541466056
+        },
+        {
+            "comment id": 21,
+            "parent": -1,
+            "children": [],
+            "user id": "rosariogonzalez",
+            "tweet id": "1044788716890394626",
+            "content": "happy day ! ! !",
+            "time": "18-09-26 03:20",
+            "timestamp": 1537903215
+        },
+        {
+            "comment id": 22,
+            "parent": -1,
+            "children": [],
+            "user id": "BrownieJohnston",
+            "tweet id": "1044666976600240128",
+            "content": "bonsoir , franck .",
+            "time": "18-09-25 19:16",
+            "timestamp": 1537874190
+        },
+        {
+            "comment id": 23,
+            "parent": -1,
+            "children": [],
+            "user id": "antorosty",
+            "tweet id": "1044555841855213568",
+            "content": "bonne journée à toi aussi franck",
+            "time": "18-09-25 11:54",
+            "timestamp": 1537847694
+        },
+        {
+            "comment id": 24,
+            "parent": -1,
+            "children": [],
+            "user id": "antorosty",
+            "tweet id": "1044932099566915584",
+            "content": "bien sûr c'est mon anniversaire aujourd'hui",
+            "time": "18-09-26 12:50",
+            "timestamp": 1537937401
+        },
+        {
+            "comment id": 25,
+            "parent": -1,
+            "children": [],
+            "user id": "KondVera",
+            "tweet id": "1044516378190000129",
+            "content": "bonne journee !",
+            "time": "18-09-25 09:18",
+            "timestamp": 1537838285
+        },
+        {
+            "comment id": 26,
+            "parent": -1,
+            "children": [],
+            "user id": "hoda_hodazsaleh",
+            "tweet id": "1044572497117683716",
+            "content": "happy tuesday dear . how 's life treating you",
+            "time": "18-09-25 13:01",
+            "timestamp": 1537851665
+        },
+        {
+            "comment id": 27,
+            "parent": -1,
+            "children": [],
+            "user id": "Francine59300",
+            "tweet id": "1044550617220468736",
+            "content": "les lumières et les couleurs de l'automne sont un merveilleux spectacle des yeux pour les amoureux de la nature bonne journée à tous . amitiés",
+            "time": "18-09-25 11:34",
+            "timestamp": 1537846448
+        },
+        {
+            "comment id": 28,
+            "parent": -1,
+            "children": [],
+            "user id": "berclazm",
+            "tweet id": "1044509099222859776",
+            "content": "thank you franck",
+            "time": "18-09-25 08:49",
+            "timestamp": 1537836549
+        },
+        {
+            "comment id": 29,
+            "parent": -1,
+            "children": [],
+            "user id": "navanan3",
+            "tweet id": "1044501348383956996",
+            "content": "happy tuesday for you also dear friend !",
+            "time": "18-09-25 08:18",
+            "timestamp": 1537834702
+        },
+        {
+            "comment id": 30,
+            "parent": -1,
+            "children": [],
+            "user id": "yubartina",
+            "tweet id": "1044550662892204032",
+            "content": "i an not fine but i keep going",
+            "time": "18-09-25 11:34",
+            "timestamp": 1537846459
+        }
+    ],
+    "centrality": {
+        "Degree": [
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            2.0,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            1.0,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09,
+            9.99999993922529e-09
+        ],
+        "Pagerank": [
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            8.991904905997217e-06,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            3.3253516562581353e-07,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09,
+            5.7665059394196305e-09
+        ],
+        "Eigenvector": [
+            1.3376536571740871e-06,
+            0.010958058759570122,
+            0.010958058759570122,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            0.4251210689544678,
+            0.4251210689544678,
+            0.26273927092552185,
+            0.26273927092552185,
+            0.010958058759570122,
+            0.010958058759570122,
+            0.010958058759570122,
+            0.010958058759570122,
+            0.4251210689544678,
+            0.4251210689544678,
+            0.26273927092552185,
+            0.26273927092552185,
+            0.010958058759570122,
+            0.010958058759570122,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06,
+            1.3376536571740871e-06
+        ],
+        "Betweenness": [
+            1.0000000168623835e-16,
+            0.0010752688394859433,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.003225806402042508,
+            0.0021505376789718866,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0010752688394859433,
+            1.0000000168623835e-16,
+            0.0010752688394859433,
+            1.0000000168623835e-16,
+            0.003225806402042508,
+            0.0021505376789718866,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            0.0010752688394859433,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16,
+            1.0000000168623835e-16
+        ]
+    }
+}
